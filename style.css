@@ -59,6 +59,16 @@ button {
   margin-top: 20px;
 }
 
+/* Restart button */
+.restart-btn {
+  padding: 10px 20px;
+  border: none;
+  background: #0b2c5f;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 /* Footer Styling */
 .footer {
   text-align: center;
