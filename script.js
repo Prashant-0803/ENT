@@ -6,6 +6,7 @@ let attempted = 0;
 let correctCount = 0;
 let wrongCount = 0;
 
+// store wrong questions with full options + user choice
 let wrongQuestions = [];
 
 fetch("questions.json")
@@ -43,6 +44,7 @@ function check(index, el) {
   const correct = 0; // correct option always first
   const options = document.querySelectorAll(".option");
 
+  // mark correct option
   options[correct].classList.add("correct");
 
   if (index === correct) {
@@ -51,9 +53,11 @@ function check(index, el) {
     wrongCount++;
     el.classList.add("wrong");
 
+    // store wrong question details
     wrongQuestions.push({
       question: questions[current].question,
-      correctAnswer: questions[current].options[0]
+      options: questions[current].options,
+      userChoice: index
     });
   }
 }
@@ -85,25 +89,4 @@ function jumpQ() {
 function showResult() {
   let html = `
     <h2>Result Summary</h2>
-    <p><strong>Total Attempted:</strong> ${attempted}</p>
-    <p><strong>Correct Answers:</strong> ${correctCount}</p>
-    <p><strong>Wrong Answers:</strong> ${wrongCount}</p>
-    <hr>
-    <h3>Wrong Questions Review</h3>
-  `;
-
-  if (wrongQuestions.length === 0) {
-    html += `<p>🎉 Excellent! No wrong answers.</p>`;
-  } else {
-    wrongQuestions.forEach((wq, i) => {
-      html += `
-        <div style="margin-bottom:10px;">
-          <strong>${i + 1}. ${wq.question}</strong><br>
-          <span style="color:green;">Correct Answer: ${wq.correctAnswer}</span>
-        </div>
-      `;
-    });
-  }
-
-  document.querySelector(".container").innerHTML = html;
-}
+    <p><s
