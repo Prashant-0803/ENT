@@ -11,6 +11,14 @@ body {
   border-radius: 10px;
 }
 
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
 .option {
   border: 1px solid #ccc;
   padding: 12px;
@@ -44,15 +52,36 @@ button {
   cursor: pointer;
 }
 
-.jump {
-  margin-top: 15px;
-}
-h2 {
-  text-align: center;
-}
-
-h3 {
+.jump-center {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
   margin-top: 20px;
 }
 
+/* Footer Styling */
+.footer {
+  text-align: center;
+  font-size: 13px;
+  color: #555;
+  margin-top: 20px;
+}
 
+.footer .disclaimer {
+  font-size: 12px;
+  color: #888;
+}
+
+/* Wrong Question Review Styling */
+.review-box {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.review-option {
+  margin: 3px 0;
+  padding: 5px;
+  border-radius: 4px;
+}
