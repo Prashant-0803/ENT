@@ -150,11 +150,10 @@ function showResult() {
 
   html += `<hr>
            <div class="footer">
-             <p><strong>Developed By Gujrat Buddy</strong></p>
+             <p><strong> </strong></p>
              <p>Officially Created By <strong>Prashant Vala</strong></p>
              <p class="disclaimer">
-               Disclaimer: This does not represent official Question & Answer.
-               The Developer is not responsible for any dispute.
+               Disclaimer:
              </p>
            </div>`;
 
@@ -199,4 +198,5 @@ function restartQuiz() {
 
   loadQ();
 }
+
 
