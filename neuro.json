@@ -1,0 +1,4762 @@
+[
+ {
+   "A": "Question 1",
+   "B": "Case of 40-year-old male presents with transient dysphagia, episodic headache and increased senstivity to light. He also feels some weakness on the left side of body. What is your diagnosis?",
+   "C": "Retinal migraine",
+   "D": "Ophthalmoplegic migraine",
+   "E": "Migraine sine migraine",
+   "F": "Focal migraine"
+ },
+ {
+   "A": "Question 2",
+   "B": "A 60-year-old woman complains of a constant headache that is worse in the morning and improves throughout the day. She has a history of intermittent visual disturbances and reports recent episodes of scalp tenderness. Her ESR is elevated. What is the most likely diagnosis?",
+   "C": "Temporal arteritis",
+   "D": "Migraine",
+   "E": "Tension-type headache",
+   "F": "Cluster headache"
+ },
+ {
+   "A": "Question 3",
+   "B": "A 24-year-old female, Ms.Deepa, with a previous history of recurrent headaches, originally diagnosed 12 months earlier as migraine without aura. The patient has returned to her primary care physician for medical follow-up of her migraines and to discuss options for therapy. Which of the following drug(s) can be used as a prophylaxis for migraine?",
+   "C": "Amitriptyline",
+   "D": "Propranolol",
+   "E": "Sumatriptan",
+   "F": "Ergotamine"
+ },
+ {
+   "A": "Question 4",
+   "B": "A 28-year-old female presents to her physician complaining of recurrent headaches. She describes them as throbbing, unilateral, and often accompanied by nausea, vomiting, and sensitivity to light and sound. These episodes typically last from 4 to 72 hours and are often preceded by visual disturbances such as flashing lights or blind spots. What is the most likely diagnosis for this patient?",
+   "C": "Migraine",
+   "D": "Cluster headache",
+   "E": "Tension-type headache",
+   "F": "Sinus headache"
+ },
+ {
+   "A": "Question 5",
+   "B": "A 35-year-old woman presents with a history of recurrent headaches, which are typically unilateral and throbbing. The headaches last between 4-72 hours and are associated with nausea, vomiting, and photophobia. She often notices visual disturbances (aura) before the headache starts. What is the most likely diagnosis?",
+   "C": "Migraine",
+   "D": "Cluster headache",
+   "E": "Tension-type headache",
+   "F": "Sinus headache"
+ },
+ {
+   "A": "Question 6",
+   "B": "A 40-year-old man presents with a severe headache that started suddenly while he was at work. He describes the pain as \"the worst headache of his life.\" The pain is located around his neck and back of the head. He also reports nausea and photophobia. On examination, his blood pressure is elevated, and he has a stiff neck. What is the most likely diagnosis?",
+   "C": "Subarachnoid hemorrhage",
+   "D": "Tension-type headache",
+   "E": "Cluster headache",
+   "F": "Migraine"
+ },
+ {
+   "A": "Question 7",
+   "B": "Pathology of which of the following system can lead to disorders of autonomic nervous system?",
+   "C": "Either pero-ipheral or central nervous system",
+   "D": "Central nervous system",
+   "E": "None",
+   "F": "Peripheral nervous system"
+ },
+ {
+   "A": "Question 8",
+   "B": "All are examples of upper motor neuron lesion except",
+   "C": "Anterior horn cell disease",
+   "D": "Multiple sclerosis",
+   "E": "Prion disease",
+   "F": "Tuberous sclerosis"
+ },
+ {
+   "A": "Question 9",
+   "B": "A 30-year-old man presents with rapid, involuntary muscle contractions that cause twisting and repetitive movements, particularly in his neck and shoulders. These movements are often worsened by stress. He has no history of trauma or neurological diseases. What is the most likely diagnosis?",
+   "C": "Dystonia",
+   "D": "Tardive dyskinesia",
+   "E": "Parkinson’s disease",
+   "F": "Huntington’s disease"
+ },
+ {
+   "A": "Question 10",
+   "B": "Pseudotumor cerebri occurs due to which vitamin toxicity?",
+   "C": "A",
+   "D": "B12",
+   "E": "E",
+   "F": "D"
+ },
+ {
+   "A": "Question 11",
+   "B": "UMN lesion is characterized by",
+   "C": "Weakness & spasticity",
+   "D": "Fasciculations",
+   "E": "Rigidity",
+   "F": "Localized muscle atrophy"
+ },
+ {
+   "A": "Question 12",
+   "B": "A 45-year-old woman presents with difficulty initiating movement and a \"shuffling\" walk. She also reports stiffness in her arms and legs, particularly when trying to move. On examination, she has a mask-like facial expression, resting tremor in both hands, and rigidity. What is the most likely diagnosis?",
+   "C": "Parkinson's disease",
+   "D": "Huntington's disease",
+   "E": "Multiple sclerosis",
+   "F": "Amyotrophic lateral sclerosis (ALS)"
+ },
+ {
+   "A": "Question 13",
+   "B": "A 55-year-old man presents with involuntary, jerky movements of his hands, legs, and face. These movements occur at irregular intervals and are worsened by stress. He has a family history of similar symptoms. Genetic testing reveals a mutation in the HTT gene. What is the most likely diagnosis?",
+   "C": "Huntington's disease",
+   "D": "Parkinson’s disease",
+   "E": "Essential tremor",
+   "F": "Myoclonus"
+ },
+ {
+   "A": "Question 14",
+   "B": "A 60-year-old woman presents with difficulty swallowing, slurred speech, and muscle weakness in her arms and legs. She has noticed progressive weakness over the last year. On examination, she has atrophy and fasciculations in her upper and lower limbs. What is the most likely diagnosis?",
+   "C": "Amyotrophic lateral sclerosis (ALS)",
+   "D": "Multiple sclerosis",
+   "E": "Guillain-Barré syndrome",
+   "F": "Myasthenia gravis"
+ },
+ {
+   "A": "Question 15",
+   "B": "A 72-year-old lady presents with nausea and vomiting and a headache for the one day. She describes the pain as one-sided and accompanied by a painful red eye, worse at night with blurring. What is the diagnosis?",
+   "C": "Glaucoma",
+   "D": "SUNCT",
+   "E": "Migraine with Aura",
+   "F": "Cluster headache"
+ },
+ {
+   "A": "Question 16",
+   "B": "A 61-year-old female patient presents to your clinic due to sudden episodes of left-sided facial pain for the last two days. She states that the pain feels like a 'sharp stabbing' and is a 9/10 in terms of intensity. The pain lasts about 5-10 seconds and then dissipates rapidly. The pain is often brought on by talking and cold wind. Her past medical history is significant for depression and type 2 DM. What is the diagnosis?",
+   "C": "Trigeminal neuralgia",
+   "D": "SUNCT syndrome",
+   "E": "Giant cell arteritis",
+   "F": "paroxysmal hemicrania"
+ },
+ {
+   "A": "Question 17",
+   "B": "A 40-year-old woman experiences a dull, bilateral headache that lasts for hours. She describes the pain as a \"tight band\" around her head. The headaches are not associated with nausea, vomiting, or light sensitivity. She often experiences them during periods of high stress. What is the most likely diagnosis?",
+   "C": "Tension-type headache",
+   "D": "Cluster headache",
+   "E": "Migraine",
+   "F": "Trigeminal neuralgia"
+ },
+ {
+   "A": "Question 18",
+   "B": "A 60-year-old man presents with a new onset headache that is persistent and located over the temples. The headache is associated with jaw claudication, fatigue, and weight loss. His erythrocyte sedimentation rate (ESR) is elevated. What is the most likely diagnosis?",
+   "C": "Temporal arteritis",
+   "D": "Migraine",
+   "E": "Tension-type headache",
+   "F": "Cluster headache"
+ },
+ {
+   "A": "Question 19",
+   "B": "A 33-year-old woman with no significant medical history presented with complaints of headache which she described as a characteristic 'thunderclap headache'. All of the following are the differential diagnosis for 'thunderclap headache' except",
+   "C": "Acute aneurismal haemorrhage",
+   "D": "Brain stem encephalitis",
+   "E": "Acute ischemia of mid brain",
+   "F": "Meningitis"
+ },
+ {
+   "A": "Question 20",
+   "B": "A 22-years-old man presents with a history of a headache for 6 months which is mainly in the frontal region, occasionally associated with nausea. He has been taking paracetamol 3g per day, Hydroxycodeine 50 mg 3 times a day and Aspirin 300 mg 3 times a day for a headache but only with temporary relief from symptoms no focal signs on neurological examinations. What is the diagnosis?",
+   "C": "Analgesic abuse headache",
+   "D": "Migraine",
+   "E": "Depression associated headache",
+   "F": "Cluster headache"
+ },
+ {
+   "A": "Question 21",
+   "B": "A 35-year-old woman presents with a headache that lasts for 30 minutes to an hour, occurring around the same time every day for several weeks. The pain is localized to the right eye and is associated with redness, tearing, and nasal congestion. She reports the pain often wakes her up at night. What is the most likely diagnosis?",
+   "C": "Cluster headache",
+   "D": "Tension-type headache",
+   "E": "Migraine",
+   "F": "Sinus headache"
+ },
+ {
+   "A": "Question 22",
+   "B": "A 45-year-old man presents with a headache that has been gradually worsening over the past few weeks. The pain is described as a constant, dull ache on both sides of the head. He also complains of neck stiffness and photophobia. What is the most likely diagnosis?",
+   "C": "Cervicogenic headache",
+   "D": "Tension-type headache",
+   "E": "Migraine",
+   "F": "Sinus headache"
+ },
+ {
+   "A": "Question 23",
+   "B": "A right-sided disc herniation at the LS-51 level typically causes which among the following symptoms?",
+   "C": "Low back pain and right sciatica",
+   "D": "Weakness of dorsiflexion of the right foot",
+   "E": "A preserved right ankle jerk",
+   "F": "Diminution of sensation over themedial aspect of the right foot, including the great toe"
+ },
+ {
+   "A": "Question 24",
+   "B": "A 55-year-old man presents with chronic neck pain that has been worsening over the past few months. He reports stiffness and decreased range of motion in his neck. On examination, there is tenderness over the cervical spine, and radiographs show degenerative changes at C5-C6. He also complains of tingling in his fingers. What is the most likely diagnosis?",
+   "C": "Cervical spondylosis",
+   "D": "Cervical radiculopathy",
+   "E": "Whiplash injury",
+   "F": "Thoracic outlet syndrome"
+ },
+ {
+   "A": "Question 25",
+   "B": "A 70-year-old woman presents with progressive lower back pain and difficulty walking. The pain is worse with standing and walking, but improves when she bends forward or sits down. She also complains of numbness and weakness in her legs. MRI of the lumbar spine reveals narrowing of the spinal canal. What is the most likely diagnosis?",
+   "C": "Spinal stenosis",
+   "D": "Lumbar disc herniation",
+   "E": "Spondylolisthesis",
+   "F": "Ankylosing spondylitis"
+ },
+ {
+   "A": "Question 26",
+   "B": "A 45-year-old man presents with severe, localized neck pain that radiates to his right shoulder and arm. The pain began after a car accident where his head was jerked backward. He also reports weakness and tingling in his right hand. On examination, there is decreased sensation over the C6 dermatome, and reflexes are diminished in the right upper limb. What is the most likely diagnosis?",
+   "C": "Cervical radiculopathy",
+   "D": "Whiplash injury",
+   "E": "Thoracic outlet syndrome",
+   "F": "Carpal tunnel syndrome"
+ },
+ {
+   "A": "Question 27",
+   "B": "A 46-year-old woman presented with a 25-year history of epilepsy. She had a history of focal impaired awareness with cognitive changes and behavioral arrest progressing to bilateral tonic-clonic seizures. Magnetic resonance imaging displayed asymmetry of the hippocampus, with a prominent right temporal horn of the lateral ventricle. Which of the following is the most efficacious treatment for this patient?",
+   "C": "Amygdalo hippocampectomy",
+   "D": "Levetiracetam",
+   "E": "Primidone",
+   "F": "Vagus nerve stimulation"
+ },
+ {
+   "A": "Question 28",
+   "B": "A 35-year patient recalls episodes where he smells a pungent odor, started sweating and loses consciousness. His family member says while unconscious he was having facial twitching with lip smacking movements. What is the most probable diagnosis?",
+   "C": "Focal seizures",
+   "D": "Hysteria",
+   "E": "Atonic seizures",
+   "F": "Myoclonic seizures"
+ },
+ {
+   "A": "Question 29",
+   "B": "A 24-year-old, married woman with history of seizures was recently diagnosed as a case of complex partial seizures. Which of the following anticonvulsive agent would be the MOST appropriate agent as first-line therapy in such patients?",
+   "C": "Lamotrigine",
+   "D": "Carbamazepine",
+   "E": "Topiramate",
+   "F": "Phenytoin"
+ },
+ {
+   "A": "Question 30",
+   "B": "A 21-year-old man complains of seizures in the left arm, with progression to the left side of the face and left leg. He does not lose consciousness. What type of seizures does the patient describe?",
+   "C": "Jacksonian seizure",
+   "D": "Generalized seizure",
+   "E": "Epileptic seizure",
+   "F": "Non-epileptic seizure"
+ },
+ {
+   "A": "Question 31",
+   "B": "A patient had a head injury in road traffic accident and had lost consciousness instantaneously. After few minutes he regains consciousness. Spontaneous eye opening without any muscular weakness and is fully aware of his surroundings. GCS score is E4V5M6 . However, the patient continues to complain headache, dizziness, nausea, faintness and an episode of emesis. What is the severity of his head injury?",
+   "C": "Minor head injury",
+   "D": "Severe head injury",
+   "E": "Intermediate severity",
+   "F": "None of the above"
+ },
+ {
+   "A": "Question 32",
+   "B": "A 25-year-old is admitted with loss of consciousness after cocaine over-dosage. On examination BP= 200/100 with GCS of 7 /15. The right-sided pupil is dilated and shows a sluggish reaction to light. Which is not recommended for this patient?",
+   "C": "Initiate sodium nitroprusside to achieve MAP below 130 mmHg",
+   "D": "B Administer hypertonic fluids to maintain sodium of 145mEq/dl",
+   "E": "Administer mannitol at 1g/kg body weight",
+   "F": "Neuromuscular paralysis"
+ },
+ {
+   "A": "Question 33",
+   "B": "A 60-year-old man is brought to the emergency department after being found unconscious at home. His blood pressure is 120/80 mmHg, heart rate is 80 bpm, and respiratory rate is 12/min. On examination, the patient is unresponsive to verbal stimuli but opens his eyes in response to pain (Glasgow Coma Scale of 8). His pupils are 3 mm and react to light. CT scan of the brain reveals no acute abnormalities. What is the most likely cause of his coma?",
+   "C": "Drug overdose",
+   "D": "Stroke",
+   "E": "Hypoglycemia",
+   "F": "Traumatic brain injury"
+ },
+ {
+   "A": "Question 34",
+   "B": "A 50-year-old woman is brought to the hospital after a witnessed seizure followed by a prolonged period of unconsciousness. On arrival, she is unresponsive, with a Glasgow Coma Scale score of 7. She has a history of hypertension and diabetes. Blood tests show a blood glucose level of 30 mg/dL. What is the most likely cause of her coma?",
+   "C": "Hypoglycemia",
+   "D": "Brain tumor",
+   "E": "Meningitis",
+   "F": "Stroke"
+ },
+ {
+   "A": "Question 35",
+   "B": "Hemiplegia is commonly associated with infarction of the area of distribution of the",
+   "C": "Middle cerebral artery",
+   "D": "Anterior cerebral artery",
+   "E": "Posterior cerebral artery",
+   "F": "Anterior communicating artery"
+ },
+ {
+   "A": "Question 36",
+   "B": "Which of the following is the most common site of aneurysmal subarachnoid hemorrhage?",
+   "C": "Anterior communicating artery",
+   "D": "Basilar artery",
+   "E": "Posterior communicating artery",
+   "F": "Middle cerebral artery"
+ },
+ {
+   "A": "Question 37",
+   "B": "A 68-year-old woman presents with sudden-onset right-sided weakness and slurred speech. Her symptoms started approximately 30 minutes ago while she was watching television. She has a history of hypertension and type 2 diabetes mellitus. On examination, she has right-sided hemiparesis and dysarthria. Her MRI of the brain reveals a hyperintense lesion in the left middle cerebral artery (MCA) territory. What is the most likely diagnosis?",
+   "C": "Left hemispheric ischemic stroke",
+   "D": "Transient ischemic attack (TIA)",
+   "E": "Right hemispheric ischemic stroke",
+   "F": "Subarachnoid hemorrhage"
+ },
+ {
+   "A": "Question 38",
+   "B": "A 50-year-old woman with a history of atrial fibrillation presents with sudden onset of visual disturbance in her right visual field, difficulty speaking, and a right-sided hemiparesis. She also reports dizziness and difficulty maintaining balance. On examination, she has a left homonymous hemianopia and dysarthria. Brain MRI reveals an infarct in the posterior cerebral artery (PCA) distribution. What is the most likely diagnosis?",
+   "C": "Left-sided ischemic stroke in the posterior cerebral artery (PCA) territory",
+   "D": "Right-sided ischemic stroke in the middle cerebral artery (MCA) territory",
+   "E": "Transient ischemic attack (TIA)",
+   "F": "Subarachnoid hemorrhage"
+ },
+ {
+   "A": "Question 39",
+   "B": "A patient had a head injury in road traffic accident and had lost consciousness instantaneously. After few minutes he regains consciousness. Spontaneous eye opening without any muscular weakness and is fully aware of his surroundings. GCS score is E4V5M6 . However, the patient continues to complain headache, dizziness, nausea, faintness and an episode of emesis. What is the severity of his head injury?",
+   "C": "Minor head injury",
+   "D": "Severe head injury",
+   "E": "Intermediate severity",
+   "F": "None of the above"
+ },
+ {
+   "A": "Question 40",
+   "B": "All are seen in Kluver Bucy syndrome except",
+   "C": "Seizures",
+   "D": "Hypersexuality",
+   "E": "Metamorphopsia",
+   "F": "Visual agnosia"
+ },
+ {
+   "A": "Question 41",
+   "B": "A 60-year-old woman fell down the stairs. His face shows abrasions and wounds. You have determined that she opens her eyes only when presented with a painful stimulus, responds slurred to questions, makes isolated sounds and does not follow your instructions, but localizes pain when presented with a painful stimulus. Calculate level of consciousness on the Glasgow Coma Scale.",
+   "C": "Score 9",
+   "D": "Score 13",
+   "E": "Score 15",
+   "F": "Score 8"
+ },
+ {
+   "A": "Question 42",
+   "B": "A 60-year-old woman fell down the stairs. She sustained a moderate head injury. What kind of examination would you suggest?",
+   "C": "CT of the brain",
+   "D": "MRI of the brain",
+   "E": "Electroneuromyography",
+   "F": "Electroencephalography"
+ },
+ {
+   "A": "Question 43",
+   "B": "Which of the following statement is false with respect to demyelinating disorders?",
+   "C": "Involves biochemical abnormality of myelin",
+   "D": "More common in females",
+   "E": "Multiple sclerosis is an autoimmune disease of the central nervous system",
+   "F": "Multiple Sclerosis is most common type of demyelinating disorder"
+ },
+ {
+   "A": "Question 44",
+   "B": "A patient was treated for mantle cell Hodgkin lymphoma with radiation therapy. After 6 months he develops an electric shock-like pain along the spine on flexing his neck. What is the diagnosis?",
+   "C": "Cervical spinal cord pathology",
+   "D": "Cervical arthritis",
+   "E": "Multiple sclerosis",
+   "F": "Spinal cord compression"
+ },
+ {
+   "A": "Question 45",
+   "B": "A 65-year-old woman is brought to the clinic for memory problems. On examination, she displays difficulty recalling recent events and exhibits poor short-term memory. What brain abnormality is most likely to be found in Alzheimer’s disease?",
+   "C": "Decreased hippocampal volume",
+   "D": "Enlarged ventricles",
+   "E": "Increased brain glucose metabolism",
+   "F": "Cerebellar atrophy"
+ },
+ {
+   "A": "Question 46",
+   "B": "A 71-year-old male with a family history of Alzheimer’s disease is diagnosed with mild cognitive impairment (MCI). Which of the following is most associated with progression from MCI to Alzheimer’s disease?",
+   "C": "Presence of APOE ε4 allele",
+   "D": "Hyperlipidemia",
+   "E": "Hypertension",
+   "F": "Age"
+ },
+ {
+   "A": "Question 47",
+   "B": "A 68-year-old man is diagnosed with Alzheimer’s disease. Which of the following medications would most likely be prescribed for managing his cognitive symptoms?",
+   "C": "Donepezil",
+   "D": "Levodopa",
+   "E": "Lithium",
+   "F": "Sertraline"
+ },
+ {
+   "A": "Question 48",
+   "B": "A 33-year male with numbness from the lower trunk to the distal extremities was diagnosed with multiple sclerosis. He was started with glucocorticoids with some improvement in his symptoms. Which one of the following is not predictive of long-term disability in such patients?",
+   "C": "Optic neuritis in the first 2 years",
+   "D": "Incomplete recovery from relapses",
+   "E": "Length of intervals between relapses",
+   "F": "Frequency of relapses"
+ },
+ {
+   "A": "Question 49",
+   "B": "A 38-year-old woman with sensory disturbances, muscle weakness & visual disturbances was diagnosed with Multiple Sclerosis recently. The physician is evaluating her neurological status with Expanded disability severity score (EDSS). What does a score of 9 in EDSS signify?",
+   "C": "Patient is bedridden, can talk, can drink",
+   "D": "Death of patient due to multiple sclerosis",
+   "E": "Patient is bedridden, can't talk, can’t drink",
+   "F": "Patient walks normally, shows no disability"
+ },
+ {
+   "A": "Question 50",
+   "B": "A 58-year-old woman presenting with right arm weakness, paraparesis, and increased reflexes. T1w MRI with contrast, coronal view showed dumbbell schwannoma at C3-C4 level with bone erosion of the vertebral body. The characteristic 'Schwannoma of spinal nerve roots' is associated with?",
+   "C": "Neurofibromatosis 1",
+   "D": "Neurofibromatosis 2",
+   "E": "Turcot syndrome",
+   "F": "Li - Fraumeni syndrome"
+ },
+ {
+   "A": "Question 51",
+   "B": "A 68-year-old female presents with memory loss, difficulty recalling recent events, and confusion. She becomes easily agitated and occasionally gets lost in familiar places. Which of the following is the most likely diagnosis?",
+   "C": "Alzheimer’s disease",
+   "D": "Depression",
+   "E": "Vascular dementia",
+   "F": "Frontotemporal dementia"
+ },
+ {
+   "A": "Question 52",
+   "B": "A 72-year-old man presents with difficulty remembering names of familiar people and forgetting appointments. He has no difficulty performing daily tasks. What cognitive test would be most appropriate to assess his memory?",
+   "C": "Montreal Cognitive Assessment (MoCA)",
+   "D": "Mini-Mental State Examination (MMSE)",
+   "E": "Clock Drawing Test",
+   "F": "Trail Making Test"
+ },
+ {
+   "A": "Question 53",
+   "B": "Blood supply area of the middle cerebral artery:",
+   "C": "Most of the internal capsule",
+   "D": "The medial surface of the frontal and parietal lobes",
+   "E": "Occipital lobes",
+   "F": "Brainstem"
+ },
+ {
+   "A": "Question 54",
+   "B": "Triple H therapy is done in?",
+   "C": "SAH",
+   "D": "SDH",
+   "E": "EDH",
+   "F": "Intraparenchymal bleed"
+ },
+ {
+   "A": "Question 55",
+   "B": "A 69-year-old hypertensive patient suddenly developed facial muscle weakness, slurred speech, and weakness in the right extremities after sleeping. Select the vascular basin most likely to be affected:",
+   "C": "Left middle cerebral artery",
+   "D": "Right internal carotid artery",
+   "E": "Right middle cerebral artery",
+   "F": "Left posterior cerebral artery"
+ },
+ {
+   "A": "Question 56",
+   "B": "Lateral medullary syndrome is caused by thrombosis of",
+   "C": "Anterior inferior cerebral artery",
+   "D": "PCA",
+   "E": "Anterior inferior cerebral artery",
+   "F": "Basilar artery"
+ },
+ {
+   "A": "Question 57",
+   "B": "Mr X is a 70-year-old male who presents with a one-year history of progressive ataxia, urinary incontinence and memory loss. He is otherwise asymptomatic. He has no significant past medical history and is not on any medication. What is the most likely diagnosis?",
+   "C": "Normal pressure hydrocephalus",
+   "D": "Cerebellar astrocytoma",
+   "E": "Lewy body dementia",
+   "F": "Multiple sclerosis"
+ },
+ {
+   "A": "Question 58",
+   "B": "A 72-year-old male with a history of diabetes and hypertension presents with memory impairment, apathy, and difficulty with language. His wife notes that he has become more impulsive and socially inappropriate. MRI reveals significant atrophy of the frontal and temporal lobes. Which condition is most likely?",
+   "C": "Frontotemporal dementia",
+   "D": "Alzheimer's disease",
+   "E": "Parkinson's disease",
+   "F": "Vascular dementia"
+ },
+ {
+   "A": "Question 59",
+   "B": "29 yrs male was brought to OPD by his wife giving history of aggressive behaviour with decreased social interaction and lack of self-care. O/E grasp reflex present, CT scan would be showing lesion of which lobe?",
+   "C": "Frontal lobe",
+   "D": "Occipital",
+   "E": "Temporal",
+   "F": "Parietal"
+ },
+ {
+   "A": "Question 60",
+   "B": "A 55-year-old man presents with symptoms of rigidity, bradykinesia, and resting tremor. He also has a significant cognitive decline, with difficulty in memory and problem-solving. An MRI of the brain is unremarkable. His symptoms do not meet the criteria for Alzheimer’s disease, but they are suggestive of a movement disorder with cognitive dysfunction. What is the most likely diagnosis?",
+   "C": "Lewy body dementia",
+   "D": "Progressive supranuclear palsy",
+   "E": "Frontotemporal dementia",
+   "F": "Parkinson's disease dementia"
+ },
+ {
+   "A": "Question 61",
+   "B": "Which of the following is least likely to occur in multiple sclerosis",
+   "C": "Absence of oligoclonal bands in CSF",
+   "D": "Bilateral visual loss",
+   "E": "Complete tranaction of cord",
+   "F": "Poor recovery"
+ },
+ {
+   "A": "Question 62",
+   "B": "A study without which a diagnosis of multiple sclerosis cannot be confirmed:",
+   "C": "MRI of the brain.",
+   "D": "CT of the brain",
+   "E": "Electroneuromyography",
+   "F": "Electroencephalography"
+ },
+ {
+   "A": "Question 63",
+   "B": "A 30-year-old woman presented with double vision, divergent strabismus, right-sided ptosis. Administration of proserin did not change the clinical picture; ENMG without abnormalities. MR angiography: no pathology was revealed. MRI of the brain: multiple foci of demyelination paraventricularly and in the area of the brain stem. Blood sugar analysis: 4.2 mmol/l. Choose the most likely diagnosis:",
+   "C": "Multiple sclerosis",
+   "D": "Myasthenia gravis",
+   "E": "Aneurysm of the internal carotid artery",
+   "F": "Diabetic neuropathy"
+ },
+ {
+   "A": "Question 64",
+   "B": "A 32-year-old patient shows signs of spastic paraparesis, impaired coordination in the left limbs, pelvic organ dysfunction, and pallor of the temporal halves of the optic discs. Choose the most likely diagnosis:",
+   "C": "Multiple sclerosis",
+   "D": "Tumor of the left cerebellar hemisphere",
+   "E": "Spinal cord tumor",
+   "F": "Ischemic stroke"
+ },
+ {
+   "A": "Question 65",
+   "B": "A 25-year-old female patient came to the doctor because she felt unsteady when walking. She had a history of retrobulbar neuritis twice. The neurologist found evidence of cerebellar lesions and 2-sided lesions of the pyramidal pathways. Choose the most likely diagnosis:",
+   "C": "Cerebellar tumor",
+   "D": "Tumor of cranio-vertebral junction",
+   "E": "Multiple sclerosis",
+   "F": "Encephalitis"
+ },
+ {
+   "A": "Question 66",
+   "B": "Which of the following will manifest as \"pachymeningitis hemorrhagica interna\"?",
+   "C": "Subdural hematoma",
+   "D": "Epidural hematoma",
+   "E": "Subarachnoid haemorrhage",
+   "F": "Brain infraction"
+ },
+ {
+   "A": "Question 67",
+   "B": "A 12-year-old patient was admitted to the clinic with a high body temporeatura of 39.5 g, headache, vomiting, consciousness of 10 points on the Glasgow Coma Scale, occipital muscle rigidity, and positive Kernig's symptom. The general blood count shows an inflammatory reaction due to a high neutrophil count. What treatment should be performed?",
+   "C": "Antiedema",
+   "D": "Anticoagulants",
+   "E": "Antibiotics",
+   "F": "Anticonvulsants"
+ },
+ {
+   "A": "Question 68",
+   "B": "A 20 year old patient presents with headache, vomiting, Glasgow coma scale consciousness of 12 points, occipital muscle rigidity and positive Kernig's symptom, what investigation should be performed?",
+   "C": "Liquor analysis",
+   "D": "MRI",
+   "E": "Urinanalysis",
+   "F": "EEG"
+ },
+ {
+   "A": "Question 69",
+   "B": "Which nerve is most commonly involved in uncal herniation?",
+   "C": "IIIrd",
+   "D": "Vith",
+   "E": "Ixth",
+   "F": "XIIth"
+ },
+ {
+   "A": "Question 70",
+   "B": "Which is not affected in lesion of posterior column of spinal cord?",
+   "C": "Temperature sense",
+   "D": "Romberg's sign",
+   "E": "Vibration sense",
+   "F": "Ataxia"
+ },
+ {
+   "A": "Question 71",
+   "B": "Brown Séquard syndrome, not involved is",
+   "C": "Contralateral posterior column",
+   "D": "Ipsilateral pyramidal tract",
+   "E": "Contralateral spinothalamic",
+   "F": "Ipsilateral planter extensor"
+ },
+ {
+   "A": "Question 72",
+   "B": "A 59-year-old patient gradually develops spastic tetraparesis with 2-sided Babinski's pathologic symptoms, marked muscle hypotrophy and fibrillary twitches. Choose the disease that should be excluded first of all:",
+   "C": "Amyotrophic lateral sclerosis",
+   "D": "Multiple sclerosis, spinal form",
+   "E": "Myasthenia gravis",
+   "F": "Myasthenic syndrome"
+ },
+ {
+   "A": "Question 73",
+   "B": "If Wernicke’s area is damaged in the dominant hemisphere, it will result in?",
+   "C": "Irrelevant and rapid speech",
+   "D": "No effect on speech",
+   "E": "Speech with difficulty in articulation",
+   "F": "Incomprehension of written language"
+ },
+ {
+   "A": "Question 74",
+   "B": "Dose of methylprednisolone following spine injury:",
+   "C": "30mg/kg within 3 hrs of injury",
+   "D": "45mg/kg within 6 hrs of injury",
+   "E": "50mg/kg within 9 hrs of injury",
+   "F": "60mg/kg within 12 hrs of injury"
+ },
+ {
+   "A": "Question 75",
+   "B": "Hypotension in Acute Spinal Cord Injury is due to?",
+   "C": "Loss of Sympathetic tone",
+   "D": "Orthostatic Hypotension",
+   "E": "Orthostatic Hypotension",
+   "F": "loss of parasymparhic tone"
+ },
+ {
+   "A": "Question 76",
+   "B": "A 45-year-old patient felt marked weakness in the legs, pain on the inner surface of the thigh at the moment of weight lifting, urinary disturbance occurred. On examination: peripheral asymmetric inferior paraparesis, hypoesthesia in the area of the perineum and on the inner surface of the thighs. Choose the most informative methods of examination:",
+   "C": "MRI",
+   "D": "X-ray",
+   "E": "CT",
+   "F": "Liquor analysis"
+ },
+ {
+   "A": "Question 77",
+   "B": "Select the symptoms characteristic of Guillain-Barré syndrome:",
+   "C": "Peripheral tetraparesis",
+   "D": "Central tetraparesis",
+   "E": "Peripheral monoparesis",
+   "F": "Central hemiparesis"
+ },
+ {
+   "A": "Question 78",
+   "B": "Guillain-Baret polyneuropathy is characterized by an inflammatory lesion caused by (choose the correct answer)",
+   "C": "Viruses",
+   "D": "Bacteria",
+   "E": "Fungi",
+   "F": "Trauma"
+ },
+ {
+   "A": "Question 79",
+   "B": "Select the mechanisms underlying the pathogenesis of diabetic polyneuropathy:",
+   "C": "Vascular damage to peripheral nerves",
+   "D": "Peripheral nerve damage",
+   "E": "Lesion of spinal cord roots",
+   "F": "Muscle damage"
+ },
+ {
+   "A": "Question 80",
+   "B": "A 48-year-old patient complains of a sensation of irritation on the skin of the legs, which began with the feet and over 6 months progressed to the shins, knees thighs. What diagnosis do you suggest?",
+   "C": "Extramedullary spinal cord tumor",
+   "D": "Intramedullary tumor of the spinal cord",
+   "E": "Spinal cord abscess",
+   "F": "Epiduritis"
+ },
+ {
+   "A": "Question 81",
+   "B": "A 68-year-old woman had an elevated t to 38.5, severe headache, photophobia. Meningeal symptom complex was detected in an infectious disease hospital and liquor was analyzed. In the liquor analysis: turbid, 1200 kl/mL, neutrophils predominate, protein-0.99 g/L. Choose the most likely diagnosis:",
+   "C": "Meningitis",
+   "D": "Subarachnoid hemorrhage",
+   "E": "Intraventricular hemorrhage",
+   "F": "Encephalitis"
+ },
+ {
+   "A": "Question 82",
+   "B": "True about GBS are all except",
+   "C": "Sensory loss",
+   "D": "Ascending paralysis",
+   "E": "Cyto albumen disassociation",
+   "F": "Flaccidity"
+ },
+ {
+   "A": "Question 83",
+   "B": "Best Treatment of GBS is",
+   "C": "Plasmapheresis",
+   "D": "Intravenous Steroids",
+   "E": "Dialysis",
+   "F": "Vancomycin"
+ },
+ {
+   "A": "Question 84",
+   "B": "Select a symptom NOT characteristic of polyneuropathy:",
+   "C": "High tendon reflexes",
+   "D": "Peripheral paresis of hands, feet",
+   "E": "Dpecreased sensitivity in the distal parts of the limbs",
+   "F": "Vegetative disorders in the distal parts of the limbs"
+ },
+ {
+   "A": "Question 85",
+   "B": "Duchenne muscular dystrophy is an X-linked recessive disease that most commonly affects:",
+   "C": "Boys only",
+   "D": "Girls only",
+   "E": "More boys than girls",
+   "F": "More girls than boys"
+ },
+ {
+   "A": "Question 86",
+   "B": "What does the concept of treatment for muscular dystrophy include?",
+   "C": "Physical and orthopedic therapy",
+   "D": "Thymectomy",
+   "E": "Immunosuppressants",
+   "F": "Immunoglobulin therapy"
+ },
+ {
+   "A": "Question 87",
+   "B": "Gene for myotonic dystrophy is coded on chromosome number",
+   "C": "19",
+   "D": "20",
+   "E": "21",
+   "F": "24"
+ },
+ {
+   "A": "Question 88",
+   "B": "Duchenne muscular dystrophy is а ...",
+   "C": "Lesion of a muscle",
+   "D": "Lesion of the anterior root of the spinal cord",
+   "E": "Lesion of the nerve",
+   "F": "Lesion of the anterior horn of the spinal cord"
+ },
+ {
+   "A": "Question 89",
+   "B": "A patient present with unilateral painful ophthalmoplegia. Imaging revealed an enlargement of cavernous sinus on the affected side. The likely diagnosis is:",
+   "C": "Tolosa-Hunt syndrome",
+   "D": "Cavernous sinus thrombosis",
+   "E": "Gradenigo syndrome",
+   "F": "Orbital Pseudotumor"
+ },
+ {
+   "A": "Question 90",
+   "B": "A patient's visual field is being tested by confrontation field testing,during which you noticed an abnormality. On wiggling one finger of one hand, patient is able see normally and can tell the correct side, but when fingers of both hands on both sides are wiggled simultaneously, patient is able to appreciate the movement of only right side and the left hand appears to him as stationary.This phenomenon is called?",
+   "C": "Visual inattention",
+   "D": "Homonymous hemianopia",
+   "E": "Simultanagnosia",
+   "F": "Somatoparaphrenia"
+ },
+ {
+   "A": "Question 91",
+   "B": "The gag reflex is checked in a 65-year-old woman with diabetes mellitus. When the right side of the pharynx is touched with a tongue blade, the palate elevates symmetrically. When the left side of the pharynx is touched, the palate does not elevate at all.Which of the following cranial nerves is most likely to be responsible for this?",
+   "C": "9th cranial nerve",
+   "D": "8",
+   "E": "10",
+   "F": "12"
+ },
+ {
+   "A": "Question 92",
+   "B": "A lesion of the following cranial nerve is manifested by facial pain:",
+   "C": "Trigeminal",
+   "D": "Oculomotor",
+   "E": "Facial",
+   "F": "Accessory"
+ },
+ {
+   "A": "Question 93",
+   "B": "A 12-year-old female patient complains of weakness in the left leg. She is acutely ill, does not know the cause. But she notes that before the onset of complaints, she was picking berries while sitting on her knees. In the neurological status, the left Achilles reflex is preserved. Left-sided steppage gait. What's your presumptive diagnosis?",
+   "C": "Peroneal neuropathy",
+   "D": "Ulnar neuropathy",
+   "E": "Sciatic neuropathy",
+   "F": "Tibial neuropathy"
+ },
+ {
+   "A": "Question 94",
+   "B": "In a 30-year-old male patient, examination of neurological status revealed the following signs: muscle strength in the left hand 3 points, areflexia in the left hand, decreased muscle tone in the left hand, trophic disorders on the skin of the fingers of the left hand. Highlight the correct syndrome from the suggested answers.",
+   "C": "Flaccid monoparesis",
+   "D": "Central monoparesis",
+   "E": "Central diparalysis",
+   "F": "Flaccid diparesis"
+ },
+ {
+   "A": "Question 95",
+   "B": "A 12 year old girl, complains of drooling and spilling of fluids from the mouth, from the right corner of the mouth, right eye not closing and right eyebrow drooping. No paresis or paralysis has been detected in the arms and legs. What investigation should be performed?",
+   "C": "Otoscopy",
+   "D": "CT",
+   "E": "EEG",
+   "F": "ENMG"
+ },
+ {
+   "A": "Question 96",
+   "B": "A 46-year-old woman with history of intermittent weakness and muscle fatigue which worsened with activity was diagnosed as a case of Myasthenia Gravis. She presented with complaints of persistent cough associated with shortness of breath. On workup, CT Chest shows anterior mediastinal mass. What could be the possible diagnosis?",
+   "C": "Thymoma",
+   "D": "Retrosternal goiter",
+   "E": "Hilar Lymphadenopathy",
+   "F": "Hilar Lymphadenopathy"
+ },
+ {
+   "A": "Question 97",
+   "B": "A 65-year-old male comes to the OPD complaining of ongoing double vision which is worse when he is watching TV in the evening. He has also noticed that he feels weaker towards the end of the day and that his face is slightly puffy. On inspection, there is a partial ptosis of the left eye lid and his mouth hangs slightly open at rest. On examination, there are visibly distended neck veins. What is the most likely diagnosis?",
+   "C": "Myasthenia gravis",
+   "D": "GBS",
+   "E": "Amitriptyline",
+   "F": "Methysergide"
+ },
+ {
+   "A": "Question 98",
+   "B": "Myasthenia refers to peripheral disorders of. What is impaired in any form of myasthenia?",
+   "C": "Lesion of the neuromuscular transmission",
+   "D": "Lesion of the anterior root of the spinal cord",
+   "E": "Lesion of the nerve",
+   "F": "Lesion of a muscle"
+ },
+ {
+   "A": "Question 99",
+   "B": "A 63-year-old woman with T2DM, hypertension presented to your hospital with complaints of sudden onset right eye ptosis and diplopia, worse at the end of the day. She also had history of fatigue, intermittent muscle weakness for the past 1 month. Initial investigations were done. A probable diagnosis of Myasthenia Gravis made. Which of the following is not useful for the above diagnosis?",
+   "C": " Voltage gated calcium channel antibodies",
+   "D": "Lambert Eaton syndrome",
+   "E": "Paraneoplastic cerebellar degeneration",
+   "F": "Multiple system atrophy"
+ },
+ {
+   "A": "Question 100",
+   "B": "A 30-year-old woman is diagnosed with ocular myasthenia gravis. She weighs 60 kg. You've prescribed prednisolone in tablet form. The dosage is 0.005 g in 1 tablet. Choose the correct daily dose.",
+   "C": "12 tablets per day",
+   "D": "1 tablets per day",
+   "E": "24 tablets per day",
+   "F": "48 tablets per day"
+ },
+ {
+   "A": "Question 101",
+   "B": "Case of 36-year-old female presents with Diplopia and ptosis, which usually develops after the headache. She had multiple such attacks in the past. What is your diagnosis?",
+   "C": "Focal migraine",
+   "D": "Retinal migraine",
+   "E": "Migraine sine migraine",
+   "F": "Ophthalmoplegic migraine"
+ },
+ {
+   "A": "Question 102",
+   "B": "A 35-year-old man presents with a severe, unilateral headache that is described as stabbing and is associated with lacrimation, rhinorrhea, and ptosis. The headaches typically occur in the early morning hours. What is the most likely diagnosis?",
+   "C": "Cluster headache",
+   "D": "Tension-type headache",
+   "E": "Migraine",
+   "F": "Trigeminal neuralgia"
+ },
+ {
+   "A": "Question 103",
+   "B": "What is drug of choice for acute attack of migraine",
+   "C": "Sumatriptan",
+   "D": "Caffeine",
+   "E": "Amitriptyline",
+   "F": "Methysergide"
+ },
+ {
+   "A": "Question 104",
+   "B": "Types of migraine: Case of 46-year-old female comes to you with history of visual disturbances without headache. She also has nausea, vomiting and aura. What is your diagnosis?",
+   "C": "Migraine sine migraine",
+   "D": "Retinal migraine",
+   "E": "Ophthalmoplegic migraine",
+   "F": "Focal migraine"
+ },
+ {
+   "A": "Question 105",
+   "B": "A 55-year-old woman presents with a dull, bilateral headache that has been gradually worsening over the past 6 months. The headache is constant and typically worsens in the morning, and she reports associated symptoms of nausea and visual disturbances. Her medical history includes hypertension. What is the most likely diagnosis?",
+   "C": "Brain tumor",
+   "D": "Temporal arteritis",
+   "E": "Tension-type headache",
+   "F": "Migraine"
+ },
+ {
+   "A": "Question 106",
+   "B": "A 30-year-old man presents with sudden-onset excruciating pain around his right eye, associated with tearing, redness, and nasal congestion. The headache episodes last for 30-60 minutes and occur multiple times a day, especially at night. He also reports restlessness during the attacks. What is the most likely diagnosis?",
+   "C": "Cluster headache",
+   "D": "Sinus headache",
+   "E": "Tension-type headache",
+   "F": "Trigeminal neuralgia"
+ },
+ {
+   "A": "Question 107",
+   "B": " You are working as a palliative medicine resident in a tertiary institution. A group of children diagnosed with cancers came to you for follow-up. Which of the following brain tumor has the worst prognosis in children?",
+   "C": "Cerebellar astrocytoma",
+   "D": "Brainstem glioma",
+   "E": "Craniopharyngioma",
+   "F": "Pineal body tumor"
+ },
+ {
+   "A": "Question 108",
+   "B": "Medulloblastoma most commonly occurs in the",
+   "C": "Cerebellum",
+   "D": "Medulla",
+   "E": "Cerebral hemisphere",
+   "F": "Spinal cord"
+ },
+ {
+   "A": "Question 109",
+   "B": "A patient with dermatomyositis reports improvement of symptoms on steroids for last 6 months. Labs did today show Creatine kinase of 1300 Units/L. What is the next step in the management?",
+   "C": "Continue the same dose of steroids",
+   "D": "Raise dose of steroids",
+   "E": "Start mycophenolate",
+   "F": "Perform muscle biopsy"
+ },
+ {
+   "A": "Question 110",
+   "B": "A 40-year-old man presents with sudden, involuntary jerking movements of his upper limbs that occur in episodes. These movements are not rhythmic and are sometimes associated with a feeling of muscle stiffness. The patient has no family history of neurological disease. What is the most likely diagnosis?",
+   "C": "Myoclonus",
+   "D": "Tardive dyskinesia",
+   "E": "Essential tremor",
+   "F": "Huntington’s disease"
+ },
+ {
+   "A": "Question 111",
+   "B": "A 25-year-old woman presents with difficulty holding objects, particularly when she is stressed. She has noticed that her hands shake when she reaches for items, but her tremor improves when she is at rest. On examination, the tremor is most prominent when she extends her arms. What is the most likely diagnosis?",
+   "C": "Essential tremor",
+   "D": "Parkinson’s disease",
+   "E": "Cerebellar tremor",
+   "F": "Dystonia"
+ },
+ {
+   "A": "Question 112",
+   "B": "A 50-year-old man with a history of diabetes presents with sudden-onset weakness in his right arm and leg. On examination, he has spasticity, hyperreflexia, and a positive Babinski sign on the right side. The weakness does not improve with rest. What is the most likely diagnosis?",
+   "C": "Stroke (hemiparetic)",
+   "D": "Multiple sclerosis",
+   "E": "Guillain-Barré syndrome",
+   "F": "Amyotrophic lateral sclerosis (ALS)"
+ },
+ {
+   "A": "Question 113",
+   "B": "A 70-year-old woman presents with difficulty walking and frequent falls. She has rigidity in her neck and arms, along with a shuffling gait. There is no tremor. On examination, she has difficulty turning in bed and making small, quick steps. What is the most likely diagnosis?",
+   "C": "Normal pressure hydrocephalus",
+   "D": "Parkinson’s disease",
+   "E": "Cerebellar ataxia",
+   "F": "Huntington’s disease"
+ },
+ {
+   "A": "Question 114",
+   "B": "A 45-year-old man presents to emergency room with Progressive atrophy and weakness of hands. On further examination he is found to have brisk jaw jerk, Fasciculations,",
+   "C": "Weakness and spasticity",
+   "D": "Fasciculation's",
+   "E": "Rigidity",
+   "F": "Muscle atrophy"
+ },
+ {
+   "A": "Question 115",
+   "B": "Which drug can you use for acute attack of migraine",
+   "C": "Sumatriptan",
+   "D": "Caffeine",
+   "E": "Amitriptyline",
+   "F": "Methysergide"
+ },
+ {
+   "A": "Question 116",
+   "B": "Case of 36-year-old female presents with Diplopia and ptosis, which usually develops after the headache. She had multiple such attacks in the past. What is your diagnosis?",
+   "C": "Ophthalmoplegic migraine",
+   "D": "Retinal migraine",
+   "E": "Migraine sine migraine",
+   "F": "Focal migraine"
+ },
+ {
+   "A": "Question 117",
+   "B": "A 29-year-old woman presents with recurrent headaches that typically last for 4-72 hours. The pain is described as pulsating and unilateral. She reports nausea, vomiting, and a sensitivity to light and sound during these episodes. The headaches are sometimes preceded by visual disturbances, such as flashing lights. What is the most likely diagnosis?",
+   "C": "Migraine",
+   "D": "Cluster headache",
+   "E": "Tension-type headache",
+   "F": "Temporal arteritis"
+ },
+ {
+   "A": "Question 118",
+   "B": "A 55-year-old man reports having a severe headache behind his right eye, accompanied by tearing, nasal congestion, and redness of the eye. The headaches occur in clusters, lasting 30 minutes to 2 hours, and typically occur at night. He has a history of similar episodes. What is the most likely diagnosis?",
+   "C": "Cluster headache",
+   "D": "Tension-type headache",
+   "E": "Migraine",
+   "F": "Cervicogenic headache"
+ },
+ {
+   "A": "Question 119",
+   "B": "A 35-year-old woman presented with complaints of sudden onset headache which she described as a characteristic 'thunderclap headache'. She has no \\significant medical history. On examination, her pupils were dilated bilaterally. These findings are consistent with the diagnosis of?",
+   "C": "Acute aneurismal haemorrhage",
+   "D": "Brain stem encephalitis",
+   "E": "Acute ischemia of mid brain",
+   "F": "Meningitis"
+ },
+ {
+   "A": "Question 120",
+   "B": "A 32-year-old obese woman presented with complaints of headache associated with nausea & 2episodes of vomiting over 1 week duration. She also complained of pulsatile tinnitus & transient visual changes. Fundoscopic examination revealed features of papilledema. The physician suspected this as a case of idiopathic intracranial hypertension. What is the drug of choice for the above diagnosis?",
+   "C": "Acetazolamide",
+   "D": "Glycerol",
+   "E": "Mannitol",
+   "F": "Dexamethasone"
+ },
+ {
+   "A": "Question 121",
+   "B": "A 24-year-old woman presents with a history of recurrent, severe, unilateral headaches associated with nausea, vomiting, and visual disturbances (auras). The headaches are typically triggered by bright lights or strong odors. What is the most likely diagnosis?",
+   "C": "Migraine",
+   "D": "Cluster headache",
+   "E": "Sinus headache",
+   "F": "Tension-type headache"
+ },
+ {
+   "A": "Question 122",
+   "B": "A 50-year-old woman experiences recurrent headaches with a sensation of pressure in her face and forehead. She reports nasal congestion and facial tenderness. The headaches are worse when she bends over. What is the most likely diagnosis?",
+   "C": "Sinus headache",
+   "D": "Tension-type headache",
+   "E": "Migraine",
+   "F": "Cluster headache"
+ },
+ {
+   "A": "Question 123",
+   "B": "A 48-year-old woman has a lower back pain and hypoesthesia in the left 51 dermatomal distribution (left calf and lateral left foot). What is the most likely cause?",
+   "C": "A lesion at the right L4-LS interspace",
+   "D": "Pathology where the nerve exits the spinal canal immediately above the pedicle of S3 vertebra",
+   "E": "A lesion at the right L4-LS interspace",
+   "F": "Compression by the LS lamina"
+ },
+ {
+   "A": "Question 124",
+   "B": "Which of the following tests is abnormal in patients with ALS (Amyotrophic Lateral Sclerosis)?",
+   "C": "Electromyography",
+   "D": "MRI whole spine",
+   "E": "CT whole Spine",
+   "F": "V.E.P"
+ },
+ {
+   "A": "Question 125",
+   "B": "A 40-year-old woman presents with a sudden onset of severe lower back pain radiating down her left leg. The pain started after she lifted a heavy box at work. She describes the pain as sharp and stabbing, with occasional numbness and tingling in her left foot. Physical examination reveals a positive straight leg raise test. What is the most likely diagnosis?",
+   "C": "Lumbar disc herniation",
+   "D": "Spinal stenosis",
+   "E": "Sacroiliac joint dysfunction",
+   "F": "Osteoarthritis of the spine"
+ },
+ {
+   "A": "Question 126",
+   "B": "A 46-year-old woman presented with a 25-year history of epilepsy. She had a history of focal impaired awareness with cognitive changes and behavioral arrest progressing to bilateral tonic-clonic seizures. Magnetic resonance imaging displayed asymmetry of the hippocampus, with a prominent right temporal horn of lateral ventricle. Which of the following is the probable diagnosis?",
+   "C": "Medial temporal lobe epilepsy",
+   "D": ". Lennox Gastaut syndrome",
+   "E": "Rolandic epilepsy",
+   "F": "Epilepsia Partialis Continua"
+ },
+ {
+   "A": "Question 127",
+   "B": "What percentage of patients with head injury develop long-term epilepsy?",
+   "C": "5",
+   "D": "10",
+   "E": "15",
+   "F": "20"
+ },
+ {
+   "A": "Question 128",
+   "B": "Commonest presentation of neurocysticercosis is",
+   "C": "Seizures",
+   "D": "Focal neurological deficits",
+   "E": "Dementia",
+   "F": "Radiculopathy"
+ },
+ {
+   "A": "Question 129",
+   "B": "A 18-year-old man complains of cramps in his left arm and leg. He then loses consciousness and does not remember anything. After the seizure, when he regains consciousness, he notices that his left arm and leg do not move for about an hour. EEG showed epileptiform activity in the frontal-central region on the right side. MRI of the brain shows no abnormalities. What happened to the patient after the seizure?",
+   "C": "Todd's palsy",
+   "D": "Epileptic seizure",
+   "E": "Ischemic stroke",
+   "F": "Hemorrhagic stroke"
+ },
+ {
+   "A": "Question 130",
+   "B": "A woman complains that her sister, who is 18 years old, has already fallen 3 times, lost consciousness, had cramps in her limbs, bit her tongue, foamed at the mouth and wet herself. The seizure lasts 2 minutes; after the seizure, the sister sleeps for about an hour. What investigation should be performed?",
+   "C": "Electroencephalography",
+   "D": "CT of the brain",
+   "E": "Electroneuromyography",
+   "F": "MRI of the brain"
+ },
+ {
+   "A": "Question 131",
+   "B": "A 64-year-old, male unconscious patient was brought in with a history of high-grade fever. The attender recalls history of double vision, dysphagia, and unsteady gait in the patient. The medical history of the patient was hypertension for the past 13years & he is on antihypertensives. On examination, his temperature was 102.8 degrees Fahrenheit & bilateral pinpoint pupils are noted. What would be the probable diagnosis?",
+   "C": "Brain stem lesion",
+   "D": "Cerebellar lesion",
+   "E": "Thalamic lesions",
+   "F": "Internal capsule lesio"
+ },
+ {
+   "A": "Question 132",
+   "B": "A 45-year-old man presents with excessive daytime sleepiness, despite having a full 8 hours of sleep at night. He reports episodes of falling asleep uncontrollably during meetings or while watching TV. He also describes vivid dreams and muscle weakness in his legs during these episodes, especially after laughing or during emotional stress. What is the most likely diagnosis?",
+   "C": "Narcolepsy",
+   "D": "Insomnia",
+   "E": "Sleep apnea",
+   "F": "Restless leg syndrome"
+ },
+ {
+   "A": "Question 133",
+   "B": "A 60-year-old male diabetic and hypertensive patient was found unconscious in the morning. On examination pulse rate is 120/min, BP=160/100 mm Hg. What is the next step to be done for management?",
+   "C": "Check blood glucose",
+   "D": "Order CT scan",
+   "E": "Give intravenous mannitol",
+   "F": "Immediately reduce BP with anti-hypertensives"
+ },
+ {
+   "A": "Question 134",
+   "B": "A 60-year-old woman presents with difficulty falling asleep and staying asleep, particularly in the early morning hours. She frequently wakes up feeling unrested, and her sleep is interrupted by frequent nocturnal awakenings. She has a history of depression and often worries about her sleep patterns. What is the most likely diagnosis?",
+   "C": "Insomnia",
+   "D": "Obstructive sleep apnea",
+   "E": "Narcolepsy",
+   "F": "Sleepwalking"
+ },
+ {
+   "A": "Question 135",
+   "B": "The most common cause of subarachnoid haemorrhage is",
+   "C": "Hypertension",
+   "D": "Cavernous angioma",
+   "E": "Aneurysm",
+   "F": "Arterio-venous malformation"
+ },
+ {
+   "A": "Question 136",
+   "B": "Which of the following will manifest as \"pachymeningitis hemorrhagica interna\"?",
+   "C": "Subdural hematoma",
+   "D": "Epidural hematoma",
+   "E": "Subarachnoid hemorrhage",
+   "F": "Brain infraction"
+ },
+ {
+   "A": "Question 137",
+   "B": "A 72-year-old man presents with sudden onset of severe headache, nausea, and vomiting, followed by confusion and right-sided weakness. His blood pressure is elevated, and he has a history of atrial fibrillation. On examination, he has right-sided hemiplegia and a Glasgow Coma Scale (GCS) of 14. CT scan of the brain reveals an intracerebral hemorrhage in the right frontal lobe. What is the most likely cause of this patient's condition?",
+   "C": "Hypertensive intracerebral hemorrhage",
+   "D": "Embolic ischemic stroke",
+   "E": "Subarachnoid hemorrhage",
+   "F": "Transient ischemic attack (TIA)"
+ },
+ {
+   "A": "Question 138",
+   "B": "A 60-year-old man presents with sudden-onset left-sided weakness and difficulty understanding speech. He reports that the symptoms started about 45 minutes ago. He has a history of smoking and hyperlipidemia. On examination, he has left-sided hemiparesis and Wernicke's aphasia. A CT scan of the brain shows no acute hemorrhage. What is the most likely diagnosis?",
+   "C": "Left-sided ischemic stroke in the middle cerebral artery (MCA) territory",
+   "D": "Subarachnoid hemorrhage",
+   "E": "Transient ischemic attack (TIA)",
+   "F": "Right-sided ischemic stroke in the anterior cerebral artery (ACA) territory"
+ },
+ {
+   "A": "Question 139",
+   "B": "An 18-year-old male was involved in a traffic accident and was found on the road near a crosswalk. His face shows abrasions and wounds. You have determined he is opening his eyes (eye opening), responding to questions (speech), and following your instructions (movements). The level of consciousness on the Glasgow Coma Scale is a score of 13. What kind of head trauma did the man suffer?",
+   "C": "Moderate head trauma",
+   "D": "Superficial head trauma",
+   "E": "Mild head trauma",
+   "F": "No head trauma"
+ },
+ {
+   "A": "Question 140",
+   "B": "A 25-year-old man was involved in a traffic accident and was found on the road near a crosswalk. There are visible abrasions and wounds on his face. You have determined that he opens his eyes independently, he responds to questions, but is confused about the present date and year. When you ask him to raise his hands, he does not comply. However, he localizes pain well. Calculate the level of consciousness on the Glasgow Coma Scale.",
+   "C": "Score 13",
+   "D": "Score 15",
+   "E": "Score 10",
+   "F": "Score 8"
+ },
+ {
+   "A": "Question 141",
+   "B": "A head injured patient, who opens eyes to painful stimulus, is confused and localizes to pain. What is the Glasgow coma score",
+   "C": "11",
+   "D": "9",
+   "E": "7",
+   "F": "13"
+ },
+ {
+   "A": "Question 142",
+   "B": "Cortical blindness is seen in lesion of which lobe?",
+   "C": "Occipital",
+   "D": "Parietal",
+   "E": "Frontal",
+   "F": "Temporal"
+ },
+ {
+   "A": "Question 143",
+   "B": "Which of the following statement is false with respect to demyelinating disorders?",
+   "C": "Involves biochemical abnormality of myelin",
+   "D": "More common in females",
+   "E": "Multiple sclerosis is an autoimmune disease of the central nervous system",
+   "F": "Multiple Sclerosis is most common type of demyelinating disorder"
+ },
+ {
+   "A": "Question 144",
+   "B": "A 40yr old male presented with altered mental status, seizures, and vomiting. He has no h/o fever, neck stiffness. On CECT ring-enhancing lesion at gray-white interface is seen. General hygiene was poor and he has multiple dental caries. What is the next best step in the management of this patient?",
+   "C": "Urgent parenteral antibiotics",
+   "D": "Placement of ICP monitor",
+   "E": "Lumbar puncture",
+   "F": "Craniotomy"
+ },
+ {
+   "A": "Question 145",
+   "B": "A 33-year male with numbness from the lower trunk to the distal extremities was diagnosed with multiple sclerosis. He was started with glucocorticoids with some improvement in his symptoms. Which one of the following is not predictive of long-term disability in such patients?",
+   "C": "Optic neuritis in the first 2 years",
+   "D": "Incomplete recovery from relapses",
+   "E": "Length of intervals between relapses",
+   "F": "Frequency of relapses"
+ },
+ {
+   "A": "Question 146",
+   "B": "A patient has had recurrent optic neuritis bilaterally with transverse myelitis. Visual acuity in right eye is 6/60 and left eye is 6/18. Patient showed a 50°'1<> response to steroids. Diagnosis is?",
+   "C": "Neuromyelitis Optica",
+   "D": "Subacute combined degeneration of spinal cord (SACD)",
+   "E": "Post cerebral artery stroke",
+   "F": "Neuro-syphilis"
+ },
+ {
+   "A": "Question 147",
+   "B": "A 38-year-old woman with sensory disturbances, muscle weakness & visual disturbances was diagnosed with Multiple Sclerosis recently. The physician is evaluating her neurological status with Expanded disability severity score (EDSS). What does a score of 9 in EDSS signify?",
+   "C": "Patient is bedridden, can talk, can drink",
+   "D": "Death of patient due to multiple sclerosis",
+   "E": "Patient is bedridden, can't talk, can’t drink",
+   "F": "Patient walks normally, shows no disability"
+ },
+ {
+   "A": "Question 148",
+   "B": "A 78-year-old female is diagnosed with Alzheimer's disease and experiences occasional aggression and agitation. What is the most appropriate initial management for these behavioral symptoms?",
+   "C": "Family education and behavioral interventions",
+   "D": "Cholinesterase inhibitors",
+   "E": "Cognitive-behavioral therapy",
+   "F": "Antidepressants"
+ },
+ {
+   "A": "Question 149",
+   "B": "A 72-year-old woman with Alzheimer's disease begins to show signs of paranoia and delusions. What is the most appropriate intervention for these symptoms?",
+   "C": "Administer antipsychotics",
+   "D": "Provide family counseling",
+   "E": "Start a cholinesterase inhibitor",
+   "F": "Initiate an antidepressant"
+ },
+ {
+   "A": "Question 150",
+   "B": "A 70-year-old female with AlA 70-year-old female with Alzheimer’s disease is found to have significantly reduced levels of acetylcholine in the brain. Which of the following drug classes would likely be most effective in this patient?",
+   "C": "Cholinesterase inhibitors",
+   "D": "Selective serotonin reuptake inhibitors (SSRIs)",
+   "E": "NMDA receptor antagonists",
+   "F": "Benzodiazepines"
+ },
+ {
+   "A": "Question 151",
+   "B": "A 78-year-old woman with Alzheimer’s disease exhibits difficulty recognizing faces and understanding visual-spatial relationships. Which cognitive domain is primarily affected in her case?",
+   "C": "Visuospatial ability",
+   "D": "Executive function",
+   "E": "Attention",
+   "F": "Language"
+ },
+ {
+   "A": "Question 152",
+   "B": "A 67-year-old man with a family history of Alzheimer’s disease has been diagnosed with mild cognitive impairment. He expresses concern about developing Alzheimer's. What would be the most appropriate next step?",
+   "C": "Recommend lifestyle changes",
+   "D": "Perform neuroimaging",
+   "E": "Begin antipsychotic medication",
+   "F": "Perform genetic testing for APOE"
+ },
+ {
+   "A": "Question 153",
+   "B": "29 yrs male was brought to OPD by his wife giving history of aggressive behaviour with decreased social interaction and lack of self-care. O/E grasp reflex present, CT scan would be showing lesion of which lobe?",
+   "C": "Frontal lobe",
+   "D": "Occipital",
+   "E": "Temporal",
+   "F": "Parietal"
+ },
+ {
+   "A": "Question 154",
+   "B": "Focal symptom characteristic of right middle cerebral artery occlusion:",
+   "C": "Left-sided hemiparesis",
+   "D": "Right-sided hemiparesis",
+   "E": "Right-sided homonymous hemianopsia",
+   "F": "Ataxia"
+ },
+ {
+   "A": "Question 155",
+   "B": "The patient is 72 years old, suffers from arterial hypertension, she does not take permanent hypotensive therapy. This morning there appeared awkwardness and numbness in the left upper extremity, facial asymmetry (lowering of the left corner of the mouth). Select the vascular basin most likely to be affected:",
+   "C": "Right middle cerebral artery",
+   "D": "Left posterior cerebral artery",
+   "E": "Right posterior cerebral artery",
+   "F": "Right middle cerebral artery"
+ },
+ {
+   "A": "Question 156",
+   "B": "A 28-year-old woman presented with headaches and difficulty with gait. The physical examination was notable for bilateral papilledema. Sagittal MRI showed the lesion located in the posterior third ventricle that strongly enhances with gadolinium. Surgical excision showed that the lesion was a pinealoma. The gland involved is supplied by?",
+   "C": "Posterior choroidal arteries",
+   "D": "Tuberothalamic artery",
+   "E": ". Recurrent artery of Heubner",
+   "F": "Lenticulostriate artery"
+ },
+ {
+   "A": "Question 157",
+   "B": "A patient is unable to solve mathematical calculations, which part of his brain is damaged?",
+   "C": "Parietal lobe",
+   "D": "Frontal lobe",
+   "E": "Temporale lobe",
+   "F": "Occipital lobe"
+ },
+ {
+   "A": "Question 158",
+   "B": "A 70-year-old woman with a history of progressive memory loss, difficulty recognizing familiar faces, and changes in personality presents for evaluation. Neuroimaging shows atrophy in the temporal and parietal lobes. Which of the following findings is most likely to be present in her brain tissue?",
+   "C": "Tau tangles and amyloid plaques",
+   "D": "Lewy bodies",
+   "E": "Huntington inclusions",
+   "F": "Prion plaques"
+ },
+ {
+   "A": "Question 159",
+   "B": "A 47yrs old female c/o headache, changes in vision, seizures from past 2yrs. Now she has developed weakness rt. side of body. A CT scan was being ordered by the physician which showed well circumscribed mass abutting the skull in left hemisphere. On contrast enhanced MRI shows -What is the next step in management of this patient?",
+   "C": "Surgical excision",
+   "D": "Chemotherapy with Adriamycin",
+   "E": "Cerebral angiography with tumor embolization",
+   "F": "Preoperative radiation therapy followed by surgical excision"
+ },
+ {
+   "A": "Question 160",
+   "B": "A 72-year-old woman presents with progressive memory loss, difficulty with spatial orientation, and frequent disorientation. Her family reports that she has become increasingly repetitive in conversation and has difficulty recalling recent events. On examination, she appears disheveled and is unaware of the time or place. Which of the following is the most likely diagnosis?",
+   "C": "Alzheimer's disease",
+   "D": "Frontotemporal dementia",
+   "E": "Parkinson's disease",
+   "F": "Huntington's disease"
+ },
+ {
+   "A": "Question 161",
+   "B": "What treatments are not used for myasthenia gravis?",
+   "C": "Immunosuppressants",
+   "D": "Thymectomy",
+   "E": "Plasmapheresis",
+   "F": "Immunoglobulin therapy"
+ },
+ {
+   "A": "Question 162",
+   "B": "A 13-year-old adolescent has been diagnosed with structural epilepsy, focal tonic-clonic seizures, and Todd's palsy. What type of medication should be offered to the patient?",
+   "C": "Finlepsin (Carbamazepine)",
+   "D": "Depakine (Convulex)",
+   "E": "Levetiracetam (Keppra)",
+   "F": "Phenobarbital (Luminal"
+ },
+ {
+   "A": "Question 163",
+   "B": "All are clinical features of myasthenia gravis, EXCEPT",
+   "C": "Absent deep tendon reflexes",
+   "D": "Spontaneus remission",
+   "E": "Proximal muscle involvement",
+   "F": "Worsen by exertion"
+ },
+ {
+   "A": "Question 164",
+   "B": "A 38-year-old woman with sensory disturbances, muscle weakness & visual disturbances was diagnosed with Multiple Sclerosis recently. The physician is evaluating her neurological status with Expanded disability severity score (EDSS). What does a score of 9 in EDSS signify?",
+   "C": "Patient is bedridden, can talk, can drink",
+   "D": "Death of patient due to multiple sclerosis",
+   "E": "Patient is bedridden, can't talk, can’t drink",
+   "F": "Patient walks normally, shows no disability"
+ },
+ {
+   "A": "Question 165",
+   "B": "Best predictor in the GCS",
+   "C": "Motor response",
+   "D": "Eye opening",
+   "E": "Eye opening",
+   "F": "All"
+ },
+ {
+   "A": "Question 166",
+   "B": "The number of cells in the normal composition of the liquor (in 1 mm3):",
+   "C": "45413",
+   "D": "42278",
+   "E": "20-30",
+   "F": "40-50"
+ },
+ {
+   "A": "Question 167",
+   "B": "This condition is the primary indication for a cerebrospinal fluid study (choose one condition):",
+   "C": "Brain tumor",
+   "D": "Occlusive intracranial hypertension",
+   "E": "Inflammation of cerebral membranes",
+   "F": "Ischemic stroke"
+ },
+ {
+   "A": "Question 168",
+   "B": "In case of muscular dystrophy it is necessary to examine the patient using the method",
+   "C": "Tissue biopsy",
+   "D": "CT",
+   "E": "EEG",
+   "F": "ENMG"
+ },
+ {
+   "A": "Question 169",
+   "B": "Which of the following is not a feature of conus medullaris syndrome?",
+   "C": "Knee reflex Absent",
+   "D": "Ankle reflex Absent",
+   "E": "Bladder / bowel Early & marked",
+   "F": "Root involved S3, S4, S5"
+ },
+ {
+   "A": "Question 170",
+   "B": "Which of the following tests is abnormal in patients with ALS (Amyotrophic Lateral Sclerosis)?",
+   "C": "Electromyography",
+   "D": "MRI whole spine",
+   "E": "CT whole Spine",
+   "F": "V.E.P"
+ },
+ {
+   "A": "Question 171",
+   "B": "If Broun-Sekar syndrome is detected, a neuroimaging study of the following section of the neural system should be performed:",
+   "C": "Spinal cord",
+   "D": "Cerebellum",
+   "E": "Brain",
+   "F": "Peripheral nerves"
+ },
+ {
+   "A": "Question 172",
+   "B": "A 5O-year-old woman complains of clumsiness in her hands while working in the kitchen. She recently burned her hands on the stove without experiencing any pain. Neurologic examination reveals bilateral weakness of the shoulder girdles, arms, and hands as well as a loss of pain and temperature sensation covering the shoulder and upper limb in a cape-like distribution. Severe atrophy is present in the intrinsic muscles of the hands. The most likely diagnosis is:",
+   "C": "Syringomyelia",
+   "D": "Subacute combined degeneration",
+   "E": "ALS",
+   "F": "Tabes dorsalis"
+ },
+ {
+   "A": "Question 173",
+   "B": "A 35-year-old patient presents with numbness over the neck. On examination decreased pain and temperature sensation is found in the distribution of C4, CS. Scalp sensation, cranial nerve function and limb examination are normal. Bladder and bowel sphincter control are normal. What is the diagnosis?",
+   "C": "Neuro-syphilis",
+   "D": "An intramedullary tumor",
+   "E": "Amyotrophic lateral sclerosis",
+   "F": "A.I.D.P"
+ },
+ {
+   "A": "Question 174",
+   "B": "A 5O-year-old woman complains of clumsiness in her hands while working in the kitchen. She recently burned her hands on the stove without experiencing any pain. Neurologic examination reveals bilateral weakness of the shoulder girdles, arms, and hands as well as a loss of pain and temperature sensation covering the shoulder and upper limb in a cape-like distribution. Severe atrophy is present in the intrinsic muscles of the hands. The most likely diagnosis is",
+   "C": "Syringomyelia",
+   "D": "Subacute combined degeneration",
+   "E": "ALS",
+   "F": "Tabes dorsalis"
+ },
+ {
+   "A": "Question 175",
+   "B": "Transtentorial uncal heriniation causes all except",
+   "C": "lpsilateral hemiplegia",
+   "D": "Decorticate rigidity",
+   "E": "Cheyne stokes respiration",
+   "F": "lpsilateral dilated pupils"
+ },
+ {
+   "A": "Question 176",
+   "B": "A 2-year-old girl, from an endemic area, unvaccinated, became acutely ill with runny nose, cough, body temperature of 38 degrees Celsius. On the 5th day of the disease she could not stand on her feet. Examination of the neurological status revealed a lower flaccid paralysis. 6 months after the illness, the paralysis had not recovered and she needed supportive devices. What infectious disease did she have?",
+   "C": "Polio",
+   "D": "Diphtheria",
+   "E": "Tetanus",
+   "F": "Whooping cough"
+ },
+ {
+   "A": "Question 177",
+   "B": "Which of the following is not a Channelopathy",
+   "C": "Tay Sachs disease",
+   "D": "Periodic paralysis",
+   "E": "Cystic fibrosis",
+   "F": "Liddle syndrome"
+ },
+ {
+   "A": "Question 178",
+   "B": "A 60 yr old woman presents with tingling, numbness, and weakness of extremities for the past year. she also noted  and lack of bowel control. What is the most likely diagnosis?",
+   "C": "ALS",
+   "D": "lpsilateral hemiplegia",
+   "E": "Cheyne stokes respiration",
+   "F": "Polyneuropathy"
+ },
+ {
+   "A": "Question 179",
+   "B": "Guillain-Baret polyneuropathy is characterized by impairment of the following nervous system functions (choose one correct answer)",
+   "C": "Motor",
+   "D": "Protective",
+   "E": "Temperature",
+   "F": "Sensory"
+ },
+ {
+   "A": "Question 180",
+   "B": "Select the symptoms characteristic of Guillain-Baret polyneuropathy",
+   "C": "Lesions of all nerves",
+   "D": "Disorder of pelvic functions",
+   "E": "Bilateral pyramidal symptoms",
+   "F": "Nerve involvement in one limb"
+ },
+ {
+   "A": "Question 181",
+   "B": "A 52-year-old woman has been suffering from type II diabetes mellitus for 10 years; she complains of severe itching and pain in the right foot. On examination: the joints of the feet are deformed, the skin on the feet is thin, Achilles reflexes are absent, knee reflexes are very low. Hypesthesia in the legs - up to the middle third of the tibia.",
+   "C": "Diabetic polyneuropathy",
+   "D": "Alcoholic polyneuropathy",
+   "E": "Acute demyelinating polyradiculoneuropathy",
+   "F": "Guillain-Baret polyneuropathy"
+ },
+ {
+   "A": "Question 182",
+   "B": "Choose the most likely diagnosis:",
+   "C": "Plasmapheresis / Immunoglobulins",
+   "D": "Steroids / Immunoglobulins",
+   "E": "Thymectomy / Immunoglobulins",
+   "F": "Antibiotics / Immunoglobulins"
+ },
+ {
+   "A": "Question 183",
+   "B": "A child attending a nursery suddenly increased t to 39 C, developed convulsions and confusion. The doctor diagnosed meningeal symptom complex. In the analysis of the liquor: turbid, cytosis-820 kl in ml, neutrophils predominate. Choose the most probable diagnosis:",
+   "C": "Bacterial meningitis",
+   "D": "Viral meningitis",
+   "E": "Serous meningitis",
+   "F": "Epiduritis"
+ },
+ {
+   "A": "Question 184",
+   "B": "12 month old child is diagnosed with meningitis, calculate the daily dose of ceftriaxone for the patient:",
+   "C": "10 mg per day",
+   "D": "50 mg per day",
+   "E": "100 mg per day",
+   "F": "500 mg per day"
+ },
+ {
+   "A": "Question 185",
+   "B": "Which of the following drugs can cause muscle weakness?",
+   "C": "All of the above",
+   "D": "Zidovudine",
+   "E": "Chloropine",
+   "F": "Statin"
+ },
+ {
+   "A": "Question 186",
+   "B": "A 65-year-old, male with hypertension develops sudden onset weakness on the right side of the face & arm. His attender recalls history of headache, blurred vision in the patient which leads to the suspicion of increased ICP. Which is the most common cranial nerve involved in raised ICP?",
+   "C": "Abducens nerve",
+   "D": "Trochlear",
+   "E": "Trigeminal",
+   "F": "Facial nerve"
+ },
+ {
+   "A": "Question 187",
+   "B": "Neonatal myasthenia develops as a result of:",
+   "C": "Administration of an excessive dose of acetylcholinesterase inhibitors",
+   "D": "Transfer from the mother through the placental barrier of AT to the acetylcholine receptor",
+   "E": " Reducing their number",
+   "F": "A sharp decrease in the number of functioning AChRs due to a massive attack by their autoantibodies"
+ },
+ {
+   "A": "Question 188",
+   "B": "Myasthenic crisis can be provoked by:",
+   "C": " Bronchopulmonary infection",
+   "D": "Skin diseases",
+   "E": "Food allergies",
+   "F": "Increasing A/D"
+ },
+ {
+   "A": "Question 189",
+   "B": "The patient complains of visual impairment, on optic nerve testing, the patient was found to have visual field limitation on the outer side of the right eye and on the nasal side of the left eye. What is the syndrome called?",
+   "C": "Hemianopsia",
+   "D": "Loss of the central visual field",
+   "E": "Blindness in one eye",
+   "F": "Partial atrophy of the optic nerve"
+ },
+ {
+   "A": "Question 190",
+   "B": "To test this nerve, you use, spices, flavors, perfume.",
+   "C": "I",
+   "D": "II",
+   "E": "III",
+   "F": "X"
+ },
+ {
+   "A": "Question 191",
+   "B": "A 55-year-old female presents with 3-years history of severe lancinating pain extending from left ear to her maxillary area. Pain is triggered by chewing and brushing teeth. She was treated by otolaryngologist for sinus infection a year ago and undergone multiple dental work and teeth extraction with transient or no improvement. The most likely diagnosis is",
+   "C": "Trigeminal neuralgia",
+   "D": "Maxillary sinusitis",
+   "E": "Maxillary osteomyelitis",
+   "F": "Gradenigo's syndrome"
+ },
+ {
+   "A": "Question 192",
+   "B": "A 22-year-old obese female experiences right eye diplopia. She had weight gain in last year and her current BMI is 35. Her fundus examination reveals papilledema on the right side. The most likely cause of her symptoms is?",
+   "C": "Idiopathic lntracranial Hypertension",
+   "D": "Craniopharyngioma",
+   "E": "Optic neuritis",
+   "F": "Sagittal sinus thrombosis"
+ },
+ {
+   "A": "Question 193",
+   "B": "You are an intern, posted in the neurology ward in the Department of Internal Medicine. A 48-year-old woman was admitted with a history of muscle weakness. Investigations & examination revealed normal nerve conduction but flaccidity is seen. Which of the following would be the possible diagnosis?",
+   "C": "Myasthenia gravis",
+   "D": "GBS",
+   "E": "Transverse myelitis",
+   "F": "Traumatic neuritis"
+ },
+ {
+   "A": "Question 194",
+   "B": "A 63-year-old woman with T2DM, hypertension presented to your hospital with complaints of sudden onset right eye ptosis and diplopia, worse at the end of the day. She also had history of fatigue, intermittent muscle weakness for the past 1 month. Initial investigations were done. A probable diagnosis of Myasthenia Gravis made. Which of the following is not useful for the above diagnosis?",
+   "C": "Voltage gated calcium channel antibodies",
+   "D": "AChR antibodies",
+   "E": "Muscle-specific kinase antibodies",
+   "F": "Edrophonium test"
+ },
+ {
+   "A": "Question 195",
+   "B": "A 10-year-old female patient complains of weakness and pain in her right leg. She fell ill acutely and does not know the cause. However, she notes that before the complaints appeared, she was running and hit her knee on the ground while playing on a football field. In her neurological status, the Achilles reflex on the right is absent. Dorsal flexion is impossible. She cannot stand on her toes on the right. Which nerve is affected?",
+   "C": "Tibial neuropathy",
+   "D": "Ulnar neuropathy",
+   "E": "Sciatic neuropathy",
+   "F": "Radial nerve neuropathy"
+ },
+ {
+   "A": "Question 196",
+   "B": "A 10-year-old female patient complains of weakness in her left leg. She fell ill acutely and does not know the cause. However, she notes that before the complaints appeared, she picked berries while sitting on her knees. The neurological status shows that the left Achilles reflex is preserved. Left-sided steppage gait. What examination should be performed?",
+   "C": "Tissue biopsy",
+   "D": "CT",
+   "E": "EEG",
+   "F": "ENMG"
+ },
+ {
+   "A": "Question 197",
+   "B": "A 41-year-old man is diagnosed with myasthenia gravis. His weight is 80 kilograms. You have prescribed treatment. Of the steroids, you have suggested prednisolone 0.005 g in 1 tablet. Choose the correct treatment option.",
+   "C": "Steroids 16 tablet per day.",
+   "D": "Steroids 6 tablets per day.",
+   "E": "Steroids 10 tablets per day.",
+   "F": "Steroids 1 tablets per day."
+ },
+ {
+   "A": "Question 198",
+   "B": "Patient D., 12 years old, complains of rapid fatigue of the masticatory muscles and eyelid muscles. Neurological status: hemiptosis on both sides and weakness of the masticatory muscles. There were no obvious signs of damage to the central and peripheral nervous system. After performing stress tests (sit down and stand up 20 times), weakness of the orbicularis oculi muscles, muscles that lift the upper eyelid, and masticatory muscles was revealed. Your tactics to clarify the diagnosis:",
+   "C": "Brain MRI",
+   "D": "Proserine test",
+   "E": "CT scan of the brain",
+   "F": "EEG Holter"
+ },
+ {
+   "A": "Question 199",
+   "B": "In a child with suspected myasthenia gravis, what laboratory examination should be done first to clarify the diagnosis?",
+   "C": "general blood test",
+   "D": "blood for CPK LDH",
+   "E": " proserine test",
+   "F": "test with atropine"
+ },
+ {
+   "A": "Question 200",
+   "B": "A 16-year-old patient, according to her mother, complains of rapid fatigue of the masticatory muscles and eyelid muscles (“in the afternoon, the girl cannot open her eyes, they close and that’s it…”). Neurological status: hemiptosis on both sides and weakness of the masticatory muscles. After performing stress tests (sit down and stand up 20 times), weakness of the orbicularis oculi muscles, muscles that lift the upper eyelid, and masticatory muscles was revealed. Preliminary diagnosis?",
+   "C": "Spinal muscular atrophy",
+   "D": "Duchenne myopathy",
+   "E": "Shoulder-scapular myodystrophy Landouzy-Dejerine",
+   "F": "Myasthenia gravis"
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ }
+]
