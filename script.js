@@ -8,15 +8,19 @@ let correctCount = 0;
 let wrongCount = 0;
 let wrongQuestions = [];
 
-fetch("questions.json")
+// Load selected subject
+const subjectFile = localStorage.getItem('subjectFile') || 'ent.json';
+document.getElementById("quizTitle").innerText = subjectFile.replace('.json','').toUpperCase() + " Practice Quiz";
+
+fetch(subjectFile)
   .then(res => res.json())
   .then(data => {
     allQuestions = data;
 
-    // Shuffle all questions for this attempt
+    // Shuffle questions
     questions = shuffleQuestions([...allQuestions]);
 
-    // Shuffle options for each question
+    // Shuffle options
     questions.forEach(q => {
       q.randomizedOptions = shuffleOptions(q.options);
     });
@@ -24,7 +28,6 @@ fetch("questions.json")
     loadQ();
   });
 
-// Utility: shuffle questions
 function shuffleQuestions(arr) {
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -33,7 +36,6 @@ function shuffleQuestions(arr) {
   return arr;
 }
 
-// Utility: shuffle options, keep original index
 function shuffleOptions(opts) {
   const arr = opts.map((o, i) => ({ text: o, index: i }));
   for (let i = arr.length - 1; i > 0; i--) {
@@ -79,8 +81,6 @@ function check(index, el) {
   } else {
     wrongCount++;
     el.classList.add("wrong");
-
-    // store wrong question
     wrongQuestions.push({
       question: q.question,
       options: q.randomizedOptions.map(o => o.text),
@@ -131,7 +131,6 @@ function showResult() {
       html += `<div class="review-box">
                   <strong>${i + 1}. ${wq.question}</strong><br>
       `;
-
       wq.options.forEach((opt, idx) => {
         let style = "";
         if (idx === wq.correctIndex) style = "color:green; font-weight:bold;";
@@ -140,7 +139,6 @@ function showResult() {
                   ${String.fromCharCode(65+idx)}. ${opt}
                  </div>`;
       });
-
       html += `</div>`;
     });
   }
@@ -179,7 +177,7 @@ function restartQuiz() {
 
   const container = document.querySelector(".container");
   container.innerHTML = `
-    <h2>Neurology / ENT Practice Quiz</h2>
+    <h2 id="quizTitle">${subjectFile.replace('.json','').toUpperCase()} Practice Quiz</h2>
     <div id="questionBox"></div>
     <div id="optionsBox"></div>
     <div class="nav">
