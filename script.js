@@ -2,6 +2,12 @@ let questions = [];
 let current = 0;
 let answered = false;
 
+let attempted = 0;
+let correctCount = 0;
+let wrongCount = 0;
+
+let wrongQuestions = [];
+
 fetch("questions.json")
   .then(res => res.json())
   .then(data => {
@@ -32,14 +38,23 @@ function check(index, el) {
   if (answered) return;
   answered = true;
 
-  const correct = 0; // ALWAYS first option
+  attempted++;
 
+  const correct = 0; // correct option always first
   const options = document.querySelectorAll(".option");
 
   options[correct].classList.add("correct");
 
-  if (index !== correct) {
+  if (index === correct) {
+    correctCount++;
+  } else {
+    wrongCount++;
     el.classList.add("wrong");
+
+    wrongQuestions.push({
+      question: questions[current].question,
+      correctAnswer: questions[current].options[0]
+    });
   }
 }
 
@@ -47,6 +62,8 @@ function nextQ() {
   if (current < questions.length - 1) {
     current++;
     loadQ();
+  } else {
+    showResult();
   }
 }
 
@@ -63,4 +80,30 @@ function jumpQ() {
     current = n - 1;
     loadQ();
   }
+}
+
+function showResult() {
+  let html = `
+    <h2>Result Summary</h2>
+    <p><strong>Total Attempted:</strong> ${attempted}</p>
+    <p><strong>Correct Answers:</strong> ${correctCount}</p>
+    <p><strong>Wrong Answers:</strong> ${wrongCount}</p>
+    <hr>
+    <h3>Wrong Questions Review</h3>
+  `;
+
+  if (wrongQuestions.length === 0) {
+    html += `<p>🎉 Excellent! No wrong answers.</p>`;
+  } else {
+    wrongQuestions.forEach((wq, i) => {
+      html += `
+        <div style="margin-bottom:10px;">
+          <strong>${i + 1}. ${wq.question}</strong><br>
+          <span style="color:green;">Correct Answer: ${wq.correctAnswer}</span>
+        </div>
+      `;
+    });
+  }
+
+  document.querySelector(".container").innerHTML = html;
 }
