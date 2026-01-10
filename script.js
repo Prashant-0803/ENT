@@ -190,10 +190,11 @@ function restartQuiz() {
     </div>
     <hr>
     <div class="footer">
-      <p><strong></strong></p>
+      <p><strong>Developed By Gujrat Buddy</strong></p>
       <p>Officially Created By <strong>Prashant Vala</strong></p>
       <p class="disclaimer">
-        Disclaimer: NA
+        Disclaimer: This does not represent official Question & Answer.
+        The Developer is not responsible for any dispute.
       </p>
     </div>
   `;
