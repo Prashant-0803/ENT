@@ -1,2393 +1,2087 @@
-{
-  "subject": "8-Ophtalmology-2025",
-  "questions": [
-    {
-      "question_number": "Question 2",
-      "question": "True regarding lens of eye ",
-      "options": {
-        "A": "All stated",
-        "B": "Avascular ",
-        "C": "Epithelium is single layer ",
-        "D": "Ectoderm of origin ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 3",
-      "question": "Axial length of eye ball is",
-      "options": {
-        "A": "24mm",
-        "B": "20mm ",
-        "C": "16mm ",
-        "D": "28mm",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 4",
-      "question": "The structure with the highest refractive index in the human eye ",
-      "options": {
-        "A": "Cornea ",
-        "B": "Lens ",
-        "C": "Aqueous humor ",
-        "D": "Vitreous humor",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 5",
-      "question": "All of the following are true about layers of cornea except",
-      "options": {
-        "A": "  Type 2 & type 4 type of collagen are present in Descement membrane ",
-        "B": "Predescement's layer is also known as Dua’s layer",
-        "C": "Corneal Stroma is the thickest layer of the cornea ",
-        "D": "Endothelium is responsible for maintaining relatively dehydrated state of cornea",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 6",
-      "question": "A female baby was brought to your OPD for a general check-up. On examination, the baby was able to follow the bell of the stethoscope with her eyes when shown in front of her. The probable age of the child would be",
-      "options": {
-        "A": "3 months ",
-        "B": "6-8weeks ",
-        "C": "At birth ",
-        "D": "5-6 months",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 7",
-      "question": "A patient on anti-epileptic drugs now complains of progressive constriction of visual fields. Patient is on which drug? ",
-      "options": {
-        "A": "Vigabatrin ",
-        "B": "Ethosuximide ",
-        "C": "Phenobarbitone ",
-        "D": "Levetiracetam",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 8",
-      "question": "Which of the following factor is not responsible for lens transparency ",
-      "options": {
-        "A": "  Hydration",
-        "B": "Antioxidants ",
-        "C": "Aquaporins ",
-        "D": "Avascularity ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 9",
-      "question": "Which is not a clinical feature of right sided VI nerve palsy?",
-      "options": {
-        "A": "Convergent squint",
-        "B": "face turn to left",
-        "C": "inability to abduct right eye",
-        "D": "Diplopia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 10",
-      "question": "A 70-year-old patient with a significant past medical history of rheumatoid arthritis, hypertension, and diabetes mellitus presented to the hospital with sudden onset of blurry vision in his left eye three days prior. Ophthalmologic and Neurologic consultations initially revealed visual acuity was 20/40 on right eye; however, on the left eye, there was an apparent left sided visual loss. Patient's intraocular pressure was normal in both eyes, pupils were equally round and reactive to light, and no afferent pupillary defect was observed. Consequently, an initial head MRI with and without contrast was performed, which showed focal areas of restricted diffusion in the right medial temporal lobe, inferior right basal ganglia with possible involvement of the right lateral geniculate nucleus. Which visual field defects are seen in lateral geniculate body lesion?",
-      "options": {
-        "A": "Keyhole visual field defect ",
-        "B": "Pie in the floor ",
-        "C": "Pie in the sky ",
-        "D": "Homonyms hemianopia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 11",
-      "question": "Which one is true about accomodative power of lens?",
-      "options": {
-        "A": "Decrease with age ",
-        "B": "Lost after glaucoma surgery ",
-        "C": "6D at 80 years",
-        "D": "5D at 75 yrs",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 12",
-      "question": "What is a  common cause of night blindness?",
-      "options": {
-        "A": "Cataract ",
-        "B": "Glaucoma ",
-        "C": "Oguchi disease ",
-        "D": "Pathological myopia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 13",
-      "question": "The eye structures which do not belong to the optical system:",
-      "options": {
-        "A": "sclera, vascular layer",
-        "B": "anterior chamber",
-        "C": "lens",
-        "D": "vitreous humor",
-        "E": "cornea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 14",
-      "question": "Where will be position of the focus of spherical lens +0.5 D:",
-      "options": {
-        "A": "2.0 m",
-        "B": "1.0 m",
-        "C": "1.5 m",
-        "D": "0.5 m",
-        "E": "5.0 m"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 15",
-      "question": "Patient has myopia in the vertical meridian, in the horizontal - hypermetropia. What type of astigmatism:",
-      "options": {
-        "A": "mixed",
-        "B": "indirect",
-        "C": "regular",
-        "D": "simple",
-        "E": "complicated"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 16",
-      "question": "Patient has in one eye - myopia 3D., in another eye - myopia 6D. What is the condition?",
-      "options": {
-        "A": "anisometropia",
-        "B": " anisocoria",
-        "C": "aniseikonia",
-        "D": "astigmatism",
-        "E": "strabismus"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 17",
-      "question": "The physical refraction of the eye defines:",
-      "options": {
-        "A": "refractive power of all optical media of the eye",
-        "B": "refractive power of crystalline lens",
-        "C": "refractive power of the cornea",
-        "D": "by the position of the main focus in related to the retina",
-        "E": "refractive power of the lens and cornea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 18",
-      "question": "Best correction of unilateral aphakia is:",
-      "options": {
-        "A": "intraocular lens implantation",
-        "B": "contact lens",
-        "C": "spectacles",
-        "D": "none",
-        "E": "refractive surgery"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 19",
-      "question": "What is the best optical treatment option for correcting irregular astigmatism:",
-      "options": {
-        "A": "contact lens",
-        "B": "spectacles",
-        "C": "intraocular lens",
-        "D": "polarization lens",
-        "E": "prism"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 20",
-      "question": "In retinoscopy for distance of 1m the correction factor is -1,0D. What is the correction factor for retinoscopy done at 66cm?",
-      "options": {
-        "A": " -1,5.",
-        "B": " -1,0.",
-        "C": " -0,5.",
-        "D": " -2,0.",
-        "E": " -2,5."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 21",
-      "question": "What glasses is prescribed for 45-year-old patient for near work?",
-      "options": {
-        "A": "spherical +1.5 D",
-        "B": "spherical +2.0 D",
-        "C": "spherical +3,0 D",
-        "D": "spherical +4,0 D",
-        "E": "not needed."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 22",
-      "question": "What glasses for a 55-year-old patient with myopia -1.0D for near work:",
-      "options": {
-        "A": "spherical +1.5 D",
-        "B": "spherical +2.5 D",
-        "C": "spherical +3,0 D",
-        "D": "spherical +4,0 D",
-        "E": "not needed."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 23",
-      "question": "A 30-year-old man has 6\\5 vision each eye, unaided. His cycloplegic retinoscopy is +1,0D sphere at 1m distance. His complaints are blurring newsprint at 30 cm, that clears up in about two minutes. The most probably diagnosis:",
-      "options": {
-        "A": "accommodation inertia",
-        "B": "presbyopia",
-        "C": "hyperopia",
-        "D": "cycloplegia",
-        "E": "astigmatism"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 24",
-      "question": "Retinoscopy is done for:",
-      "options": {
-        "A": "refractive power of eye",
-        "B": "examination optic nerve",
-        "C": "examination retina",
-        "D": "axial length of eye",
-        "E": "to find out the power of IOL"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 25",
-      "question": "Yoke muscle of the right lateral rectus in dextroversion is the",
-      "options": {
-        "A": " Left medial rectus",
-        "B": " Left superior oblique",
-        "C": "Left inferior rectus",
-        "D": "Left superior rectus",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 26",
-      "question": "The muscle which makes an angle of about 51° with the optical axis is:",
-      "options": {
-        "A": "Superior  oblique",
-        "B": "Superioir rectus",
-        "C": "Inferioir rectus",
-        "D": "Lateral rectus",
-        "E": "medial rectus"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 27",
-      "question": "Which of the following is not true for binocular single vision?Provides  stereoscopic vision",
-      "options": {
-        "A": "Is present  since birth",
-        "B": "Provides  stereoscopic vision",
-        "C": "Is the cause of diplopia in paralytic squint",
-        "D": "Fusion is its second grade",
-        "E": " is develops by 2 y.o"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 28",
-      "question": "Treatment of amblyopia in a 3 yr old child is",
-      "options": {
-        "A": "Occlusion of one eye",
-        "B": "Orthoptic exercises",
-        "C": "Prism",
-        "D": "Surgery",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 29",
-      "question": "A 6 months-old girl with esotropia would be most likely to have?",
-      "options": {
-        "A": "Alternating fixation",
-        "B": "Strabismic amblyopia",
-        "C": "An accommodative component",
-        "D": "Dissociatived vertical deviation",
-        "E": "Diplopia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 30",
-      "question": "an 4 y.o boy has had onset of esotropia within the past years. Which of the following is a true statement about prism adaptation testing in this  child?",
-      "options": {
-        "A": "in prism adaptation responders, surgery based on the prism-adapted angle of esotropia, significantly improves the motor and sensory out-come",
-        "B": "any accommodative component to the child's esotropia is ignored in planning the amount of surgery after prism adaptation",
-        "C": "if this child does not respond to prism adaptation, surgery is unlikely to provide functional improvement",
-        "D": "in the child is a responder to prism adaptation, a smaller amount of surgery than indicated for initial amount of esotropia will be perfomed",
-        "E": "in the child does not  responder to prism adaptation, a bigger  amount of surgery than indicated for initial amount of esotropia will be perfomed"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 31",
-      "question": "A 47-year-old woman came to your clinic for her regular eye check-up. On examination of the anterior segment of the eye using slit lamp you can see all the structures except",
-      "options": {
-        "A": "Vitreous ",
-        "B": "Posterior chamber ",
-        "C": "Anterior chamber ",
-        "D": "Lens",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 32",
-      "question": "Anamaloscope is used to detect:",
-      "options": {
-        "A": "Color blidness",
-        "B": "Retinopathy",
-        "C": "Congenital glaucoma",
-        "D": "Squint",
-        "E": "glaucoma"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 33",
-      "question": "Snellen\"s chart is used to test:",
-      "options": {
-        "A": "Vision",
-        "B": "Refraction",
-        "C": "Presbyopia",
-        "D": "Color blidness",
-        "E": "Sguint"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 34",
-      "question": "A 65 y.o patien with glaucoma in perimetry was found consentric construction about 20 degree and IOP 28 mmHg,Indicate his stage of glaucoma? ",
-      "options": {
-        "A": "II stage",
-        "B": "I stage",
-        "C": "III stage",
-        "D": "IV stage",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 35",
-      "question": "A 25 y.o man with acute redness and purulent discharges in both eyes wich of the following diagnostic tests would be most  appropriate?",
-      "options": {
-        "A": "Slit -lamp examination",
-        "B": "Ophthalmoscopy",
-        "C": "Gonioscopy",
-        "D": "Tonomerty",
-        "E": "Visual acuity test"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 36",
-      "question": "A 20 y.o man  was  injured   by piece of metall in left  eye, wich of the following diagnostic tests  for localization of  foreign body in the eye would be most  appropriate?",
-      "options": {
-        "A": "X ray",
-        "B": "MRI",
-        "C": "OCT",
-        "D": "Anamaloscope",
-        "E": "Pachimetry"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 37",
-      "question": "A 35 y.o man with acute redness,pain,photophobia and decreased visual acuity in both eyes wich of the following diagnostic tests would be most  appropriate?",
-      "options": {
-        "A": "Slit lamp examination",
-        "B": "Ophthalmoscopy",
-        "C": "OCT",
-        "D": "Refractometry",
-        "E": "B scan"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 38",
-      "question": "A 62-year-old woman with Keratoconjunctivitis Sicca demonstrates corneal staining more likely in which location? ",
-      "options": {
-        "A": "Inferior third ",
-        "B": "Middle third (interpalpebral) ",
-        "C": "Superior third ",
-        "D": "Diffuse over entire cornea",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 39",
-      "question": "The sclera is thick in all the following conditions except",
-      "options": {
-        "A": "Buphthalmos",
-        "B": "Phthisis bulbi",
-        "C": "Posterior scleritis",
-        "D": "Nanophthalmos",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 40",
-      "question": "Surgically induced necrotizing scleritis (SINS) may occur in all of the following except ",
-      "options": {
-        "A": "Tarso- frontalis sling surgery",
-        "B": "Cataract surgery",
-        "C": "Trabeculectomy",
-        "D": "Pterygium excision",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 41",
-      "question": "A Patient developed acute redness of the eye with mucopurulent discharge and halos. It did not stain with fluorescein. The halos subsided after washing with clean water and the patient responded to five-day course of topical antibiotics. What should be your probable diagnosis? ",
-      "options": {
-        "A": "Acute bacterial conjunctivitis ",
-        "B": "Uveitis ",
-        "C": "Acute allergic conjuctivitis",
-        "D": "Immature senile cataract",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 42",
-      "question": "What is characteristic of acute viral conjunctivitis?",
-      "options": {
-        "A": "Watery discharge predominates",
-        "B": "Mucopurulent discharge",
-        "C": "Retinal involvement is most common",
-        "D": "Antibiotics are the mainstay of treatment",
-        "E": "Purulent discharge"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 43",
-      "question": "A recurrent bilateral conjunctivitis occurring with the onset of the the spring with the appearance of grass and flower pollen with symptoms of burning, itching and lacrimation with hyperaemia, chemosis and mild papillary reaction of conjunctiva is:",
-      "options": {
-        "A": "Simple allergic conjunctivitis",
-        "B": "Hyperacute conjunctivitis",
-        "C": "Acute bacterial conjunctivitis",
-        "D": "Adenoviral keratoconjunctivitis",
-        "E": "Mycotic conjunctivitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 44",
-      "question": "A patient with conjunctival infection led to corneal perforation. Swabs showed Gram negative cocci which had translucent colonies and were oxidase positive. What would be the most probable causative organism?",
-      "options": {
-        "A": "Neisseria gonorrhae",
-        "B": "Moraxella catarrahalis",
-        "C": "Pseudomonas aeruginosa",
-        "D": "Acinobacter actinatus",
-        "E": "Herpes simplex"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 45",
-      "question": "Drug of choice of trachoma is",
-      "options": {
-        "A": "Azithromycin",
-        "B": "Penicillin",
-        "C": "Tetracycline",
-        "D": "Chloremphenicol",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 46",
-      "question": "The specific topical remedy suggested for angular conjunctivitis is",
-      "options": {
-        "A": "Zinc oxide",
-        "B": "Sulphacetamide",
-        "C": "Dexamethasone",
-        "D": "Penicillin",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 47",
-      "question": "B-scan showing T sign due to fluid accumulation in sub-tenon space is seen in ",
-      "options": {
-        "A": "Posterior scleritis",
-        "B": "Optic neuritis",
-        "C": "Anterior scleritis",
-        "D": "Endophthalmitis",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 48",
-      "question": "A female patient 33 years old, consulted an ophthalmologist at the place of residence with complaints of pain, purulent discharge of right eye. Slit lamp examination revealed tense and swollen eyelids, purulent discharge copius trickling down the cheek, chemosis of  conjunctiva. Diagnosed with hyperacute conjunctivitis of adult. What treatment is preferable?",
-      "options": {
-        "A": "cefotaxime 500 mg IV qid",
-        "B": "2.5% amphotericin solution",
-        "C": "0.5% artificial tear solution",
-        "D": "systemic dexamethasone",
-        "E": "0.3 % fluconazole eye drops"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 49",
-      "question": "Patient M., 25 years old, complains of watering with mild mucoid discharge, photophobia, redness within 5 days. Examination revealed  conjunctival hyperaemia, follicles in the lower fornix, papillary reaction, petechial subconjunctival haemorrhages. Diagnosed with epidemic keratoconjunctivitis. What diagnostic method can be used to clarify the diagnosis?",
-      "options": {
-        "A": "Polymerase chain reaction (PCR)",
-        "B": "Immunofluorescence analysis",
-        "C": "Ultrasound of the eye",
-        "D": "General blood analysis",
-        "E": "Orbit x-ray"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 50",
-      "question": "A woman with a newborn consulted an ophthalmologist with complains of redness, purulent discharges and swelling of eyelids. Examination revealed  conjunctival hyperaemia and chemosis, thick purulent discharges, dense swelling of eyelids. From the anamnesis, it was found out that these symptoms appeared on the 5th day after birth. Diagnosed with gonococcal ophthalmia neonatorum. Antenatal measures of gonococcal ophthalmia neonatorum include:",
-      "options": {
-        "A": "Treatment of mother’s genital infections when suspected.",
-        "B": "Povidon-iodine 2.5% solution is effective against the common pathogens.",
-        "C": "The newborn baby's closed lids should bethoroughly cleansed and dried.",
-        "D": "Fluconazole is prescribed ",
-        "E": "Use of 1% tetracycline ointment."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 51",
-      "question": "Patient V., 43 years old, complains of intense itching and burning sensation, watery mucus, stringy discharge, mild photophobia of both eyes withing 2 days. Slit lamp examination revealed oedema of lids, conjunctival hyperaemia and chemosis, mild papillary reaction. Diagnosed with simple allergic conjunctivitis. What sign will help confirm the diagnosis:",
-      "options": {
-        "A": "Presence of abundant eosinophils in the discharge",
-        "B": "Сopious mucous discharge",
-        "C": "Presence of IgG in the discharge",
-        "D": "Mucopurulent discharges",
-        "E": "Сrusts on the eyelids"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 52",
-      "question": "Canalicular obstruction can be a side effect of all of the following except",
-      "options": {
-        "A": "Latanoprost ",
-        "B": "5-FU",
-        "C": "Phospholine iodide ",
-        "D": "Idoxuridine ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 53",
-      "question": "Which of the following is the treatment of choice of a 2-month-old child with C/C of watering and discharge of the eye with normal anterior and posterior chamber findings",
-      "options": {
-        "A": "Massage over lacrimal sac ",
-        "B": "Syringing and probing ",
-        "C": "Balloon catheter dilation ",
-        "D": "Dacryocystorhinostomy",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 54",
-      "question": "The ciliary staphyloma is due to ",
-      "options": {
-        "A": "Scleritis",
-        "B": "Choroiditis",
-        "C": "Iridocyclitis",
-        "D": "Myopia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 55",
-      "question": "Intermediate uveitis is also called as ",
-      "options": {
-        "A": "Pars planitis",
-        "B": "Chorioretinitis",
-        "C": "endoophtalmitis",
-        "D": "Panuveitis",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 56",
-      "question": "Sympathetic ophthalmitis is an example of",
-      "options": {
-        "A": "Bilateral non-suppurative uveitis",
-        "B": "Bilateral suppurative uveitis",
-        "C": "Unilateral non-suppurative uveitis",
-        "D": "Unilateral non-suppurative uveitis",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 57",
-      "question": "Are not causes of chronic granulomatous uveitis:",
-      "options": {
-        "A": " Fuchs heterochromic iridocyclitis",
-        "B": "Tuberculosis",
-        "C": "Brucellosis",
-        "D": "Sarcoidosis",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 58",
-      "question": "Uveal effusion syndrome is seen in all except",
-      "options": {
-        "A": "Myopia",
-        "B": "Ciliochoroidal detachment",
-        "C": "Structural defects in sclera",
-        "D": "Nanophthalmos",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 59",
-      "question": "Which anti-fungal can be administered intravitreally?",
-      "options": {
-        "A": "Fluconazole",
-        "B": "Voriconazole",
-        "C": "Ketoconazole",
-        "D": "Clotrimazole",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 60",
-      "question": "A 35-year-old woman with a history of HLA-B27-positive spondyloarthritis presents with redness, pain, and decreased vision in her right eye. On examination, there is a large, elevated, yellow-white lesion in the posterior pole with overlying vitritis. What is the most likely diagnosis?",
-      "options": {
-        "A": "Birdshot chorioretinitis",
-        "B": " Toxoplasmosis",
-        "C": "Cytomegalovirus retinitis",
-        "D": "Syphilitic chorioretinitis",
-        "E": "Acute retinal necrosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 61",
-      "question": "A 30-year-old man presents with a painful red eye and decreased vision in his left eye. On examination, there is severe anterior chamber inflammation with hypopyon and posterior synechiae. There is also a raised, necrotic lesion on the iris. What is the most likely diagnosis",
-      "options": {
-        "A": "Tuberculous uveitis",
-        "B": "Acute angle-closure glaucoma",
-        "C": "Iritis",
-        "D": "Herpetic uveitis",
-        "E": "Fungal endophthalmitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 62",
-      "question": "A 60-year-old man with a history of rheumatoid arthritis presents with redness, pain, and decreased vision in his right eye. On examination, there is a large, elevated, yellow-white lesion in the posterior pole with overlying vitritis. What is the most likely diagnosis?",
-      "options": {
-        "A": "Toxoplasmosis",
-        "B": "Acute retinal necrosis",
-        "C": "Cytomegalovirus retinitis",
-        "D": "Syphilitic chorioretinitis",
-        "E": "Birdshot chorioretinitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 63",
-      "question": "Constantly changing refractory error is seen in",
-      "options": {
-        "A": "Intumescent cataract",
-        "B": "Diabetic cataract",
-        "C": "Morgagnian cataract",
-        "D": "Traumatis cataract",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 64",
-      "question": "Which of the gene is most often implicated in congenital cataract and alpha crystallin mutation? ",
-      "options": {
-        "A": " CRYAA ",
-        "B": "PAX6 ",
-        "C": "PITX2 ",
-        "D": "GLC3A ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 65",
-      "question": "Windshield wiper syndrome is seen in ",
-      "options": {
-        "A": "  Malposition of lens ",
-        "B": "Posterior capsular opacification ",
-        "C": "Reaction to lens material ",
-        "D": "Dislocation of Intra ocular lens ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 66",
-      "question": "An infant present with bilateral white pupillary reflex. On slit lamp examination, a zone of opacity is observed around the fetal nucleus with spoke like radial opacities. The most likely diagnosis ",
-      "options": {
-        "A": "     Lamellar cataract ",
-        "B": "Nuclear cataract ",
-        "C": " Blue dot cataract ",
-        "D": "Posterior polar cataract",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 67",
-      "question": "Treatment of choice in aphakia is",
-      "options": {
-        "A": " Intra - ocular lens ",
-        "B": "Contact lens",
-        "C": "Spectacles",
-        "D": "Epikeratophakia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 68",
-      "question": "Field defect not seen in glaucoma is",
-      "options": {
-        "A": "Temporal field is first to be affected ",
-        "B": "Paracentral scotomas ",
-        "C": "Isolated scotoma may develop ",
-        "D": "Complete barring of blind spot ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 69",
-      "question": "A glaucoma patient presents with bulging of cornea. The most likely diagnosis is ",
-      "options": {
-        "A": "Staphyloma",
-        "B": "Keratomalacia",
-        "C": "Keratoconus",
-        "D": "Granular dystrophy",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 70",
-      "question": "Secondary glaucoma associated with angle recession is seen in",
-      "options": {
-        "A": "Concussion injury",
-        "B": "Radiation injury",
-        "C": "Perforating injury",
-        "D": "Chemical injury",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 71",
-      "question": "Intractable glaucoma characteristically occurs in which one of the following? ",
-      "options": {
-        "A": "Diffuse iris melanoma ",
-        "B": "Anterior iris melanocyte proliferation",
-        "C": "Posterior uveal melanocyte proliferation ",
-        "D": "Lens enlargement ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 72",
-      "question": "A 45-year-old female develops pain in the eyes after prone dark room test. Which of the drugs should be avoided? ",
-      "options": {
-        "A": "Atropine",
-        "B": "Pilocarpine ",
-        "C": "Timolol ",
-        "D": "Acetazolamide  ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 73",
-      "question": "A 40-year-old patient came to casualty with acute attack of asthma after starting treatment of glaucoma. The causative drug is ",
-      "options": {
-        "A": "Timolol",
-        "B": "Acetazolamide ",
-        "C": "Clonidine ",
-        "D": "Betaxolol ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 74",
-      "question": "A 44-year-old female is diagnosed with open angle glaucoma. The doctor prescribed topical beta blocker therapy to the patient. Which of the following is not a side effect of topical beta blockers ",
-      "options": {
-        "A": " Heterochromia iridis",
-        "B": "Asthma ",
-        "C": "Bradycardia ",
-        "D": "Hypoglycemia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 75",
-      "question": "A35 year old female presents with sudden onset severe pain in the left eye after watching movie. The pain is severe and there is progressive loss of vision. The ophthalmic surgeon notices ciliary congestion and shallow anterior chamber. The pupil is mid dilated and cornea is edematous. The probable diagnosis is",
-      "options": {
-        "A": "Angle closure glaucoma ",
-        "B": "CRVO ",
-        "C": "CRAO ",
-        "D": "Open angle glaucoma",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 76",
-      "question": "A 66-year-old male, homeless, was brought to Ophthal OPD. On examination, a dense hemorrhage in the posterior chamber of the right eye was found, involving the visual acuity. The normal anatomical contents of this chamber is/are",
-      "options": {
-        "A": "Aqueous humour ",
-        "B": "Retinal vessels ",
-        "C": "Vitreous humour ",
-        "D": "All stated",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 77",
-      "question": "The most common mechanism of eye injury in sports is",
-      "options": {
-        "A": "blunt trauma.",
-        "B": "mild abrasion.",
-        "C": "radiation injury.",
-        "D": "serious laceration",
-        "E": "cornea erosion"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 78",
-      "question": "Which of the following is the only injury for which treatment should be given without first testing visual acuity?",
-      "options": {
-        "A": "Chemical injury",
-        "B": "Retinal detachment",
-        "C": "Angle-closure glaucoma",
-        "D": "Mechanical globe injury",
-        "E": "Erosion of cornea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 79",
-      "question": "An objective examination of a patient has disclosed a symblepharon. According to the words, the patient suffered an eye injury several years ago. This pathology is a complication of what trauma?",
-      "options": {
-        "A": "Eye and adnexa burns",
-        "B": "Contusion of the eyeball",
-        "C": "Penetrating wound",
-        "D": "Foreign body of the cornea",
-        "E": "Crushing injury of the eyeball"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 80",
-      "question": "In case of damage to which bone orbital emphysema, occurs?",
-      "options": {
-        "A": "Ethmoid bone",
-        "B": "Temporal bone",
-        "C": " Frontal bone",
-        "D": "Zygomatic bone",
-        "E": "Lacrimal bone"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 81",
-      "question": "A 30-year-old patient was admitted to the Department of Neurotraumatology with drooping eyelid of his left eye. According to his words, he got into traffic accident and received hard blow from temporal side of the orbit. Upon examination: complete ptosis, vision is preserved, the eyeball is immobilized, the pupil is dilated, there is no corneal sensitivity. What led to this situation?",
-      "options": {
-        "A": "Trauma of the sphenoid bone",
-        "B": "Fracture of the suparior wall of the orbit",
-        "C": "Fracture of the inferior wall of the orbit",
-        "D": "Rupture of the superior oblique muscle from the block",
-        "E": "Fracture of the medial wall of the orbit"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 82",
-      "question": "Which one of the following regarding acute retinal necrosis is not true?",
-      "options": {
-        "A": " Posterior pole is involved initially with centrifugal spread ",
-        "B": "It is caused by herpes zoster virus",
-        "C": "Severe arteritis is common",
-        "D": "It may lead to retinal detachment",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 83",
-      "question": "False about In Creutzfeldt-Jakob disease (CJD)",
-      "options": {
-        "A": "The protein content of the cerebrospinal fluid is raised ",
-        "B": "EEG shows characteristic waveform",
-        "C": "Death usually occurs within 12 months of onset",
-        "D": "Cortical blindness is common ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 84",
-      "question": "Which of the following conditions is  termed as pseudoglioma?",
-      "options": {
-        "A": "Norrie disease",
-        "B": "Toxocara infestation",
-        "C": "Persistent hyperplastic primary vitreous",
-        "D": "Retinoblastoma",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 85",
-      "question": "Which type of retinoblastoma causes retinal detachment",
-      "options": {
-        "A": "Glioma exophytum",
-        "B": "Glioma endophytum",
-        "C": "Glioma planum",
-        "D": "All stated",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 86",
-      "question": "A 35-year-old patient of Insulin Dependent Diabetes Mellitus (IDDM) on insulin for the past 10 years complains of gradual progressive, painless loss of vision. What is the  possible diagnosis",
-      "options": {
-        "A": "Cataract",
-        "B": "Vitreous haemorrhage",
-        "C": "Rhegmatogenous retinal detachment",
-        "D": "Tractional retinal detachment not involving the macula",
-        "E": "Retinal Detechment"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 87",
-      "question": "An 11-month-old boy was admitted to the hospital with leukocoria in the right eye. On examination  he presented  no vision in the right eye and buphthalmos. USG and MRI of the right eye showed an intraocular tumor presenting calcfification compatible with retinoblastoma. What is the treatment of choice for this patient? ",
-      "options": {
-        "A": "Enucleation",
-        "B": "Evisceration",
-        "C": "Ionization",
-        "D": "Oxygenation",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 88",
-      "question": "The most rapid and accurate method to diagnose cytomegalovirus (CMV) retinitis is",
-      "options": {
-        "A": "Viral nucleic acid detection in intraocular fluid",
-        "B": "Virus antigen detection in vitreous",
-        "C": "Virus detection in intraocular fluid",
-        "D": "Viral antibody detection in blood by ELISA",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 89",
-      "question": "The Reese-Ellsworth classification for retinoblastoma is important for ",
-      "options": {
-        "A": " Assessment of the survival of the eye after local therapy ",
-        "B": "Management of the complications",
-        "C": "Management of the tumor",
-        "D": "Assessment of the survival of the patient after surgery",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 90",
-      "question": "According to Reese-Ellsworth classification, multiple tumors of 4-10 DD in size behind the equator belong to ",
-      "options": {
-        "A": " Group 2",
-        "B": "Group 3",
-        "C": "Group 1",
-        "D": "Group 4",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 91",
-      "question": "Which of the following regimen is commonly used in the treatment of retinoblastoma?",
-      "options": {
-        "A": "Vincristine, carboplatin and etoposide",
-        "B": "Vinblastine, vincristine and etoposide",
-        "C": "Vinblastine, vincristine and cisplatin",
-        "D": "Vinblastine, etoposide and bleomycin",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 92",
-      "question": "A young patient presents to the ophthalmology clinic with loss of central vision. There is no obvious family history. ERG and EOG were observed to be normal. Which the following is the most likely diagnosis? ",
-      "options": {
-        "A": "Stangardt's disease",
-        "B": "Best's vitelliform dystrophy",
-        "C": "Retinitis pigmentosa ",
-        "D": "Cone-rod dystrophy",
-        "E": "central areolar choroidal dystrophy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 93",
-      "question": "A 26-year-old female presented with a slowly enlarging painless mass in her front neck. This mass had grown over a three-year period. She has the sensation that food is getting stuck in the upper throat, lack of concentration and attentiveness, and easily feel fatigued. Thyroid Ultrasound revealed Graves’ disease. If the patient has eye involvement with the progression of the disease, the first eye muscle to get affected will be",
-      "options": {
-        "A": "Inferior rectus ",
-        "B": "Lateral rectus ",
-        "C": "Medial rectus ",
-        "D": "Superior rectus",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 94",
-      "question": "Pseudoproptosis is the simulation of abnormal prominence or a true asymmetry that is not associated with displacement of the globe. Which of the following condition is not a cause for this? ",
-      "options": {
-        "A": "Hypermetropia ",
-        "B": "Lagophthalmos ",
-        "C": "Lid retraction ",
-        "D": "Enophthalmos of fellow eye",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 95",
-      "question": "A patient 29-year-old female with a 19-year history of insulin-dependent diabetes mellitus. Her visual acuity is 20/20 OU. Fundus examination of the right eye reveals the vitreous to be clear. No neovascularization is visible on the disc, but there are numerous microaneurysms, venous beading, and rare cotton-wool spots. Examination of the left fundus also reveals a clear vitreous with no blood present, microhemorragies. DS: Preproliferative diabetic retinopathy. What is the most common cause of visual loss in patients with nonproliferative diabetic retinopathy?  ",
-      "options": {
-        "A": "Diabetic macular edema",
-        "B": "Macular pigmentary disturbance",
-        "C": "Traction retinal detachment",
-        "D": "Vitreous hemorrage",
-        "E": "Optic neuritis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 96",
-      "question": "A 24-year-old man with a 10-year history of insulin-dependent diabetes mellitus presents with a visual acuity of 20/25 OD and 20/200 OS. Ophthalmoscopy OD: macula demonstrates hard exudates, a small area of flat retinal neovascularization is present. The vitreous is clear. OS: diffuse retinal thickening throughout the macula, scattered hard exudates, and blot hemorrhages. Marked neovascularization of the disc, nasal retinal neovascularization with mild vitreous hemorrhage. DS: Proliferative diabetic retinopathy. What is the surgical treatment?",
-      "options": {
-        "A": "Laser photocoagulation",
-        "B": "Irodotomy",
-        "C": "Scleroplasty",
-        "D": "Laser trabeculoplasty",
-        "E": "Goniotomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 97",
-      "question": "You see a 26-year-old man with a 15-year history of insulin-dependent diabetes mellitus for the first time. His visual acuity is 20/20 OU. Fundus examination of the right eye reveals the vitreous to be clear. No neovascularization is visible on the disc or elsewhere; however, there are numerous microaneurysms, venous beading, and rare cotton-wool spots. Examination of the left fundus also reveals a clear vitreous with no blood present, but there is a frond of elevated neovascularization arising from the disc, and another small patch of neovascularization away from the disc along the inferonasal arcade. Which method of investigation will determine the form of this pathology?",
-      "options": {
-        "A": "Fluorescence angiography",
-        "B": "Slit lamp",
-        "C": "Refractometry",
-        "D": "Diaphanoscopy",
-        "E": "Gonioscopy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 98",
-      "question": "A 48-year-old man with a 15-year history of insulin-dependent diabetes and chronic hypercholesterolemia sought consultation because of blurred vision of several weeks duration. Examination of the eye: VOU - 20/40. Slit-lamp examination showed only trace nuclear lens opacity. Funduscopic examination showed moderate microaneurysms scattered about all quadrants of both eyes. In the right eye, there neovascular changes were seen. In the left eye, in addition to the microaneurysms there was early neovascularization at the disc. Nonsurgical treatment?",
-      "options": {
-        "A": "Anti-VEGF therapy",
-        "B": "Antibacterial therapy",
-        "C": "Increasing insulin dose",
-        "D": "Decreasing insulin dose",
-        "E": "Add artificial eye drops"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 99",
-      "question": " A patient 65 year-old with 8 year history of insulin independent diabetes mellitis came to ophthalmologist for a consultation. The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. DS: Nonproliferative diabetic retinopathy. Which method of investigation will determine the form of this pathology?",
-      "options": {
-        "A": "Fluorescence angiography",
-        "B": "Slit lamp",
-        "C": "Refractometry",
-        "D": "Diaphanoscopy",
-        "E": "Tonometry"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 100",
-      "question": "A patient with nanophthalmos has persistent appositional-angle closure after a successful iridotomy. Which of the following laser procedures would be an appropriate treatment to attempt to open the angle? ",
-      "options": {
-        "A": "Laser gonioplasty",
-        "B": "Cyclophotocoagulation",
-        "C": "Laser trabeculoplasty",
-        "D": "Capsulotomy",
-        "E": "Laser trabeculotomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 101",
-      "question": "Which of the following is known as the structure responsible for accommodation? ",
-      "options": {
-        "A": "Ciliary body",
-        "B": "Retina ",
-        "C": "Optic nerve ",
-        "D": "Sclera ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 102",
-      "question": "The neural crest is a highly migratory multi potent cell population that forms at the interface between the neuroepithelium and the prospective epidermis of a developing embryo. Following extensive migration throughout the embryo, NC cells eventually settle to differentiate into multiple cell types. Which of the following is not a neural crest derivative?",
-      "options": {
-        "A": "Sphincter pupillae",
-        "B": "Melanocytes ",
-        "C": "Ciliary ganglion ",
-        "D": "Ciliary muscle ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 103",
-      "question": "When does the eye morphogenesis start taking place? ",
-      "options": {
-        "A": "22 days",
-        "B": "15 days",
-        "C": "49 days",
-        "D": "6 months",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 104",
-      "question": "Not a feature at birth",
-      "options": {
-        "A": "Lens is biconcave in shape",
-        "B": "Corneal diameter is lesser ",
-        "C": "Myelination of nerve fibres is till lamina cribrosa ",
-        "D": "Anteroposterior diameter is 17 mm ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 105",
-      "question": "Ascorbic acid transport in cornea is mediated by ",
-      "options": {
-        "A": "  Sodium – potassium pump",
-        "B": "Carbonic anhydrase pump ",
-        "C": "Myoinositol pump ",
-        "D": "Passive diffusion",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 106",
-      "question": "Fixation of visual reflexes is accomplished by ",
-      "options": {
-        "A": "6 month ",
-        "B": "1 year ",
-        "C": "2 year ",
-        "D": "3 year ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 107",
-      "question": "A patient with homonymous hemianopia is found to have asymmetric optokinetic nystagmus. The location of the lesion is ",
-      "options": {
-        "A": "Parietal lobe ",
-        "B": "Occipital lobe ",
-        "C": "Temporal lobe ",
-        "D": "Lateral geniculate body",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 108",
-      "question": "Bitemporal hemianopcia can be localised to:",
-      "options": {
-        "A": "Optic chiasm",
-        "B": "Optic nerve",
-        "C": "Occipital cortex",
-        "D": "Parietal lobe",
-        "E": "Temporal lobe"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 109",
-      "question": ". A 30year old lady presents with sudden severe bilateral loss of vision more so on right side with no perception of light. Rest of the examination including pupillary reflex, fund us and optokinetic nystagmus are normal. She was able to touch tips of her finger with right eye closed but not with left eye closed. Most likely diagnosis? ",
-      "options": {
-        "A": "Functional visual loss",
-        "B": "Anterior ischemic optic neuropathy ",
-        "C": "CMV retinitis ",
-        "D": "Optic neuritis ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 110",
-      "question": "A patient presents with headache and bitemporal hemianopia with 6/6 vision. This condition is seen with ",
-      "options": {
-        "A": "Craniopharyngioma ",
-        "B": "Optic nerve glioma ",
-        "C": "Posterior cerebral artery occlusion ",
-        "D": "AION",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 111",
-      "question": "Where will be position of the main focus in emmetropic eye: ",
-      "options": {
-        "A": "on the retina",
-        "B": "before the retina",
-        "C": "behind the retina",
-        "D": "on the lens",
-        "E": "on the cornea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 112",
-      "question": "Where will be position of the main focus in hyperopic eye: ",
-      "options": {
-        "A": "behind the retina",
-        "B": "before the retina",
-        "C": "on the retina",
-        "D": "on the lens",
-        "E": "on the cornea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 113",
-      "question": "The greatest refractive power of eye structures is contributed by:",
-      "options": {
-        "A": "cornea",
-        "B": "anterior chamber",
-        "C": "vitreous humor",
-        "D": "lens",
-        "E": "aqueous humor"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 114",
-      "question": "What is the reason of presbyopia?",
-      "options": {
-        "A": "age related decreasing of accommodation due to hardness of crystalline lens ",
-        "B": "age related relaxation ciliary muscles ",
-        "C": "age related decreasing function of the retina",
-        "D": "age related dysfunction of suspensor ligaments",
-        "E": "opacity of the lens"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 115",
-      "question": "Aniseikonia will be due to ",
-      "options": {
-        "A": "different size images in the fundus of both eyes ",
-        "B": "different degrees of refraction in both eyes ",
-        "C": "is not the same refraction in different meridians of one eye ",
-        "D": "changing refraction during one of the meridians of eyes ",
-        "E": "different degrees of refraction in one eye "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 116",
-      "question": "When a drinking straw is placed in a container of water, it seems to be broken because of:",
-      "options": {
-        "A": "refraction",
-        "B": "total internal reflection",
-        "C": "apparent depth",
-        "D": "lateral inversion",
-        "E": "Snell's Law"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 117",
-      "question": "What’s false about accommodation:",
-      "options": {
-        "A": "range of accommodation is the difference in dioptric power between the eye at rest and the fully accommodated eye",
-        "B": "the near point of distinct vision refers to clear near vision when maximum accommodation is used.",
-        "C": "the far point of distinct vision of an emmetropic eye is at infinity ",
-        "D": "dynamic refraction refers to the dioptric power of the accommodated eye",
-        "E": "static refraction refers to the dioptric power of a resting eye"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 118",
-      "question": "A 35-year-old man has normal distance vision but complaints of difficulty in near vision. His retinoscopy shows +2.0D sphere. Probably diagnosis?",
-      "options": {
-        "A": "hypermetropia",
-        "B": "myopia",
-        "C": "presbyopia",
-        "D": "accommodative inertia",
-        "E": "amblyopia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 119",
-      "question": "Mydriatic drop to be used in a 5 -year-old child for:",
-      "options": {
-        "A": "refractometry",
-        "B": "ophthalmoscopy",
-        "C": "perimetry",
-        "D": "visometry",
-        "E": "tonometry"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 120",
-      "question": "On performing retinoscopy using a plane mirror in patient who has a refractive error of -3.0D sphere with -2,0D cyl at 90° from a distance 1m, the reflex would move:",
-      "options": {
-        "A": "against the movement in both the axes",
-        "B": "with the movement in both the axes",
-        "C": "with the movement in the horizontal axis and against the movement in vertical axis ",
-        "D": "with the movements in the vertical axis and against the movement in the horizontal axis",
-        "E": "no movement"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 121",
-      "question": "A 10- years- old girl, visited ophthalmologist with complaints of low vision of left eye. On examination: VOD= 1.0. VOS= 0.08 n/c (noncorrected). Ophthalmoscopy revealed no pathology of fundus. What additional method is needed to clarify the diagnosis? ",
-      "options": {
-        "A": "refractometry",
-        "B": "perimetry",
-        "C": "tonometry",
-        "D": "campimetry",
-        "E": "adaptometry"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 122",
-      "question": "A 13-year-old boy turned to an ophthalmologist with complaints of deterioration of distance vision. During his examination it was revealed that he has a spasm of accommodation. What diagnostic measure is necessary for the patient to improve his condition? ",
-      "options": {
-        "A": "Purkinje test",
-        "B": "dye test",
-        "C": "Schirmer test",
-        "D": "cycloplegia",
-        "E": "Seidel test"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 123",
-      "question": "What complications are not typical for patients with hyperopia?",
-      "options": {
-        "A": "nystagmus",
-        "B": "chronic blepharitis",
-        "C": "amblyopia",
-        "D": "accommodative asthenopia",
-        "E": "converging squint"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 124",
-      "question": "What is the method of refractive surgery for myopia:",
-      "options": {
-        "A": "LASIK",
-        "B": "Goniotomy",
-        "C": "Dacryocystorhinostomy",
-        "D": "Trabeculectomy",
-        "E": "Vitrectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 125",
-      "question": "A 3-year-old child presents with a right convergent squint of 6 months duration. What is the appropriate management?",
-      "options": {
-        "A": "Immediate surgical correction followed by & amblyopia therapy",
-        "B": "Proper refractive correction, amblyopia therapy followed by surgical correction",
-        "C": "Prescription of spectacles and defer surgery until 5 years",
-        "D": "Botulinum toxin injection followed by occlusion therapy",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 126",
-      "question": "Pseudoesotropia is associated with ",
-      "options": {
-        "A": "negative angle kappa",
-        "B": "positive angle kappa",
-        "C": "Hyperrtelorism",
-        "D": "non of the above",
-        "E": "myopia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 127",
-      "question": "Pseudoextropia is associated with",
-      "options": {
-        "A": "positive angle kappa",
-        "B": "Prominent epical fold",
-        "C": "negative angle kappa",
-        "D": "non of the above",
-        "E": "all above"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 128",
-      "question": "Treatment of accommodative strabismus is",
-      "options": {
-        "A": "Refractive correction",
-        "B": "Lens implant",
-        "C": "Orthoptic exercises",
-        "D": "Prism correction",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 129",
-      "question": "Which of the following is true of complications following strabismus  surgery?",
-      "options": {
-        "A": "Scleral perforation requires prophylactic treatment for possible endophthalmitis or retinal detachment",
-        "B": "Diplopia is most common in patients who develop a consecutive deviation",
-        "C": "Unsatisfactory aligment can occur with any surgical approach and therefore should not be considered a complication",
-        "D": "orbital cellulitis typicaly does not present untill 2 or 3 weeks postoperatively",
-        "E": "all above"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 130",
-      "question": "Botulinum toxin injection is the least suitable for which of the following?",
-      "options": {
-        "A": "Large -angle exotropia",
-        "B": "small to moderate -angle esotropia",
-        "C": "postoperativa residual strabismus",
-        "D": "weakening of an antagonist muscle in acute paralytic strabimus",
-        "E": "nistagmus"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 131",
-      "question": "Which of the following is not a source of error in the applanation tonometry? ",
-      "options": {
-        "A": " Tear film ",
-        "B": "High Pressure on the globe ",
-        "C": "Astigmatism ",
-        "D": "Wide pulse pressure",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 132",
-      "question": "Photostress test is positive in:",
-      "options": {
-        "A": "Central serous retinopathy",
-        "B": "optic neuritis",
-        "C": "Ethambutol toxicity",
-        "D": "central retinal artery occlusion",
-        "E": "all of the above"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 133",
-      "question": "Indentation tonometer is based on the fundamental fact that a plunger with indent",
-      "options": {
-        "A": "More in soft eye",
-        "B": "more in hard eye",
-        "C": "equal in soft and hard eye",
-        "D": "more in children eye",
-        "E": "none of the above"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 134",
-      "question": "Diagnostic tests that are useful in evaluation of the patient who has sustained a penetrating injury include all of the following,except",
-      "options": {
-        "A": "MRI",
-        "B": "CT",
-        "C": "Electrophysiology",
-        "D": "Indirect ophthalmoscopy",
-        "E": "Echography"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 135",
-      "question": "A normal electroretinogram is ussualy found in all of the following diseases affecting the retina exept:",
-      "options": {
-        "A": "Juvenile retinoschisis",
-        "B": "Dominant drusen",
-        "C": "Viteliform dystrophy",
-        "D": "X-lincked ocular albibism",
-        "E": "Pattern dystrophy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 136",
-      "question": "A 67 y.o old woman with a complaint of sadden and painless lost of vision in right eye, which of the following  examination can be useful?",
-      "options": {
-        "A": "OCT",
-        "B": "Perimetey",
-        "C": "Tonometry",
-        "D": "Schirmer's test",
-        "E": "Pachimetry"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 137",
-      "question": "Diagnostic tests that are useful in evaluation of the patient who has sustained a penetrating injury with intraocular foreign body into antrior chamber, wich  of the following ?",
-      "options": {
-        "A": "Gonioscopy",
-        "B": "Tonometry",
-        "C": "HRT",
-        "D": "MRI",
-        "E": "Ophthalmoscopy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 138",
-      "question": "Corneal verticillata is a condition characterized by corneal deposits at the level of the basal epithelium forming a faint golden-brown whorl pattern. All of the following below are causative factor for this condition except",
-      "options": {
-        "A": "  Tay sach's disease",
-        "B": "Chloroquine ",
-        "C": "Fabry disease ",
-        "D": "lndomethacin ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 139",
-      "question": "Most common type of Ptosis",
-      "options": {
-        "A": "Myogenic",
-        "B": "Neurogenic",
-        "C": "Aponeurotic",
-        "D": "Mechanical",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 140",
-      "question": "Which pathology causes lipogranulomatous inflammation?",
-      "options": {
-        "A": "Fungal infection",
-        "B": "Tuberculosis",
-        "C": "Chalazion",
-        "D": "Viral infection",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 141",
-      "question": "Which of these pathologies treated by Weiss operation?",
-      "options": {
-        "A": "Cicatricial entropion",
-        "B": "Senile entropion",
-        "C": "Senile ectropion",
-        "D": "Cicatricial ectropion",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 142",
-      "question": "Corneal sensation are decreased in:",
-      "options": {
-        "A": "Herpes simplex",
-        "B": "Fungal infection",
-        "C": "Trachoma",
-        "D": "Scleritis",
-        "E": "Acute bacterial ulcer"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 143",
-      "question": "Patient N., 27 years old, complains of discomfort, foreign body sensation, slight blurring of vision within 1 day. On examination, visual acuity was 6/6. Slit lamp examination revealed conjunctival congestion, eyelids were slightly oedematous. From the anamnesis it was recognized that cilia were stuck together with yellow crusts at the morning. The expected diagnosis can be:",
-      "options": {
-        "A": "acute bacterial conjunctivitis",
-        "B": "hyperacute conjunctivitis of adult",
-        "C": "viral conjunctivitis",
-        "D": "fungal conjunctivitis",
-        "E": "angular conjunctivitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 144",
-      "question": "A female patient 33 years old, consulted an ophthalmologist at the place of residence. Slit lamp examination revealed central necrosis of cornea. It was found that this complication appeared after suffering conjunctivitis with thick purulent discharge and severe inflammation . What conjunctivitis can be suspected in anamnesis?",
-      "options": {
-        "A": "hyperacute conjunctivitis of adult",
-        "B": "viral conjunctivitis",
-        "C": "fungal conjunctivitis",
-        "D": "herpes simplex  conjunctivitis",
-        "E": "angular conjunctivitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 145",
-      "question": "Halos due to conjunctiva can be eliminated by ",
-      "options": {
-        "A": "Irrigation",
-        "B": "Slit",
-        "C": "Syringing ",
-        "D": "Any od stated",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 146",
-      "question": "Drug of choice in eye in trachoma endemic areas? ",
-      "options": {
-        "A": "Azithromycin",
-        "B": "Ganciclovir ",
-        "C": "Clindamycin ",
-        "D": "Erytromycin",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 147",
-      "question": "The operation for application of lower lid retractors is done for ",
-      "options": {
-        "A": "Paralytic entropion",
-        "B": "Senile entropion",
-        "C": "Cicatrical entropion",
-        "D": "Congenital entropion",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 148",
-      "question": "Patient S., 25 years old, consulted an ophthalmologist with complains of intense itching and burning sensation, watery mucus, stringy discharge, mild photophobia of both eyes withing 5 days. Slit lamp examination revealed oedema of lids, conjunctival hyperaemia and chemosis, mild papillary reaction. Diagnosed with allergic conjunctivitis. What drugs will increase the effect of anti-allergic drops?",
-      "options": {
-        "A": "systemic antihistaminic drugs",
-        "B": "non-steroidal anti-inflammatory drugs",
-        "C": "topical antibiotics",
-        "D": " artificial tears like carboxymethyl cellulose",
-        "E": "topical cyclosporine"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 149",
-      "question": "Patient О., 53 years old, complains of pain and foreign body sensation, watering from the eye, mild photophobia and blurred vision. Diagnosed with bacterial corneal ulcer. What material is needed to study the causative agent of the ulcer?",
-      "options": {
-        "A": "scraping the base and margins of the corneal ulcer",
-        "B": "imprint from the surface of the cornea",
-        "C": "blood from a vein",
-        "D": "corneal biopsy",
-        "E": "discharges"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 150",
-      "question": "Patient G., 53 years old, consulted an ophthalmologist at the place of residence with complaints of mild ocular irritation, pain, photophobia and watering, decreased vision of the left eye. Examination revealed: corneal ulcer is dry-looking, greyish white, feathery finger-like extensions are present, multiple, small satellite lesions present around the ulcer. Diagnosed with mycotic corneal ulcer. What diagnostic method is effective?",
-      "options": {
-        "A": "Gram and Giemsa-stained films for fungal hyphae",
-        "B": "Enzyme-linked immunosorbent assay (ELISA)",
-        "C": "General blood analysis",
-        "D": "IgG Study of Blood Sera",
-        "E": "Determination of bacterial cells in the discharges"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 151",
-      "question": "Patient L., 43 years old, consulted an ophthalmologist at the place of residence with complaints of mild ocular irritation, pain, photophobia and watering, decreased vision of the left eye. Examination revealed: corneal ulcer is dry-looking, greyish white, feathery finger-like extensions are present, multiple, small satellite lesions present around the ulcer. Diagnosed with mycotic corneal ulcer. Options for treatment?",
-      "options": {
-        "A": "fluconalzole (0.3%) ",
-        "B": "0.5% artificial tear solution",
-        "C": "0.3% solution of cypromed",
-        "D": "1% tetracycline ointment",
-        "E": "everything is correct"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 152",
-      "question": "A 23-year-old female was brought to ER after she had a hit in the face with a metal instrument. On examination, right facial laceration, and contusion were noted. On examination, fracture of the right inferior orbital rim with an associated fluid level in the maxillary sinus, air within the superior orbit, and significant soft tissue swelling. Which of the following is not true about the anatomy of inferior walls of the orbit",
-      "options": {
-        "A": "It transmits trigeminal nerves and vessels ",
-        "B": "lnfraorbital foramen is about 1 cm from orbital rim",
-        "C": "Formed by Maxilla & zygomatic bones ",
-        "D": "Triangular in shape",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 153",
-      "question": "Treatment of choice of acute dacryocystitis",
-      "options": {
-        "A": "Systemic antibiotics and analgesics ",
-        "B": "Syringing and probing ",
-        "C": "Massage over lacrimal sac",
-        "D": "Dacryocystorhinostomy",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 154",
-      "question": "The pathognomonic sign of acute anterior uveitis is ",
-      "options": {
-        "A": " Keratic precipitates",
-        "B": "Оpacity of the vitreous body",
-        "C": "Retinal detachment",
-        "D": "Retinal hemorrhage",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 155",
-      "question": "Which of the following indicates active inflammation in anterior uveitis?",
-      "options": {
-        "A": "Cells in anterior chamber",
-        "B": "Circumcorneal congestion",
-        "C": "Keratic precipitate",
-        "D": "Corneal edema",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 156",
-      "question": "Which medication has been associated with a sterile hypopyon anterior uveitis in AIDS patients?",
-      "options": {
-        "A": "Rifabutin",
-        "B": "Zidovudine",
-        "C": "Indinavir",
-        "D": "Pentamidine",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 157",
-      "question": "The most common secondaries in choroid are from",
-      "options": {
-        "A": "Breast",
-        "B": "Brain",
-        "C": "ovary/ Testis",
-        "D": "Lungs",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 158",
-      "question": "A 20-year-old woman presents with a painful red eye and decreased vision in her left eye. On examination, there is severe anterior chamber inflammation with hypopyon and posterior synechiae. There is also a raised, necrotic lesion on the iris. What is the most likely diagnosis?",
-      "options": {
-        "A": "Herpetic uveitis",
-        "B": "Acute angle-closure glaucoma",
-        "C": " Iritis",
-        "D": "Fungal endophthalmitis",
-        "E": "Tuberculous uveitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 159",
-      "question": "A 50-year-old man presents with redness, pain, and decreased vision in his left eye. On examination, there is a sectoral iris atrophy, posterior synechiae, and a cataract. What is the most likely diagnosis?",
-      "options": {
-        "A": "Fuchs heterochromic iridocyclitis",
-        "B": "Posner-Schlossman syndrome",
-        "C": "Acute angle-closure glaucoma",
-        "D": "Cytomegalovirus retinitis",
-        "E": "Sympathetic ophthalmia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 160",
-      "question": "A 50-year-old man presents with blurred vision and ocular pain. On examination, there is circumciliary congestion and miosis. The intraocular pressure is elevated. Which of the following is the most likely diagnosis?",
-      "options": {
-        "A": "Anterior uveitis",
-        "B": "Posterior uveitis",
-        "C": "Intermediate uveitis",
-        "D": "Panuveitis",
-        "E": "Scleritis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 161",
-      "question": "A 25-year-old woman presents with blurred vision and photophobia in her right eye. On examination, there is ciliary injection and a small, oval-shaped pupil that reacts poorly to light. The intraocular pressure is normal. Which of the following is the most likely diagnosis",
-      "options": {
-        "A": "Anterior uveitis",
-        "B": "Acute angle-closure glaucoma",
-        "C": "Cataract",
-        "D": "Corneal ulcer",
-        "E": "Retinal detachment"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 162",
-      "question": "A 60-year-old man presents with a sudden onset of floaters and decreased vision in his left eye. On examination, there is a vitreous hemorrhage and retinal detachment. Which of the following is the most likely cause of this presentation?",
-      "options": {
-        "A": "Posterior uveitis",
-        "B": "Anterior uveitis",
-        "C": "Intermediate uveitis",
-        "D": "Panuveitis",
-        "E": "Scleritis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 163",
-      "question": "Which of the following complication in cataract surgery may cause uncontrolled hypertension?",
-      "options": {
-        "A": "Glaucoma ",
-        "B": "Retinal detachment ",
-        "C": "Endophthalmitis ",
-        "D": "Suprachoroidal hemorrhage",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 164",
-      "question": "A patient complains of inability in reading a newspaper, particularly in bright sunlight. What is the most likely diagnosis?",
-      "options": {
-        "A": " Hemeralopia",
-        "B": "Presbyopia",
-        "C": "Posterior subcapsular cataract ",
-        "D": "Hypermetropia",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 165",
-      "question": "Which of the following associations is correct ?",
-      "options": {
-        "A": "Posterior subcapsular cataract in Retinitis pigmentosa",
-        "B": "Posterior cataract in Amiodarone user ",
-        "C": "Anterior lenticonus in Sjogren's syndrome ",
-        "D": "Cataract in RA",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 166",
-      "question": "Which of the following is true about the difference between congenital cataract surgery and senile cataract surgery? ",
-      "options": {
-        "A": "Incidence of Posterior capsular opacification is higher ",
-        "B": "Incidence of conjunctivitis is higher ",
-        "C": "The energy used in phacoemulsification is higher",
-        "D": "The chances of refractive surprise is low",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 167",
-      "question": "Where are seen fluctuating refractive errors with cataract ?",
-      "options": {
-        "A": "Morgagnian cataract",
-        "B": "Diabetic cataract",
-        "C": "Intumescent cataract",
-        "D": "Traumatic cataract",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 168",
-      "question": "You have been referred a middle-aged patient to rule out open angle glaucoma. Which of the following findings will help in the diagnosis",
-      "options": {
-        "A": "Cupping of the disc",
-        "B": "Depth of anterior chamber",
-        "C": "Visual acuity and refractive error",
-        "D": "Angle of the anterior chamber",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 169",
-      "question": "In a hypertensive patient with glaucoma, which of the following is not used",
-      "options": {
-        "A": "Dipivefrine",
-        "B": "Beta blockers",
-        "C": "Alpha agonist",
-        "D": "Laser trabeculoplasty",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 170",
-      "question": "You have been referred a middle-aged patient to rule out open angle glaucoma. Which of the following findings will help in the diagnosis? ",
-      "options": {
-        "A": "Cupping of the disc ",
-        "B": "Depth of anterior chamber ",
-        "C": "Visual acuity and refractive error ",
-        "D": "Angle of the anterior chamber",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 171",
-      "question": "Correction factor used in estimating disc structures when assessing through 90 D lens",
-      "options": {
-        "A": 1.3,
-        "B": "1.0",
-        "C": "0,88",
-        "D": "1.1",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 172",
-      "question": "A 55-year-old diabetic patient who has recently underwent pan retinal photocoagulation for proliferative diabetic retinopathy presents with corneal edema. neovascularization over iris and an IOP of 55 mmHg. Which medications is not suitable for this patient?",
-      "options": {
-        "A": " Pilocarpine",
-        "B": "Dorzolamide ",
-        "C": "Apraclonidine ",
-        "D": "Atropine",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 173",
-      "question": "A 30 days old baby presents with excessive lacrimation and photo phobia. He has large hazy cornea in both eyes. His lacrimal system is normal. What is the treatment of choice for this case? ",
-      "options": {
-        "A": " Trabeculectomy + Trabeculotomy ",
-        "B": "Trabeculectomy +MMC ",
-        "C": "Goniotomy ",
-        "D": "lridotomy",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 174",
-      "question": "Which diagnostic procedure is not done in a dilated pupil? ",
-      "options": {
-        "A": "Gonioscopy ",
-        "B": "Laser inferometry ",
-        "C": "Fundus examination ",
-        "D": "Electroretinography",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 175",
-      "question": "The patient is a woman who complained of sharp pain, redness and blurry vision in the left eye. She was diagnosed with phacomorphic glaucoma. What type of surgical treatment is indicated in this case?",
-      "options": {
-        "A": "Lens extraction",
-        "B": "Dacryocystorhinostomy",
-        "C": "Scleraplasty",
-        "D": "Vitrectomy",
-        "E": "Laser photocoagulasion"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 176",
-      "question": "The most common cause of post-traumatic endophthalmitis is ",
-      "options": {
-        "A": "Staphyloeoeeus epidermidis",
-        "B": "Staphyloeoeeus aureus",
-        "C": "Aspergillus",
-        "D": "Bacillus cereus",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 177",
-      "question": "Spontaneous hyphema occurs in ",
-      "options": {
-        "A": "Juvenile xanthogranuloma",
-        "B": "Behcet's disease",
-        "C": "SLE",
-        "D": "Syphilis",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 178",
-      "question": "An 18 year old boy comes to the eye casuality with history of injury with a tennis ball. On examination there is no perforation but there is hyphaema. The most likely source of the blood is",
-      "options": {
-        "A": "Iris vessels",
-        "B": "Circulus iridis major",
-        "C": "Circulus iridis minor",
-        "D": "Short posterior ciliary vessels",
-        "E": "Choroid vessels"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 179",
-      "question": "A 29-year-old patient went to the local clinic with complaints of pain, redness, decreased object vision in the right eye, according to the patient, 2 weeks ago he received an industrial injury while repairing a car, objectively: VOD= 0.05 uncorrected, VOS= 1.0. Right eye: the eye is injected, the cornea is slightly swollen, the iris has a yellow-green pigment deposition, the pupil is rounded, in the center, the lens is transparent, the fundus of the eye is unremarkable. What is your presumptive diagnosis?",
-      "options": {
-        "A": "Siderosis",
-        "B": "Chalcozis",
-        "C": "Hypopyon",
-        "D": "Hyphema",
-        "E": "Cataract"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 180",
-      "question": "28-year-old patient consulted an ophthalmologist with complaints of severe burning sensation, a sharp decrease in object vision, edema of the eyelids, profuse lacrimation, with difficulty opening his eyes. According to the patient, while working in the laundry, foamy water got into his eyes. Objectively, VOU=0.3, the eyelids are hyperemic, edematous, the cornea is de-epithelized, cloudy, the intraocular medium is not visible. The ophthalmologist ascertained colliquation necrosis, what causes such necrosis?",
-      "options": {
-        "A": "Alkali",
-        "B": "Acids",
-        "C": "Increased temperature",
-        "D": "Infrared rays",
-        "E": "Ultraviolet rays"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 181",
-      "question": "The patient has edema of upper and lower eyelids; skin of eyelids is unchanged and painless. Eye fissure is narrowed. Eyelid has crepitation on palpation. What can be assumed in this situation about the possible cause of this condition?",
-      "options": {
-        "A": "Fracture of medial wall of the orbit",
-        "B": "Fracture of zygomatic bone",
-        "C": "Fracture of maxilla bone ",
-        "D": "Coloboma of upper eyelid",
-        "E": "Abscessing barley of upper eyelid\n\n"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 182",
-      "question": "Where does Retinoblastoma arises from?",
-      "options": {
-        "A": "Pigmentary epithelium",
-        "B": "Neurosensory retina",
-        "C": "Optic nerve",
-        "D": "None of the above",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 183",
-      "question": "What is the treatment of choice for anterior lesions of retinoblastoma?",
-      "options": {
-        "A": "Cryotherapy",
-        "B": "Photocoagulation",
-        "C": "Both cryotherapy and photocoagulation",
-        "D": NaN,
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 184",
-      "question": "What is he most common clinical presentation of retinoblastoma?",
-      "options": {
-        "A": "Leucocoria plus heterochromia iridis",
-        "B": "Leucocoria plus pseudohypopyon",
-        "C": "Leucocoria plus hyphema",
-        "D": "Leucocoria plus strabismus",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 185",
-      "question": "An obese 43-year-old female complains of transient visual obscuration, headache and diplopia. All the following are findings EXCEPT",
-      "options": {
-        "A": "Cerebral venous thrombosis ",
-        "B": "Increased intracranial pressure ",
-        "C": "Papilledema ",
-        "D": "3rd nerve palsy ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 186",
-      "question": "A young patient presents with sudden, painless loss of vision in one eye. Ocular examination reveals visual acuity of perception of light and cherry red spot on the fundus. A systolic murmur is heard on the chest. The probable diagnosis is:",
-      "options": {
-        "A": "Central retinal artery occlusion",
-        "B": "Central retinal vein occlusion",
-        "C": "Multifocal choroiditis with infective endocarditis",
-        "D": "Central serous retinopathy",
-        "E": "Hypertensive Retinopathy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 187",
-      "question": "A 50-year-old man was brought to the hospital due to severe ocular pain and a sudden loss of vision in the right eye while straining in a pull-up exercise. After a complete ocular examination. suprachoroidal hemorrhage was detected. Which of the following is true regarding the condition of this patient?",
-      "options": {
-        "A": "Deep anterior chamber ",
-        "B": "Increasing of IOP",
-        "C": "Bleeding from short posterior ciliary artery into suprachoroidal space ",
-        "D": "Self-resolving",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 188",
-      "question": "A 35-year-old male patient with visual acuity of 6/6 in both eyes. Twelve hours ago, he presented with drop of vision of the left eye. On examination, visual acuity was 6/6 in the right eye and 6/60 in the left eye. Fundus examination showed blurred edges of the left optic disc. What is the treatment of choice in this case? ",
-      "options": {
-        "A": "Timolol",
-        "B": "IV steroids ",
-        "C": "Antibiotics",
-        "D": "lmmunosuppressant",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 189",
-      "question": "Which stage is considered to be subtotal retinal detachment in case of retinopathy of prematurity (ROP)? ",
-      "options": {
-        "A": "Stage 2",
-        "B": "Stage 3 ",
-        "C": "Stage 4",
-        "D": "Stage 5",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 190",
-      "question": "A 35-year-old female presented with history of sudden loss of vision of the right eye for 3 days' duration. It was associated with pain in eye movement. She had a history of fever associated with ataxic gait a year ago. She had been diagnosed to have acute disseminated encephalomyelitis (ADEMJ at that time and had been treated with oral prednisolone. ocular examination revealed visual acuity of the right eye was counting finger with a positive afferent pupillary defect. The ophthalmologist suspecting optic neuritis. Which of the following is not necessary for investigating optic neuritis?",
-      "options": {
-        "A": "USG B scan ",
-        "B": "ESR ",
-        "C": "MRI head and orbit ",
-        "D": "Visual Fields",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 191",
-      "question": "A patient presented with complaints of diplopia. O/E pupils were dilated. Both direct and consensual light reflexes were lost. The diagnosis is",
-      "options": {
-        "A": "3rd nerve palsy ",
-        "B": "2nd nerve palsy ",
-        "C": "5th nerve palsy ",
-        "D": "7th nerve palsy",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 192",
-      "question": "A 6 year old child presents due to an episode of ptosis of the right eye for 1 hour. He vitals are normal and no past medical history.Physical examination reveals that his eye isdeviated downward and laterally. Which nerve palsy is associated with this patient's condition?",
-      "options": {
-        "A": "CN 3",
-        "B": "CN 5",
-        "C": "CN 4",
-        "D": "CN 6",
-        "E": "CN 8"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 193",
-      "question": "Gyrate atrophy is characterized by all of the following except",
-      "options": {
-        "A": "Ornithine transcarbamylase deficiency",
-        "B": "Peripheral RPE affected initially",
-        "C": "High serum omithine levels",
-        "D": "Abnormalities of chromosome 10",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 194",
-      "question": "This 53-year-old man with a 10-year history of adult-onset diabetes mellitus presented with a 2-month history of blurred vision OU. Medical history is positive for hypertension, peripheral neuropathy, and a history of hepatitis C. Best corrected visual acuity was 20/20 OU. Slit-lamp examination was unremarkable. The intraocular pressure was 11 mm Hg in the right eye and 12 mm Hg in the left eye. Funduscopic examination on the right showed a normal disc, no macular edema, macular lipid, or neovascularization. Intraretinal hemorrhages in two quadrants and a mild degree in the other two quadrants were present in both eyes. There was a cotton-wool spot superior to the right macula. Fluorescein angiography demonstrated microaneurysms with mild perifoveal capillary dropout, but no neovascularization. What is your diagnosis?",
-      "options": {
-        "A": "Nonproliferative diabetic retinopathy",
-        "B": "Background retinopathy",
-        "C": "Proliferative diabetic retinopathy",
-        "D": "Hypertensive retinopathy",
-        "E": "Central vein occlusion"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 195",
-      "question": "A patient 63-year-old man with 8 year history of type 2 diabetes mellitus came to an ophthalmologist for consultation The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. What is the type of retinopathy by fundus examination?",
-      "options": {
-        "A": "Nonproliferative diabetic retinopathy",
-        "B": "Background retinopathy",
-        "C": "Proliferative diabetic retinopathy",
-        "D": "Hypertensive retinopathy",
-        "E": "Central vein occlusion"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 196",
-      "question": "A 67-year-old female, suffering from diabetes mellitus for past 14 years is now complaining of photopsia, small spots and floaters in the fields of vision. Since the past 3 days, she is having visual loss in right eye with appearance of a curtain. DS: diabetic retinopathy with retinal detachment on right side. Surgical treatment?",
-      "options": {
-        "A": "Vitrectomy",
-        "B": "Iridotomy",
-        "C": "Scleraplasty",
-        "D": "Laser trabeculoplasty",
-        "E": "Goniotomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 197",
-      "question": "A patient 64 year-old with 7 year history of insulin independent diabetes mellitis came to ophthalmologist for a consultation. The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. DS: Nonproliferative diabetic retinopathy. Surgical treatment?",
-      "options": {
-        "A": "Laser photocoagulation",
-        "B": "Iridotomy",
-        "C": "Scleroplasty",
-        "D": "Laser trabeculoplasty",
-        "E": "Goniotomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 198",
-      "question": "A 48-year-old man with a 16-year history of insulin-dependent diabetes and chronic hypercholesterolemia sought consultation because of blurred vision of several weeks duration. Examination of the eye: VOU - 20/45. Slit-lamp examination showed only trace nuclear lens opacity. Funduscopic examination showed moderate microaneurysms scattered about all quadrants of both eyes. In the right eye, there was clinically signicant diabetic macular edema with a circinate lipid ring surrounding the center of the macula. No neovascular changes were seen. In the left eye, in addition to the microaneurysms and macular edema with lipid, there was early neovascularization at the disc. Which method of investigation will determine the form of this pathology?",
-      "options": {
-        "A": "Fluorescence angiography",
-        "B": "Slit lamp",
-        "C": "Refractometry",
-        "D": "Diaphanoscopy",
-        "E": "Goniotomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 199",
-      "question": "A patient 65 year-old with 8 year history of insulin dependent diabetes mellitis came to ophthalmologist for a consultation. The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. DS: Nonproliferative diabetic retinopathy. Nonsurgical treatment?",
-      "options": {
-        "A": "Anti-VEGF therapy",
-        "B": "Antibacterial therapy",
-        "C": "Increasing insulin dose",
-        "D": "Decreasing insulin dose",
-        "E": "Add corticisteroid drops"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 200",
-      "question": "Which of the following treatment plans is most appropriate for first-line treatment of a patient with early glaucoma who has indicated they will be likely to forget to take their eyedrops? ",
-      "options": {
-        "A": "Trabeculoplasty",
-        "B": "Trabeculectomy",
-        "C": "Acetazolomide",
-        "D": "Travoprost",
-        "E": "Timolol"
-      },
-      "correct_answer": "A"
-    }
-  ]
-}
+[
+  {
+    "question": "True regarding lens of eye ",
+    "options": [
+      "All stated",
+      "Avascular ",
+      "Epithelium is single layer ",
+      "Ectoderm of origin "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Axial length of eye ball is",
+    "options": [
+      "24mm",
+      "20mm ",
+      "16mm ",
+      "28mm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The structure with the highest refractive index in the human eye ",
+    "options": [
+      "Cornea ",
+      "Lens ",
+      "Aqueous humor ",
+      "Vitreous humor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "All of the following are true about layers of cornea except",
+    "options": [
+      "  Type 2 & type 4 type of collagen are present in Descement membrane ",
+      "Predescement's layer is also known as Dua’s layer",
+      "Corneal Stroma is the thickest layer of the cornea ",
+      "Endothelium is responsible for maintaining relatively dehydrated state of cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A female baby was brought to your OPD for a general check-up. On examination, the baby was able to follow the bell of the stethoscope with her eyes when shown in front of her. The probable age of the child would be",
+    "options": [
+      "3 months ",
+      "6-8weeks ",
+      "At birth ",
+      "5-6 months"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient on anti-epileptic drugs now complains of progressive constriction of visual fields. Patient is on which drug? ",
+    "options": [
+      "Vigabatrin ",
+      "Ethosuximide ",
+      "Phenobarbitone ",
+      "Levetiracetam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following factor is not responsible for lens transparency ",
+    "options": [
+      "  Hydration",
+      "Antioxidants ",
+      "Aquaporins ",
+      "Avascularity "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is not a clinical feature of right sided VI nerve palsy?",
+    "options": [
+      "Convergent squint",
+      "face turn to left",
+      "inability to abduct right eye",
+      "Diplopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 70-year-old patient with a significant past medical history of rheumatoid arthritis, hypertension, and diabetes mellitus presented to the hospital with sudden onset of blurry vision in his left eye three days prior. Ophthalmologic and Neurologic consultations initially revealed visual acuity was 20/40 on right eye; however, on the left eye, there was an apparent left sided visual loss. Patient's intraocular pressure was normal in both eyes, pupils were equally round and reactive to light, and no afferent pupillary defect was observed. Consequently, an initial head MRI with and without contrast was performed, which showed focal areas of restricted diffusion in the right medial temporal lobe, inferior right basal ganglia with possible involvement of the right lateral geniculate nucleus. Which visual field defects are seen in lateral geniculate body lesion?",
+    "options": [
+      "Keyhole visual field defect ",
+      "Pie in the floor ",
+      "Pie in the sky ",
+      "Homonyms hemianopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which one is true about accomodative power of lens?",
+    "options": [
+      "Decrease with age ",
+      "Lost after glaucoma surgery ",
+      "6D at 80 years",
+      "5D at 75 yrs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a  common cause of night blindness?",
+    "options": [
+      "Cataract ",
+      "Glaucoma ",
+      "Oguchi disease ",
+      "Pathological myopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The eye structures which do not belong to the optical system:",
+    "options": [
+      "sclera, vascular layer",
+      "anterior chamber",
+      "lens",
+      "vitreous humor",
+      "cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where will be position of the focus of spherical lens +0.5 D:",
+    "options": [
+      "2.0 m",
+      "1.0 m",
+      "1.5 m",
+      "0.5 m",
+      "5.0 m"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient has myopia in the vertical meridian, in the horizontal - hypermetropia. What type of astigmatism:",
+    "options": [
+      "mixed",
+      "indirect",
+      "regular",
+      "simple",
+      "complicated"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient has in one eye - myopia 3D., in another eye - myopia 6D. What is the condition?",
+    "options": [
+      "anisometropia",
+      " anisocoria",
+      "aniseikonia",
+      "astigmatism",
+      "strabismus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The physical refraction of the eye defines:",
+    "options": [
+      "refractive power of all optical media of the eye",
+      "refractive power of crystalline lens",
+      "refractive power of the cornea",
+      "by the position of the main focus in related to the retina",
+      "refractive power of the lens and cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Best correction of unilateral aphakia is:",
+    "options": [
+      "intraocular lens implantation",
+      "contact lens",
+      "spectacles",
+      "none",
+      "refractive surgery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the best optical treatment option for correcting irregular astigmatism:",
+    "options": [
+      "contact lens",
+      "spectacles",
+      "intraocular lens",
+      "polarization lens",
+      "prism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In retinoscopy for distance of 1m the correction factor is -1,0D. What is the correction factor for retinoscopy done at 66cm?",
+    "options": [
+      " -1,5.",
+      " -1,0.",
+      " -0,5.",
+      " -2,0.",
+      " -2,5."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What glasses is prescribed for 45-year-old patient for near work?",
+    "options": [
+      "spherical +1.5 D",
+      "spherical +2.0 D",
+      "spherical +3,0 D",
+      "spherical +4,0 D",
+      "not needed."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What glasses for a 55-year-old patient with myopia -1.0D for near work:",
+    "options": [
+      "spherical +1.5 D",
+      "spherical +2.5 D",
+      "spherical +3,0 D",
+      "spherical +4,0 D",
+      "not needed."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old man has 6\\5 vision each eye, unaided. His cycloplegic retinoscopy is +1,0D sphere at 1m distance. His complaints are blurring newsprint at 30 cm, that clears up in about two minutes. The most probably diagnosis:",
+    "options": [
+      "accommodation inertia",
+      "presbyopia",
+      "hyperopia",
+      "cycloplegia",
+      "astigmatism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Retinoscopy is done for:",
+    "options": [
+      "refractive power of eye",
+      "examination optic nerve",
+      "examination retina",
+      "axial length of eye",
+      "to find out the power of IOL"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Yoke muscle of the right lateral rectus in dextroversion is the",
+    "options": [
+      " Left medial rectus",
+      " Left superior oblique",
+      "Left inferior rectus",
+      "Left superior rectus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The muscle which makes an angle of about 51° with the optical axis is:",
+    "options": [
+      "Superior  oblique",
+      "Superioir rectus",
+      "Inferioir rectus",
+      "Lateral rectus",
+      "medial rectus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not true for binocular single vision?Provides  stereoscopic vision",
+    "options": [
+      "Is present  since birth",
+      "Provides  stereoscopic vision",
+      "Is the cause of diplopia in paralytic squint",
+      "Fusion is its second grade",
+      " is develops by 2 y.o"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Treatment of amblyopia in a 3 yr old child is",
+    "options": [
+      "Occlusion of one eye",
+      "Orthoptic exercises",
+      "Prism",
+      "Surgery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 6 months-old girl with esotropia would be most likely to have?",
+    "options": [
+      "Alternating fixation",
+      "Strabismic amblyopia",
+      "An accommodative component",
+      "Dissociatived vertical deviation",
+      "Diplopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "an 4 y.o boy has had onset of esotropia within the past years. Which of the following is a true statement about prism adaptation testing in this  child?",
+    "options": [
+      "in prism adaptation responders, surgery based on the prism-adapted angle of esotropia, significantly improves the motor and sensory out-come",
+      "any accommodative component to the child's esotropia is ignored in planning the amount of surgery after prism adaptation",
+      "if this child does not respond to prism adaptation, surgery is unlikely to provide functional improvement",
+      "in the child is a responder to prism adaptation, a smaller amount of surgery than indicated for initial amount of esotropia will be perfomed",
+      "in the child does not  responder to prism adaptation, a bigger  amount of surgery than indicated for initial amount of esotropia will be perfomed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 47-year-old woman came to your clinic for her regular eye check-up. On examination of the anterior segment of the eye using slit lamp you can see all the structures except",
+    "options": [
+      "Vitreous ",
+      "Posterior chamber ",
+      "Anterior chamber ",
+      "Lens"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Anamaloscope is used to detect:",
+    "options": [
+      "Color blidness",
+      "Retinopathy",
+      "Congenital glaucoma",
+      "Squint",
+      "glaucoma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Snellen\"s chart is used to test:",
+    "options": [
+      "Vision",
+      "Refraction",
+      "Presbyopia",
+      "Color blidness",
+      "Sguint"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 65 y.o patien with glaucoma in perimetry was found consentric construction about 20 degree and IOP 28 mmHg,Indicate his stage of glaucoma? ",
+    "options": [
+      "II stage",
+      "I stage",
+      "III stage",
+      "IV stage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25 y.o man with acute redness and purulent discharges in both eyes wich of the following diagnostic tests would be most  appropriate?",
+    "options": [
+      "Slit -lamp examination",
+      "Ophthalmoscopy",
+      "Gonioscopy",
+      "Tonomerty",
+      "Visual acuity test"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20 y.o man  was  injured   by piece of metall in left  eye, wich of the following diagnostic tests  for localization of  foreign body in the eye would be most  appropriate?",
+    "options": [
+      "X ray",
+      "MRI",
+      "OCT",
+      "Anamaloscope",
+      "Pachimetry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35 y.o man with acute redness,pain,photophobia and decreased visual acuity in both eyes wich of the following diagnostic tests would be most  appropriate?",
+    "options": [
+      "Slit lamp examination",
+      "Ophthalmoscopy",
+      "OCT",
+      "Refractometry",
+      "B scan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 62-year-old woman with Keratoconjunctivitis Sicca demonstrates corneal staining more likely in which location? ",
+    "options": [
+      "Inferior third ",
+      "Middle third (interpalpebral) ",
+      "Superior third ",
+      "Diffuse over entire cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The sclera is thick in all the following conditions except",
+    "options": [
+      "Buphthalmos",
+      "Phthisis bulbi",
+      "Posterior scleritis",
+      "Nanophthalmos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Surgically induced necrotizing scleritis (SINS) may occur in all of the following except ",
+    "options": [
+      "Tarso- frontalis sling surgery",
+      "Cataract surgery",
+      "Trabeculectomy",
+      "Pterygium excision"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A Patient developed acute redness of the eye with mucopurulent discharge and halos. It did not stain with fluorescein. The halos subsided after washing with clean water and the patient responded to five-day course of topical antibiotics. What should be your probable diagnosis? ",
+    "options": [
+      "Acute bacterial conjunctivitis ",
+      "Uveitis ",
+      "Acute allergic conjuctivitis",
+      "Immature senile cataract"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is characteristic of acute viral conjunctivitis?",
+    "options": [
+      "Watery discharge predominates",
+      "Mucopurulent discharge",
+      "Retinal involvement is most common",
+      "Antibiotics are the mainstay of treatment",
+      "Purulent discharge"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A recurrent bilateral conjunctivitis occurring with the onset of the the spring with the appearance of grass and flower pollen with symptoms of burning, itching and lacrimation with hyperaemia, chemosis and mild papillary reaction of conjunctiva is:",
+    "options": [
+      "Simple allergic conjunctivitis",
+      "Hyperacute conjunctivitis",
+      "Acute bacterial conjunctivitis",
+      "Adenoviral keratoconjunctivitis",
+      "Mycotic conjunctivitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with conjunctival infection led to corneal perforation. Swabs showed Gram negative cocci which had translucent colonies and were oxidase positive. What would be the most probable causative organism?",
+    "options": [
+      "Neisseria gonorrhae",
+      "Moraxella catarrahalis",
+      "Pseudomonas aeruginosa",
+      "Acinobacter actinatus",
+      "Herpes simplex"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Drug of choice of trachoma is",
+    "options": [
+      "Azithromycin",
+      "Penicillin",
+      "Tetracycline",
+      "Chloremphenicol"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The specific topical remedy suggested for angular conjunctivitis is",
+    "options": [
+      "Zinc oxide",
+      "Sulphacetamide",
+      "Dexamethasone",
+      "Penicillin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "B-scan showing T sign due to fluid accumulation in sub-tenon space is seen in ",
+    "options": [
+      "Posterior scleritis",
+      "Optic neuritis",
+      "Anterior scleritis",
+      "Endophthalmitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A female patient 33 years old, consulted an ophthalmologist at the place of residence with complaints of pain, purulent discharge of right eye. Slit lamp examination revealed tense and swollen eyelids, purulent discharge copius trickling down the cheek, chemosis of  conjunctiva. Diagnosed with hyperacute conjunctivitis of adult. What treatment is preferable?",
+    "options": [
+      "cefotaxime 500 mg IV qid",
+      "2.5% amphotericin solution",
+      "0.5% artificial tear solution",
+      "systemic dexamethasone",
+      "0.3 % fluconazole eye drops"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient M., 25 years old, complains of watering with mild mucoid discharge, photophobia, redness within 5 days. Examination revealed  conjunctival hyperaemia, follicles in the lower fornix, papillary reaction, petechial subconjunctival haemorrhages. Diagnosed with epidemic keratoconjunctivitis. What diagnostic method can be used to clarify the diagnosis?",
+    "options": [
+      "Polymerase chain reaction (PCR)",
+      "Immunofluorescence analysis",
+      "Ultrasound of the eye",
+      "General blood analysis",
+      "Orbit x-ray"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with a newborn consulted an ophthalmologist with complains of redness, purulent discharges and swelling of eyelids. Examination revealed  conjunctival hyperaemia and chemosis, thick purulent discharges, dense swelling of eyelids. From the anamnesis, it was found out that these symptoms appeared on the 5th day after birth. Diagnosed with gonococcal ophthalmia neonatorum. Antenatal measures of gonococcal ophthalmia neonatorum include:",
+    "options": [
+      "Treatment of mother’s genital infections when suspected.",
+      "Povidon-iodine 2.5% solution is effective against the common pathogens.",
+      "The newborn baby's closed lids should bethoroughly cleansed and dried.",
+      "Fluconazole is prescribed ",
+      "Use of 1% tetracycline ointment."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient V., 43 years old, complains of intense itching and burning sensation, watery mucus, stringy discharge, mild photophobia of both eyes withing 2 days. Slit lamp examination revealed oedema of lids, conjunctival hyperaemia and chemosis, mild papillary reaction. Diagnosed with simple allergic conjunctivitis. What sign will help confirm the diagnosis:",
+    "options": [
+      "Presence of abundant eosinophils in the discharge",
+      "Сopious mucous discharge",
+      "Presence of IgG in the discharge",
+      "Mucopurulent discharges",
+      "Сrusts on the eyelids"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Canalicular obstruction can be a side effect of all of the following except",
+    "options": [
+      "Latanoprost ",
+      "5-FU",
+      "Phospholine iodide ",
+      "Idoxuridine "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the treatment of choice of a 2-month-old child with C/C of watering and discharge of the eye with normal anterior and posterior chamber findings",
+    "options": [
+      "Massage over lacrimal sac ",
+      "Syringing and probing ",
+      "Balloon catheter dilation ",
+      "Dacryocystorhinostomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The ciliary staphyloma is due to ",
+    "options": [
+      "Scleritis",
+      "Choroiditis",
+      "Iridocyclitis",
+      "Myopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Intermediate uveitis is also called as ",
+    "options": [
+      "Pars planitis",
+      "Chorioretinitis",
+      "endoophtalmitis",
+      "Panuveitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sympathetic ophthalmitis is an example of",
+    "options": [
+      "Bilateral non-suppurative uveitis",
+      "Bilateral suppurative uveitis",
+      "Unilateral non-suppurative uveitis",
+      "Unilateral non-suppurative uveitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Are not causes of chronic granulomatous uveitis:",
+    "options": [
+      " Fuchs heterochromic iridocyclitis",
+      "Tuberculosis",
+      "Brucellosis",
+      "Sarcoidosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Uveal effusion syndrome is seen in all except",
+    "options": [
+      "Myopia",
+      "Ciliochoroidal detachment",
+      "Structural defects in sclera",
+      "Nanophthalmos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which anti-fungal can be administered intravitreally?",
+    "options": [
+      "Fluconazole",
+      "Voriconazole",
+      "Ketoconazole",
+      "Clotrimazole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old woman with a history of HLA-B27-positive spondyloarthritis presents with redness, pain, and decreased vision in her right eye. On examination, there is a large, elevated, yellow-white lesion in the posterior pole with overlying vitritis. What is the most likely diagnosis?",
+    "options": [
+      "Birdshot chorioretinitis",
+      " Toxoplasmosis",
+      "Cytomegalovirus retinitis",
+      "Syphilitic chorioretinitis",
+      "Acute retinal necrosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old man presents with a painful red eye and decreased vision in his left eye. On examination, there is severe anterior chamber inflammation with hypopyon and posterior synechiae. There is also a raised, necrotic lesion on the iris. What is the most likely diagnosis",
+    "options": [
+      "Tuberculous uveitis",
+      "Acute angle-closure glaucoma",
+      "Iritis",
+      "Herpetic uveitis",
+      "Fungal endophthalmitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year-old man with a history of rheumatoid arthritis presents with redness, pain, and decreased vision in his right eye. On examination, there is a large, elevated, yellow-white lesion in the posterior pole with overlying vitritis. What is the most likely diagnosis?",
+    "options": [
+      "Toxoplasmosis",
+      "Acute retinal necrosis",
+      "Cytomegalovirus retinitis",
+      "Syphilitic chorioretinitis",
+      "Birdshot chorioretinitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Constantly changing refractory error is seen in",
+    "options": [
+      "Intumescent cataract",
+      "Diabetic cataract",
+      "Morgagnian cataract",
+      "Traumatis cataract"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the gene is most often implicated in congenital cataract and alpha crystallin mutation? ",
+    "options": [
+      " CRYAA ",
+      "PAX6 ",
+      "PITX2 ",
+      "GLC3A "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Windshield wiper syndrome is seen in ",
+    "options": [
+      "  Malposition of lens ",
+      "Posterior capsular opacification ",
+      "Reaction to lens material ",
+      "Dislocation of Intra ocular lens "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An infant present with bilateral white pupillary reflex. On slit lamp examination, a zone of opacity is observed around the fetal nucleus with spoke like radial opacities. The most likely diagnosis ",
+    "options": [
+      "     Lamellar cataract ",
+      "Nuclear cataract ",
+      " Blue dot cataract ",
+      "Posterior polar cataract"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Treatment of choice in aphakia is",
+    "options": [
+      " Intra - ocular lens ",
+      "Contact lens",
+      "Spectacles",
+      "Epikeratophakia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Field defect not seen in glaucoma is",
+    "options": [
+      "Temporal field is first to be affected ",
+      "Paracentral scotomas ",
+      "Isolated scotoma may develop ",
+      "Complete barring of blind spot "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A glaucoma patient presents with bulging of cornea. The most likely diagnosis is ",
+    "options": [
+      "Staphyloma",
+      "Keratomalacia",
+      "Keratoconus",
+      "Granular dystrophy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Secondary glaucoma associated with angle recession is seen in",
+    "options": [
+      "Concussion injury",
+      "Radiation injury",
+      "Perforating injury",
+      "Chemical injury"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Intractable glaucoma characteristically occurs in which one of the following? ",
+    "options": [
+      "Diffuse iris melanoma ",
+      "Anterior iris melanocyte proliferation",
+      "Posterior uveal melanocyte proliferation ",
+      "Lens enlargement "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old female develops pain in the eyes after prone dark room test. Which of the drugs should be avoided? ",
+    "options": [
+      "Atropine",
+      "Pilocarpine ",
+      "Timolol ",
+      "Acetazolamide  "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old patient came to casualty with acute attack of asthma after starting treatment of glaucoma. The causative drug is ",
+    "options": [
+      "Timolol",
+      "Acetazolamide ",
+      "Clonidine ",
+      "Betaxolol "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 44-year-old female is diagnosed with open angle glaucoma. The doctor prescribed topical beta blocker therapy to the patient. Which of the following is not a side effect of topical beta blockers ",
+    "options": [
+      " Heterochromia iridis",
+      "Asthma ",
+      "Bradycardia ",
+      "Hypoglycemia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A35 year old female presents with sudden onset severe pain in the left eye after watching movie. The pain is severe and there is progressive loss of vision. The ophthalmic surgeon notices ciliary congestion and shallow anterior chamber. The pupil is mid dilated and cornea is edematous. The probable diagnosis is",
+    "options": [
+      "Angle closure glaucoma ",
+      "CRVO ",
+      "CRAO ",
+      "Open angle glaucoma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 66-year-old male, homeless, was brought to Ophthal OPD. On examination, a dense hemorrhage in the posterior chamber of the right eye was found, involving the visual acuity. The normal anatomical contents of this chamber is/are",
+    "options": [
+      "Aqueous humour ",
+      "Retinal vessels ",
+      "Vitreous humour ",
+      "All stated"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common mechanism of eye injury in sports is",
+    "options": [
+      "blunt trauma.",
+      "mild abrasion.",
+      "radiation injury.",
+      "serious laceration",
+      "cornea erosion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the only injury for which treatment should be given without first testing visual acuity?",
+    "options": [
+      "Chemical injury",
+      "Retinal detachment",
+      "Angle-closure glaucoma",
+      "Mechanical globe injury",
+      "Erosion of cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An objective examination of a patient has disclosed a symblepharon. According to the words, the patient suffered an eye injury several years ago. This pathology is a complication of what trauma?",
+    "options": [
+      "Eye and adnexa burns",
+      "Contusion of the eyeball",
+      "Penetrating wound",
+      "Foreign body of the cornea",
+      "Crushing injury of the eyeball"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In case of damage to which bone orbital emphysema, occurs?",
+    "options": [
+      "Ethmoid bone",
+      "Temporal bone",
+      " Frontal bone",
+      "Zygomatic bone",
+      "Lacrimal bone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old patient was admitted to the Department of Neurotraumatology with drooping eyelid of his left eye. According to his words, he got into traffic accident and received hard blow from temporal side of the orbit. Upon examination: complete ptosis, vision is preserved, the eyeball is immobilized, the pupil is dilated, there is no corneal sensitivity. What led to this situation?",
+    "options": [
+      "Trauma of the sphenoid bone",
+      "Fracture of the suparior wall of the orbit",
+      "Fracture of the inferior wall of the orbit",
+      "Rupture of the superior oblique muscle from the block",
+      "Fracture of the medial wall of the orbit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following regarding acute retinal necrosis is not true?",
+    "options": [
+      " Posterior pole is involved initially with centrifugal spread ",
+      "It is caused by herpes zoster virus",
+      "Severe arteritis is common",
+      "It may lead to retinal detachment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "False about In Creutzfeldt-Jakob disease (CJD)",
+    "options": [
+      "The protein content of the cerebrospinal fluid is raised ",
+      "EEG shows characteristic waveform",
+      "Death usually occurs within 12 months of onset",
+      "Cortical blindness is common "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following conditions is  termed as pseudoglioma?",
+    "options": [
+      "Norrie disease",
+      "Toxocara infestation",
+      "Persistent hyperplastic primary vitreous",
+      "Retinoblastoma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which type of retinoblastoma causes retinal detachment",
+    "options": [
+      "Glioma exophytum",
+      "Glioma endophytum",
+      "Glioma planum",
+      "All stated"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old patient of Insulin Dependent Diabetes Mellitus (IDDM) on insulin for the past 10 years complains of gradual progressive, painless loss of vision. What is the  possible diagnosis",
+    "options": [
+      "Cataract",
+      "Vitreous haemorrhage",
+      "Rhegmatogenous retinal detachment",
+      "Tractional retinal detachment not involving the macula",
+      "Retinal Detechment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An 11-month-old boy was admitted to the hospital with leukocoria in the right eye. On examination  he presented  no vision in the right eye and buphthalmos. USG and MRI of the right eye showed an intraocular tumor presenting calcfification compatible with retinoblastoma. What is the treatment of choice for this patient? ",
+    "options": [
+      "Enucleation",
+      "Evisceration",
+      "Ionization",
+      "Oxygenation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most rapid and accurate method to diagnose cytomegalovirus (CMV) retinitis is",
+    "options": [
+      "Viral nucleic acid detection in intraocular fluid",
+      "Virus antigen detection in vitreous",
+      "Virus detection in intraocular fluid",
+      "Viral antibody detection in blood by ELISA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Reese-Ellsworth classification for retinoblastoma is important for ",
+    "options": [
+      " Assessment of the survival of the eye after local therapy ",
+      "Management of the complications",
+      "Management of the tumor",
+      "Assessment of the survival of the patient after surgery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to Reese-Ellsworth classification, multiple tumors of 4-10 DD in size behind the equator belong to ",
+    "options": [
+      " Group 2",
+      "Group 3",
+      "Group 1",
+      "Group 4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following regimen is commonly used in the treatment of retinoblastoma?",
+    "options": [
+      "Vincristine, carboplatin and etoposide",
+      "Vinblastine, vincristine and etoposide",
+      "Vinblastine, vincristine and cisplatin",
+      "Vinblastine, etoposide and bleomycin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A young patient presents to the ophthalmology clinic with loss of central vision. There is no obvious family history. ERG and EOG were observed to be normal. Which the following is the most likely diagnosis? ",
+    "options": [
+      "Stangardt's disease",
+      "Best's vitelliform dystrophy",
+      "Retinitis pigmentosa ",
+      "Cone-rod dystrophy",
+      "central areolar choroidal dystrophy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 26-year-old female presented with a slowly enlarging painless mass in her front neck. This mass had grown over a three-year period. She has the sensation that food is getting stuck in the upper throat, lack of concentration and attentiveness, and easily feel fatigued. Thyroid Ultrasound revealed Graves’ disease. If the patient has eye involvement with the progression of the disease, the first eye muscle to get affected will be",
+    "options": [
+      "Inferior rectus ",
+      "Lateral rectus ",
+      "Medial rectus ",
+      "Superior rectus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Pseudoproptosis is the simulation of abnormal prominence or a true asymmetry that is not associated with displacement of the globe. Which of the following condition is not a cause for this? ",
+    "options": [
+      "Hypermetropia ",
+      "Lagophthalmos ",
+      "Lid retraction ",
+      "Enophthalmos of fellow eye"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient 29-year-old female with a 19-year history of insulin-dependent diabetes mellitus. Her visual acuity is 20/20 OU. Fundus examination of the right eye reveals the vitreous to be clear. No neovascularization is visible on the disc, but there are numerous microaneurysms, venous beading, and rare cotton-wool spots. Examination of the left fundus also reveals a clear vitreous with no blood present, microhemorragies. DS: Preproliferative diabetic retinopathy. What is the most common cause of visual loss in patients with nonproliferative diabetic retinopathy?  ",
+    "options": [
+      "Diabetic macular edema",
+      "Macular pigmentary disturbance",
+      "Traction retinal detachment",
+      "Vitreous hemorrage",
+      "Optic neuritis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 24-year-old man with a 10-year history of insulin-dependent diabetes mellitus presents with a visual acuity of 20/25 OD and 20/200 OS. Ophthalmoscopy OD: macula demonstrates hard exudates, a small area of flat retinal neovascularization is present. The vitreous is clear. OS: diffuse retinal thickening throughout the macula, scattered hard exudates, and blot hemorrhages. Marked neovascularization of the disc, nasal retinal neovascularization with mild vitreous hemorrhage. DS: Proliferative diabetic retinopathy. What is the surgical treatment?",
+    "options": [
+      "Laser photocoagulation",
+      "Irodotomy",
+      "Scleroplasty",
+      "Laser trabeculoplasty",
+      "Goniotomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "You see a 26-year-old man with a 15-year history of insulin-dependent diabetes mellitus for the first time. His visual acuity is 20/20 OU. Fundus examination of the right eye reveals the vitreous to be clear. No neovascularization is visible on the disc or elsewhere; however, there are numerous microaneurysms, venous beading, and rare cotton-wool spots. Examination of the left fundus also reveals a clear vitreous with no blood present, but there is a frond of elevated neovascularization arising from the disc, and another small patch of neovascularization away from the disc along the inferonasal arcade. Which method of investigation will determine the form of this pathology?",
+    "options": [
+      "Fluorescence angiography",
+      "Slit lamp",
+      "Refractometry",
+      "Diaphanoscopy",
+      "Gonioscopy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 48-year-old man with a 15-year history of insulin-dependent diabetes and chronic hypercholesterolemia sought consultation because of blurred vision of several weeks duration. Examination of the eye: VOU - 20/40. Slit-lamp examination showed only trace nuclear lens opacity. Funduscopic examination showed moderate microaneurysms scattered about all quadrants of both eyes. In the right eye, there neovascular changes were seen. In the left eye, in addition to the microaneurysms there was early neovascularization at the disc. Nonsurgical treatment?",
+    "options": [
+      "Anti-VEGF therapy",
+      "Antibacterial therapy",
+      "Increasing insulin dose",
+      "Decreasing insulin dose",
+      "Add artificial eye drops"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A patient 65 year-old with 8 year history of insulin independent diabetes mellitis came to ophthalmologist for a consultation. The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. DS: Nonproliferative diabetic retinopathy. Which method of investigation will determine the form of this pathology?",
+    "options": [
+      "Fluorescence angiography",
+      "Slit lamp",
+      "Refractometry",
+      "Diaphanoscopy",
+      "Tonometry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with nanophthalmos has persistent appositional-angle closure after a successful iridotomy. Which of the following laser procedures would be an appropriate treatment to attempt to open the angle? ",
+    "options": [
+      "Laser gonioplasty",
+      "Cyclophotocoagulation",
+      "Laser trabeculoplasty",
+      "Capsulotomy",
+      "Laser trabeculotomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is known as the structure responsible for accommodation? ",
+    "options": [
+      "Ciliary body",
+      "Retina ",
+      "Optic nerve ",
+      "Sclera "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The neural crest is a highly migratory multi potent cell population that forms at the interface between the neuroepithelium and the prospective epidermis of a developing embryo. Following extensive migration throughout the embryo, NC cells eventually settle to differentiate into multiple cell types. Which of the following is not a neural crest derivative?",
+    "options": [
+      "Sphincter pupillae",
+      "Melanocytes ",
+      "Ciliary ganglion ",
+      "Ciliary muscle "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When does the eye morphogenesis start taking place? ",
+    "options": [
+      "22 days",
+      "15 days",
+      "49 days",
+      "6 months"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Not a feature at birth",
+    "options": [
+      "Lens is biconcave in shape",
+      "Corneal diameter is lesser ",
+      "Myelination of nerve fibres is till lamina cribrosa ",
+      "Anteroposterior diameter is 17 mm "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ascorbic acid transport in cornea is mediated by ",
+    "options": [
+      "  Sodium – potassium pump",
+      "Carbonic anhydrase pump ",
+      "Myoinositol pump ",
+      "Passive diffusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Fixation of visual reflexes is accomplished by ",
+    "options": [
+      "6 month ",
+      "1 year ",
+      "2 year ",
+      "3 year "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with homonymous hemianopia is found to have asymmetric optokinetic nystagmus. The location of the lesion is ",
+    "options": [
+      "Parietal lobe ",
+      "Occipital lobe ",
+      "Temporal lobe ",
+      "Lateral geniculate body"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bitemporal hemianopcia can be localised to:",
+    "options": [
+      "Optic chiasm",
+      "Optic nerve",
+      "Occipital cortex",
+      "Parietal lobe",
+      "Temporal lobe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": ". A 30year old lady presents with sudden severe bilateral loss of vision more so on right side with no perception of light. Rest of the examination including pupillary reflex, fund us and optokinetic nystagmus are normal. She was able to touch tips of her finger with right eye closed but not with left eye closed. Most likely diagnosis? ",
+    "options": [
+      "Functional visual loss",
+      "Anterior ischemic optic neuropathy ",
+      "CMV retinitis ",
+      "Optic neuritis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with headache and bitemporal hemianopia with 6/6 vision. This condition is seen with ",
+    "options": [
+      "Craniopharyngioma ",
+      "Optic nerve glioma ",
+      "Posterior cerebral artery occlusion ",
+      "AION"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where will be position of the main focus in emmetropic eye: ",
+    "options": [
+      "on the retina",
+      "before the retina",
+      "behind the retina",
+      "on the lens",
+      "on the cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where will be position of the main focus in hyperopic eye: ",
+    "options": [
+      "behind the retina",
+      "before the retina",
+      "on the retina",
+      "on the lens",
+      "on the cornea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The greatest refractive power of eye structures is contributed by:",
+    "options": [
+      "cornea",
+      "anterior chamber",
+      "vitreous humor",
+      "lens",
+      "aqueous humor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the reason of presbyopia?",
+    "options": [
+      "age related decreasing of accommodation due to hardness of crystalline lens ",
+      "age related relaxation ciliary muscles ",
+      "age related decreasing function of the retina",
+      "age related dysfunction of suspensor ligaments",
+      "opacity of the lens"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aniseikonia will be due to ",
+    "options": [
+      "different size images in the fundus of both eyes ",
+      "different degrees of refraction in both eyes ",
+      "is not the same refraction in different meridians of one eye ",
+      "changing refraction during one of the meridians of eyes ",
+      "different degrees of refraction in one eye "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When a drinking straw is placed in a container of water, it seems to be broken because of:",
+    "options": [
+      "refraction",
+      "total internal reflection",
+      "apparent depth",
+      "lateral inversion",
+      "Snell's Law"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What’s false about accommodation:",
+    "options": [
+      "range of accommodation is the difference in dioptric power between the eye at rest and the fully accommodated eye",
+      "the near point of distinct vision refers to clear near vision when maximum accommodation is used.",
+      "the far point of distinct vision of an emmetropic eye is at infinity ",
+      "dynamic refraction refers to the dioptric power of the accommodated eye",
+      "static refraction refers to the dioptric power of a resting eye"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old man has normal distance vision but complaints of difficulty in near vision. His retinoscopy shows +2.0D sphere. Probably diagnosis?",
+    "options": [
+      "hypermetropia",
+      "myopia",
+      "presbyopia",
+      "accommodative inertia",
+      "amblyopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mydriatic drop to be used in a 5 -year-old child for:",
+    "options": [
+      "refractometry",
+      "ophthalmoscopy",
+      "perimetry",
+      "visometry",
+      "tonometry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "On performing retinoscopy using a plane mirror in patient who has a refractive error of -3.0D sphere with -2,0D cyl at 90° from a distance 1m, the reflex would move:",
+    "options": [
+      "against the movement in both the axes",
+      "with the movement in both the axes",
+      "with the movement in the horizontal axis and against the movement in vertical axis ",
+      "with the movements in the vertical axis and against the movement in the horizontal axis",
+      "no movement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 10- years- old girl, visited ophthalmologist with complaints of low vision of left eye. On examination: VOD= 1.0. VOS= 0.08 n/c (noncorrected). Ophthalmoscopy revealed no pathology of fundus. What additional method is needed to clarify the diagnosis? ",
+    "options": [
+      "refractometry",
+      "perimetry",
+      "tonometry",
+      "campimetry",
+      "adaptometry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 13-year-old boy turned to an ophthalmologist with complaints of deterioration of distance vision. During his examination it was revealed that he has a spasm of accommodation. What diagnostic measure is necessary for the patient to improve his condition? ",
+    "options": [
+      "Purkinje test",
+      "dye test",
+      "Schirmer test",
+      "cycloplegia",
+      "Seidel test"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What complications are not typical for patients with hyperopia?",
+    "options": [
+      "nystagmus",
+      "chronic blepharitis",
+      "amblyopia",
+      "accommodative asthenopia",
+      "converging squint"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the method of refractive surgery for myopia:",
+    "options": [
+      "LASIK",
+      "Goniotomy",
+      "Dacryocystorhinostomy",
+      "Trabeculectomy",
+      "Vitrectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 3-year-old child presents with a right convergent squint of 6 months duration. What is the appropriate management?",
+    "options": [
+      "Immediate surgical correction followed by & amblyopia therapy",
+      "Proper refractive correction, amblyopia therapy followed by surgical correction",
+      "Prescription of spectacles and defer surgery until 5 years",
+      "Botulinum toxin injection followed by occlusion therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Pseudoesotropia is associated with ",
+    "options": [
+      "negative angle kappa",
+      "positive angle kappa",
+      "Hyperrtelorism",
+      "non of the above",
+      "myopia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Pseudoextropia is associated with",
+    "options": [
+      "positive angle kappa",
+      "Prominent epical fold",
+      "negative angle kappa",
+      "non of the above",
+      "all above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Treatment of accommodative strabismus is",
+    "options": [
+      "Refractive correction",
+      "Lens implant",
+      "Orthoptic exercises",
+      "Prism correction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true of complications following strabismus  surgery?",
+    "options": [
+      "Scleral perforation requires prophylactic treatment for possible endophthalmitis or retinal detachment",
+      "Diplopia is most common in patients who develop a consecutive deviation",
+      "Unsatisfactory aligment can occur with any surgical approach and therefore should not be considered a complication",
+      "orbital cellulitis typicaly does not present untill 2 or 3 weeks postoperatively",
+      "all above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Botulinum toxin injection is the least suitable for which of the following?",
+    "options": [
+      "Large -angle exotropia",
+      "small to moderate -angle esotropia",
+      "postoperativa residual strabismus",
+      "weakening of an antagonist muscle in acute paralytic strabimus",
+      "nistagmus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a source of error in the applanation tonometry? ",
+    "options": [
+      " Tear film ",
+      "High Pressure on the globe ",
+      "Astigmatism ",
+      "Wide pulse pressure"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Photostress test is positive in:",
+    "options": [
+      "Central serous retinopathy",
+      "optic neuritis",
+      "Ethambutol toxicity",
+      "central retinal artery occlusion",
+      "all of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Indentation tonometer is based on the fundamental fact that a plunger with indent",
+    "options": [
+      "More in soft eye",
+      "more in hard eye",
+      "equal in soft and hard eye",
+      "more in children eye",
+      "none of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Diagnostic tests that are useful in evaluation of the patient who has sustained a penetrating injury include all of the following,except",
+    "options": [
+      "MRI",
+      "CT",
+      "Electrophysiology",
+      "Indirect ophthalmoscopy",
+      "Echography"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A normal electroretinogram is ussualy found in all of the following diseases affecting the retina exept:",
+    "options": [
+      "Juvenile retinoschisis",
+      "Dominant drusen",
+      "Viteliform dystrophy",
+      "X-lincked ocular albibism",
+      "Pattern dystrophy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 67 y.o old woman with a complaint of sadden and painless lost of vision in right eye, which of the following  examination can be useful?",
+    "options": [
+      "OCT",
+      "Perimetey",
+      "Tonometry",
+      "Schirmer's test",
+      "Pachimetry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Diagnostic tests that are useful in evaluation of the patient who has sustained a penetrating injury with intraocular foreign body into antrior chamber, wich  of the following ?",
+    "options": [
+      "Gonioscopy",
+      "Tonometry",
+      "HRT",
+      "MRI",
+      "Ophthalmoscopy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Corneal verticillata is a condition characterized by corneal deposits at the level of the basal epithelium forming a faint golden-brown whorl pattern. All of the following below are causative factor for this condition except",
+    "options": [
+      "  Tay sach's disease",
+      "Chloroquine ",
+      "Fabry disease ",
+      "lndomethacin "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Most common type of Ptosis",
+    "options": [
+      "Myogenic",
+      "Neurogenic",
+      "Aponeurotic",
+      "Mechanical"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which pathology causes lipogranulomatous inflammation?",
+    "options": [
+      "Fungal infection",
+      "Tuberculosis",
+      "Chalazion",
+      "Viral infection"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of these pathologies treated by Weiss operation?",
+    "options": [
+      "Cicatricial entropion",
+      "Senile entropion",
+      "Senile ectropion",
+      "Cicatricial ectropion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Corneal sensation are decreased in:",
+    "options": [
+      "Herpes simplex",
+      "Fungal infection",
+      "Trachoma",
+      "Scleritis",
+      "Acute bacterial ulcer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient N., 27 years old, complains of discomfort, foreign body sensation, slight blurring of vision within 1 day. On examination, visual acuity was 6/6. Slit lamp examination revealed conjunctival congestion, eyelids were slightly oedematous. From the anamnesis it was recognized that cilia were stuck together with yellow crusts at the morning. The expected diagnosis can be:",
+    "options": [
+      "acute bacterial conjunctivitis",
+      "hyperacute conjunctivitis of adult",
+      "viral conjunctivitis",
+      "fungal conjunctivitis",
+      "angular conjunctivitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A female patient 33 years old, consulted an ophthalmologist at the place of residence. Slit lamp examination revealed central necrosis of cornea. It was found that this complication appeared after suffering conjunctivitis with thick purulent discharge and severe inflammation . What conjunctivitis can be suspected in anamnesis?",
+    "options": [
+      "hyperacute conjunctivitis of adult",
+      "viral conjunctivitis",
+      "fungal conjunctivitis",
+      "herpes simplex  conjunctivitis",
+      "angular conjunctivitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Halos due to conjunctiva can be eliminated by ",
+    "options": [
+      "Irrigation",
+      "Slit",
+      "Syringing ",
+      "Any od stated"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Drug of choice in eye in trachoma endemic areas? ",
+    "options": [
+      "Azithromycin",
+      "Ganciclovir ",
+      "Clindamycin ",
+      "Erytromycin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The operation for application of lower lid retractors is done for ",
+    "options": [
+      "Paralytic entropion",
+      "Senile entropion",
+      "Cicatrical entropion",
+      "Congenital entropion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient S., 25 years old, consulted an ophthalmologist with complains of intense itching and burning sensation, watery mucus, stringy discharge, mild photophobia of both eyes withing 5 days. Slit lamp examination revealed oedema of lids, conjunctival hyperaemia and chemosis, mild papillary reaction. Diagnosed with allergic conjunctivitis. What drugs will increase the effect of anti-allergic drops?",
+    "options": [
+      "systemic antihistaminic drugs",
+      "non-steroidal anti-inflammatory drugs",
+      "topical antibiotics",
+      " artificial tears like carboxymethyl cellulose",
+      "topical cyclosporine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient О., 53 years old, complains of pain and foreign body sensation, watering from the eye, mild photophobia and blurred vision. Diagnosed with bacterial corneal ulcer. What material is needed to study the causative agent of the ulcer?",
+    "options": [
+      "scraping the base and margins of the corneal ulcer",
+      "imprint from the surface of the cornea",
+      "blood from a vein",
+      "corneal biopsy",
+      "discharges"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient G., 53 years old, consulted an ophthalmologist at the place of residence with complaints of mild ocular irritation, pain, photophobia and watering, decreased vision of the left eye. Examination revealed: corneal ulcer is dry-looking, greyish white, feathery finger-like extensions are present, multiple, small satellite lesions present around the ulcer. Diagnosed with mycotic corneal ulcer. What diagnostic method is effective?",
+    "options": [
+      "Gram and Giemsa-stained films for fungal hyphae",
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "General blood analysis",
+      "IgG Study of Blood Sera",
+      "Determination of bacterial cells in the discharges"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient L., 43 years old, consulted an ophthalmologist at the place of residence with complaints of mild ocular irritation, pain, photophobia and watering, decreased vision of the left eye. Examination revealed: corneal ulcer is dry-looking, greyish white, feathery finger-like extensions are present, multiple, small satellite lesions present around the ulcer. Diagnosed with mycotic corneal ulcer. Options for treatment?",
+    "options": [
+      "fluconalzole (0.3%) ",
+      "0.5% artificial tear solution",
+      "0.3% solution of cypromed",
+      "1% tetracycline ointment",
+      "everything is correct"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 23-year-old female was brought to ER after she had a hit in the face with a metal instrument. On examination, right facial laceration, and contusion were noted. On examination, fracture of the right inferior orbital rim with an associated fluid level in the maxillary sinus, air within the superior orbit, and significant soft tissue swelling. Which of the following is not true about the anatomy of inferior walls of the orbit",
+    "options": [
+      "It transmits trigeminal nerves and vessels ",
+      "lnfraorbital foramen is about 1 cm from orbital rim",
+      "Formed by Maxilla & zygomatic bones ",
+      "Triangular in shape"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Treatment of choice of acute dacryocystitis",
+    "options": [
+      "Systemic antibiotics and analgesics ",
+      "Syringing and probing ",
+      "Massage over lacrimal sac",
+      "Dacryocystorhinostomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The pathognomonic sign of acute anterior uveitis is ",
+    "options": [
+      " Keratic precipitates",
+      "Оpacity of the vitreous body",
+      "Retinal detachment",
+      "Retinal hemorrhage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following indicates active inflammation in anterior uveitis?",
+    "options": [
+      "Cells in anterior chamber",
+      "Circumcorneal congestion",
+      "Keratic precipitate",
+      "Corneal edema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which medication has been associated with a sterile hypopyon anterior uveitis in AIDS patients?",
+    "options": [
+      "Rifabutin",
+      "Zidovudine",
+      "Indinavir",
+      "Pentamidine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common secondaries in choroid are from",
+    "options": [
+      "Breast",
+      "Brain",
+      "ovary/ Testis",
+      "Lungs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old woman presents with a painful red eye and decreased vision in her left eye. On examination, there is severe anterior chamber inflammation with hypopyon and posterior synechiae. There is also a raised, necrotic lesion on the iris. What is the most likely diagnosis?",
+    "options": [
+      "Herpetic uveitis",
+      "Acute angle-closure glaucoma",
+      " Iritis",
+      "Fungal endophthalmitis",
+      "Tuberculous uveitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 50-year-old man presents with redness, pain, and decreased vision in his left eye. On examination, there is a sectoral iris atrophy, posterior synechiae, and a cataract. What is the most likely diagnosis?",
+    "options": [
+      "Fuchs heterochromic iridocyclitis",
+      "Posner-Schlossman syndrome",
+      "Acute angle-closure glaucoma",
+      "Cytomegalovirus retinitis",
+      "Sympathetic ophthalmia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 50-year-old man presents with blurred vision and ocular pain. On examination, there is circumciliary congestion and miosis. The intraocular pressure is elevated. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Anterior uveitis",
+      "Posterior uveitis",
+      "Intermediate uveitis",
+      "Panuveitis",
+      "Scleritis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old woman presents with blurred vision and photophobia in her right eye. On examination, there is ciliary injection and a small, oval-shaped pupil that reacts poorly to light. The intraocular pressure is normal. Which of the following is the most likely diagnosis",
+    "options": [
+      "Anterior uveitis",
+      "Acute angle-closure glaucoma",
+      "Cataract",
+      "Corneal ulcer",
+      "Retinal detachment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year-old man presents with a sudden onset of floaters and decreased vision in his left eye. On examination, there is a vitreous hemorrhage and retinal detachment. Which of the following is the most likely cause of this presentation?",
+    "options": [
+      "Posterior uveitis",
+      "Anterior uveitis",
+      "Intermediate uveitis",
+      "Panuveitis",
+      "Scleritis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following complication in cataract surgery may cause uncontrolled hypertension?",
+    "options": [
+      "Glaucoma ",
+      "Retinal detachment ",
+      "Endophthalmitis ",
+      "Suprachoroidal hemorrhage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient complains of inability in reading a newspaper, particularly in bright sunlight. What is the most likely diagnosis?",
+    "options": [
+      " Hemeralopia",
+      "Presbyopia",
+      "Posterior subcapsular cataract ",
+      "Hypermetropia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following associations is correct ?",
+    "options": [
+      "Posterior subcapsular cataract in Retinitis pigmentosa",
+      "Posterior cataract in Amiodarone user ",
+      "Anterior lenticonus in Sjogren's syndrome ",
+      "Cataract in RA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true about the difference between congenital cataract surgery and senile cataract surgery? ",
+    "options": [
+      "Incidence of Posterior capsular opacification is higher ",
+      "Incidence of conjunctivitis is higher ",
+      "The energy used in phacoemulsification is higher",
+      "The chances of refractive surprise is low"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where are seen fluctuating refractive errors with cataract ?",
+    "options": [
+      "Morgagnian cataract",
+      "Diabetic cataract",
+      "Intumescent cataract",
+      "Traumatic cataract"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "You have been referred a middle-aged patient to rule out open angle glaucoma. Which of the following findings will help in the diagnosis",
+    "options": [
+      "Cupping of the disc",
+      "Depth of anterior chamber",
+      "Visual acuity and refractive error",
+      "Angle of the anterior chamber"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a hypertensive patient with glaucoma, which of the following is not used",
+    "options": [
+      "Dipivefrine",
+      "Beta blockers",
+      "Alpha agonist",
+      "Laser trabeculoplasty"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "You have been referred a middle-aged patient to rule out open angle glaucoma. Which of the following findings will help in the diagnosis? ",
+    "options": [
+      "Cupping of the disc ",
+      "Depth of anterior chamber ",
+      "Visual acuity and refractive error ",
+      "Angle of the anterior chamber"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Correction factor used in estimating disc structures when assessing through 90 D lens",
+    "options": [
+      "1.3",
+      "1.0",
+      "0,88",
+      "1.1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 55-year-old diabetic patient who has recently underwent pan retinal photocoagulation for proliferative diabetic retinopathy presents with corneal edema. neovascularization over iris and an IOP of 55 mmHg. Which medications is not suitable for this patient?",
+    "options": [
+      " Pilocarpine",
+      "Dorzolamide ",
+      "Apraclonidine ",
+      "Atropine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30 days old baby presents with excessive lacrimation and photo phobia. He has large hazy cornea in both eyes. His lacrimal system is normal. What is the treatment of choice for this case? ",
+    "options": [
+      " Trabeculectomy + Trabeculotomy ",
+      "Trabeculectomy +MMC ",
+      "Goniotomy ",
+      "lridotomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which diagnostic procedure is not done in a dilated pupil? ",
+    "options": [
+      "Gonioscopy ",
+      "Laser inferometry ",
+      "Fundus examination ",
+      "Electroretinography"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The patient is a woman who complained of sharp pain, redness and blurry vision in the left eye. She was diagnosed with phacomorphic glaucoma. What type of surgical treatment is indicated in this case?",
+    "options": [
+      "Lens extraction",
+      "Dacryocystorhinostomy",
+      "Scleraplasty",
+      "Vitrectomy",
+      "Laser photocoagulasion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of post-traumatic endophthalmitis is ",
+    "options": [
+      "Staphyloeoeeus epidermidis",
+      "Staphyloeoeeus aureus",
+      "Aspergillus",
+      "Bacillus cereus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Spontaneous hyphema occurs in ",
+    "options": [
+      "Juvenile xanthogranuloma",
+      "Behcet's disease",
+      "SLE",
+      "Syphilis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An 18 year old boy comes to the eye casuality with history of injury with a tennis ball. On examination there is no perforation but there is hyphaema. The most likely source of the blood is",
+    "options": [
+      "Iris vessels",
+      "Circulus iridis major",
+      "Circulus iridis minor",
+      "Short posterior ciliary vessels",
+      "Choroid vessels"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 29-year-old patient went to the local clinic with complaints of pain, redness, decreased object vision in the right eye, according to the patient, 2 weeks ago he received an industrial injury while repairing a car, objectively: VOD= 0.05 uncorrected, VOS= 1.0. Right eye: the eye is injected, the cornea is slightly swollen, the iris has a yellow-green pigment deposition, the pupil is rounded, in the center, the lens is transparent, the fundus of the eye is unremarkable. What is your presumptive diagnosis?",
+    "options": [
+      "Siderosis",
+      "Chalcozis",
+      "Hypopyon",
+      "Hyphema",
+      "Cataract"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "28-year-old patient consulted an ophthalmologist with complaints of severe burning sensation, a sharp decrease in object vision, edema of the eyelids, profuse lacrimation, with difficulty opening his eyes. According to the patient, while working in the laundry, foamy water got into his eyes. Objectively, VOU=0.3, the eyelids are hyperemic, edematous, the cornea is de-epithelized, cloudy, the intraocular medium is not visible. The ophthalmologist ascertained colliquation necrosis, what causes such necrosis?",
+    "options": [
+      "Alkali",
+      "Acids",
+      "Increased temperature",
+      "Infrared rays",
+      "Ultraviolet rays"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The patient has edema of upper and lower eyelids; skin of eyelids is unchanged and painless. Eye fissure is narrowed. Eyelid has crepitation on palpation. What can be assumed in this situation about the possible cause of this condition?",
+    "options": [
+      "Fracture of medial wall of the orbit",
+      "Fracture of zygomatic bone",
+      "Fracture of maxilla bone ",
+      "Coloboma of upper eyelid",
+      "Abscessing barley of upper eyelid\n\n"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where does Retinoblastoma arises from?",
+    "options": [
+      "Pigmentary epithelium",
+      "Neurosensory retina",
+      "Optic nerve",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the treatment of choice for anterior lesions of retinoblastoma?",
+    "options": [
+      "Cryotherapy",
+      "Photocoagulation",
+      "Both cryotherapy and photocoagulation",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is he most common clinical presentation of retinoblastoma?",
+    "options": [
+      "Leucocoria plus heterochromia iridis",
+      "Leucocoria plus pseudohypopyon",
+      "Leucocoria plus hyphema",
+      "Leucocoria plus strabismus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An obese 43-year-old female complains of transient visual obscuration, headache and diplopia. All the following are findings EXCEPT",
+    "options": [
+      "Cerebral venous thrombosis ",
+      "Increased intracranial pressure ",
+      "Papilledema ",
+      "3rd nerve palsy "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A young patient presents with sudden, painless loss of vision in one eye. Ocular examination reveals visual acuity of perception of light and cherry red spot on the fundus. A systolic murmur is heard on the chest. The probable diagnosis is:",
+    "options": [
+      "Central retinal artery occlusion",
+      "Central retinal vein occlusion",
+      "Multifocal choroiditis with infective endocarditis",
+      "Central serous retinopathy",
+      "Hypertensive Retinopathy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 50-year-old man was brought to the hospital due to severe ocular pain and a sudden loss of vision in the right eye while straining in a pull-up exercise. After a complete ocular examination. suprachoroidal hemorrhage was detected. Which of the following is true regarding the condition of this patient?",
+    "options": [
+      "Deep anterior chamber ",
+      "Increasing of IOP",
+      "Bleeding from short posterior ciliary artery into suprachoroidal space ",
+      "Self-resolving"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old male patient with visual acuity of 6/6 in both eyes. Twelve hours ago, he presented with drop of vision of the left eye. On examination, visual acuity was 6/6 in the right eye and 6/60 in the left eye. Fundus examination showed blurred edges of the left optic disc. What is the treatment of choice in this case? ",
+    "options": [
+      "Timolol",
+      "IV steroids ",
+      "Antibiotics",
+      "lmmunosuppressant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which stage is considered to be subtotal retinal detachment in case of retinopathy of prematurity (ROP)? ",
+    "options": [
+      "Stage 2",
+      "Stage 3 ",
+      "Stage 4",
+      "Stage 5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old female presented with history of sudden loss of vision of the right eye for 3 days' duration. It was associated with pain in eye movement. She had a history of fever associated with ataxic gait a year ago. She had been diagnosed to have acute disseminated encephalomyelitis (ADEMJ at that time and had been treated with oral prednisolone. ocular examination revealed visual acuity of the right eye was counting finger with a positive afferent pupillary defect. The ophthalmologist suspecting optic neuritis. Which of the following is not necessary for investigating optic neuritis?",
+    "options": [
+      "USG B scan ",
+      "ESR ",
+      "MRI head and orbit ",
+      "Visual Fields"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presented with complaints of diplopia. O/E pupils were dilated. Both direct and consensual light reflexes were lost. The diagnosis is",
+    "options": [
+      "3rd nerve palsy ",
+      "2nd nerve palsy ",
+      "5th nerve palsy ",
+      "7th nerve palsy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 6 year old child presents due to an episode of ptosis of the right eye for 1 hour. He vitals are normal and no past medical history.Physical examination reveals that his eye isdeviated downward and laterally. Which nerve palsy is associated with this patient's condition?",
+    "options": [
+      "CN 3",
+      "CN 5",
+      "CN 4",
+      "CN 6",
+      "CN 8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gyrate atrophy is characterized by all of the following except",
+    "options": [
+      "Ornithine transcarbamylase deficiency",
+      "Peripheral RPE affected initially",
+      "High serum omithine levels",
+      "Abnormalities of chromosome 10"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "This 53-year-old man with a 10-year history of adult-onset diabetes mellitus presented with a 2-month history of blurred vision OU. Medical history is positive for hypertension, peripheral neuropathy, and a history of hepatitis C. Best corrected visual acuity was 20/20 OU. Slit-lamp examination was unremarkable. The intraocular pressure was 11 mm Hg in the right eye and 12 mm Hg in the left eye. Funduscopic examination on the right showed a normal disc, no macular edema, macular lipid, or neovascularization. Intraretinal hemorrhages in two quadrants and a mild degree in the other two quadrants were present in both eyes. There was a cotton-wool spot superior to the right macula. Fluorescein angiography demonstrated microaneurysms with mild perifoveal capillary dropout, but no neovascularization. What is your diagnosis?",
+    "options": [
+      "Nonproliferative diabetic retinopathy",
+      "Background retinopathy",
+      "Proliferative diabetic retinopathy",
+      "Hypertensive retinopathy",
+      "Central vein occlusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient 63-year-old man with 8 year history of type 2 diabetes mellitus came to an ophthalmologist for consultation The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. What is the type of retinopathy by fundus examination?",
+    "options": [
+      "Nonproliferative diabetic retinopathy",
+      "Background retinopathy",
+      "Proliferative diabetic retinopathy",
+      "Hypertensive retinopathy",
+      "Central vein occlusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 67-year-old female, suffering from diabetes mellitus for past 14 years is now complaining of photopsia, small spots and floaters in the fields of vision. Since the past 3 days, she is having visual loss in right eye with appearance of a curtain. DS: diabetic retinopathy with retinal detachment on right side. Surgical treatment?",
+    "options": [
+      "Vitrectomy",
+      "Iridotomy",
+      "Scleraplasty",
+      "Laser trabeculoplasty",
+      "Goniotomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient 64 year-old with 7 year history of insulin independent diabetes mellitis came to ophthalmologist for a consultation. The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. DS: Nonproliferative diabetic retinopathy. Surgical treatment?",
+    "options": [
+      "Laser photocoagulation",
+      "Iridotomy",
+      "Scleroplasty",
+      "Laser trabeculoplasty",
+      "Goniotomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 48-year-old man with a 16-year history of insulin-dependent diabetes and chronic hypercholesterolemia sought consultation because of blurred vision of several weeks duration. Examination of the eye: VOU - 20/45. Slit-lamp examination showed only trace nuclear lens opacity. Funduscopic examination showed moderate microaneurysms scattered about all quadrants of both eyes. In the right eye, there was clinically signicant diabetic macular edema with a circinate lipid ring surrounding the center of the macula. No neovascular changes were seen. In the left eye, in addition to the microaneurysms and macular edema with lipid, there was early neovascularization at the disc. Which method of investigation will determine the form of this pathology?",
+    "options": [
+      "Fluorescence angiography",
+      "Slit lamp",
+      "Refractometry",
+      "Diaphanoscopy",
+      "Goniotomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient 65 year-old with 8 year history of insulin dependent diabetes mellitis came to ophthalmologist for a consultation. The ophthalmologist wrote in his report that the fundus of both eyes showed dilated and tortuous veins, microaneurysms, haemorrhages and hard exudates. DS: Nonproliferative diabetic retinopathy. Nonsurgical treatment?",
+    "options": [
+      "Anti-VEGF therapy",
+      "Antibacterial therapy",
+      "Increasing insulin dose",
+      "Decreasing insulin dose",
+      "Add corticisteroid drops"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following treatment plans is most appropriate for first-line treatment of a patient with early glaucoma who has indicated they will be likely to forget to take their eyedrops? ",
+    "options": [
+      "Trabeculoplasty",
+      "Trabeculectomy",
+      "Acetazolomide",
+      "Travoprost",
+      "Timolol"
+    ],
+    "answer": 0
+  }
+]
