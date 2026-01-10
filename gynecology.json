@@ -1,2393 +1,2191 @@
-{
-  "subject": "8-Obstetrics&Gynecology",
-  "questions": [
-    {
-      "question_number": "Question 2",
-      "question": "Up to how many weeks of gestation is medical termination of pregnancy most commonly performed?",
-      "options": {
-        "A": "10 weeks",
-        "B": "16 weeks",
-        "C": "20 weeks",
-        "D": "24 weeks",
-        "E": "28 weeks"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 3",
-      "question": "Which drug is a progesterone receptor modulator used in medical abortion?",
-      "options": {
-        "A": "Mifepristone",
-        "B": "Misoprostol",
-        "C": "Methotrexate",
-        "D": "Oxytocin",
-        "E": "Prostaglandin E2"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 4",
-      "question": "What is a common side effect of misoprostol?",
-      "options": {
-        "A": "Nausea and diarrhea",
-        "B": "Hypertension",
-        "C": "Tachycardia",
-        "D": "Hyperglycemia",
-        "E": "Rash"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 5",
-      "question": "A 25-year-old woman with a 7-week intrauterine pregnancy and a history of two previous cesarean sections requests medical abortion. What is the most important consideration?",
-      "options": {
-        "A": "Risk of uterine rupture",
-        "B": "Risk of infection",
-        "C": "Risk of ectopic pregnancy",
-        "D": "Risk of thromboembolism",
-        "E": "Risk of ovarian hyperstimulation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 6",
-      "question": "A patient has Rh-negative blood type and undergoes medical abortion at 9 weeks. What management is essential?",
-      "options": {
-        "A": "Administer Anti-D immunoglobulin",
-        "B": "No additional management needed",
-        "C": "Perform blood transfusion",
-        "D": "Administer IV iron",
-        "E": "Schedule hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 7",
-      "question": "A woman reports severe abdominal pain and fever 3 days after medical abortion. What is the most likely diagnosis?",
-      "options": {
-        "A": "Endometritis",
-        "B": "Normal cramping",
-        "C": "Ovarian cyst rupture",
-        "D": "Urinary tract infection",
-        "E": "Gastroenteritis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 8",
-      "question": "A patient with a history of adrenal insufficiency is scheduled for medical abortion. Which drug requires special consideration?",
-      "options": {
-        "A": "Mifepristone",
-        "B": "Misoprostol",
-        "C": "Ibuprofen",
-        "D": "Acetaminophen",
-        "E": "Doxycycline"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 9",
-      "question": "A woman fails medical abortion at 8 weeks. What is the next appropriate step?",
-      "options": {
-        "A": "Surgical evacuation (e.g., vacuum aspiration)",
-        "B": "Repeat the same medical regimen",
-        "C": "Wait for another week",
-        "D": "Start chemotherapy",
-        "E": "Perform hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 10",
-      "question": "What is the first-line medical agent used for termination of pregnancy in the first trimester?",
-      "options": {
-        "A": "Mifepristone",
-        "B": "Misoprostol",
-        "C": "Oxytocin",
-        "D": "Methotrexate",
-        "E": "Dinoprostone"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 11",
-      "question": "Up to how many weeks of gestation is medical termination of pregnancy generally considered safe and effective?",
-      "options": {
-        "A": "10 weeks",
-        "B": "12 weeks",
-        "C": "14 weeks",
-        "D": "16 weeks",
-        "E": "20 weeks"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 12",
-      "question": "Which drug is typically administered 24-48 hours after Mifepristone to induce uterine contractions?",
-      "options": {
-        "A": "Misoprostol",
-        "B": "Methotrexate",
-        "C": "Estrogen",
-        "D": "Progesterone",
-        "E": "Cabergoline"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 13",
-      "question": "A patient at 8 weeks gestation, with a known copper IUD in place, requests medical termination. The most appropriate initial action is:",
-      "options": {
-        "A": "Remove the IUD before administering Mifepristone",
-        "B": "Proceed with the standard regimen with the IUD in situ",
-        "C": "Double the dose of Misoprostol",
-        "D": "Schedule for immediate surgical termination",
-        "E": "Prescribe antibiotics for one week first"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 14",
-      "question": "A patient develops a fever of 38.5 C and severe abdominal pain 12 hours after using Misoprostol. The most likely diagnosis is:",
-      "options": {
-        "A": "Infection (septic abortion)",
-        "B": "Normal side effects of Misoprostol",
-        "C": "Ovarian torsion",
-        "D": "Appendicitis",
-        "E": "Nephrolithiasis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 15",
-      "question": "A patient with a stable, small uterine fibroid (3cm) desires medical termination. Your management is:",
-      "options": {
-        "A": "Proceed with standard medical regimen if no other contraindications",
-        "B": "Contraindication; recommend surgery only",
-        "C": "Require a myomectomy first",
-        "D": "Use a higher dose of Mifepristone",
-        "E": "Avoid Misoprostol and use Methotrexate instead"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 16",
-      "question": "A patient has failed medical termination (persistent gestational sac on US). The next step is:",
-      "options": {
-        "A": "Offer surgical evacuation (e.g., suction curettage)",
-        "B": "Repeat the same medical regimen",
-        "C": "Switch to a different prostaglandin",
-        "D": "Administer high-dose estrogen",
-        "E": "Admit for observation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 17",
-      "question": "A patient who is breastfeeding requests medical termination. The correct advice is:",
-      "options": {
-        "A": "Medical termination is safe; advise expressing and discarding breast milk for 5 days after Misoprostol",
-        "B": "It is absolutely contraindicated",
-        "C": "She must stop breastfeeding for one month",
-        "D": "Only surgical termination is possible",
-        "E": "Mifepristone passes into milk and is toxic to the infant"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 18",
-      "question": "A 25-year-old woman is at 7 weeks gestation. She has no contraindications and opts for medical termination. Which regimen is most appropriate?",
-      "options": {
-        "A": "Mifepristone 200mg orally followed by Misoprostol 800mcg buccally",
-        "B": "Misoprostol alone, 400mcg every 2 hours",
-        "C": "Methotrexate IM followed by Misoprostol",
-        "D": "Oxytocin IV infusion",
-        "E": "Estrogen and Progesterone combination"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 19",
-      "question": "A patient presents with heavy bleeding and abdominal pain 5 days after taking medication for termination. What is the most likely complication?",
-      "options": {
-        "A": "Incomplete abortion",
-        "B": "Ectopic pregnancy rupture",
-        "C": "Ovarian hyperstimulation",
-        "D": "Pelvic inflammatory disease",
-        "E": "Urinary tract infection"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 20",
-      "question": "What is the most critical step before initiating medical termination?",
-      "options": {
-        "A": "Confirming an intrauterine pregnancy",
-        "B": "Checking blood glucose",
-        "C": "Performing a Pap smear",
-        "D": "Testing for BRCA mutations",
-        "E": "Measuring fundal height"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 21",
-      "question": "Which contraceptive method is considered the most effective for preventing pregnancy?",
-      "options": {
-        "A": "Intrauterine device (IUD)",
-        "B": "Combined oral contraceptive pill",
-        "C": "Male condom",
-        "D": "Fertility awareness methods",
-        "E": "Withdrawal"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 22",
-      "question": "The primary mechanism of action of combined oral contraceptive pills is:",
-      "options": {
-        "A": "Inhibition of ovulation",
-        "B": "Thickening of cervical mucus",
-        "C": "Prevention of implantation",
-        "D": "Creating a hostile uterine environment",
-        "E": "Tubal occlusion"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 23",
-      "question": "A non-hormonal, long-acting reversible contraceptive method is:",
-      "options": {
-        "A": "Copper IUD",
-        "B": "Etonogestrel implant",
-        "C": "Depot medroxyprogesterone acetate injection",
-        "D": "Levonorgestrel IUD",
-        "E": "Vaginal ring"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 24",
-      "question": "Which is a common, non-serious side effect of progestin-only contraceptives?",
-      "options": {
-        "A": "Irregular menstrual bleeding",
-        "B": "Thromboembolism",
-        "C": "Myocardial infarction",
-        "D": "Hypertension",
-        "E": "Liver tumors"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 25",
-      "question": "A 30-year-old smoker (15 cigarettes/day) requests oral contraception. The most appropriate advice is:",
-      "options": {
-        "A": "Combined pills are contraindicated; offer a progestin-only method",
-        "B": "Prescribe a low-dose combined pill",
-        "C": "Recommend she stop smoking and use the patch",
-        "D": "The risk is negligible; any pill is fine",
-        "E": "She is only eligible for barrier methods"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 26",
-      "question": "A woman with a history of deep vein thrombosis (DVT) wants effective contraception. Which method is safest?",
-      "options": {
-        "A": "Progestin-only pill or implant",
-        "B": "Combined oral contraceptive pill",
-        "C": "Contraceptive vaginal ring",
-        "D": "Transdermal patch",
-        "E": "Combined injectable contraceptive"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 27",
-      "question": "A patient complains of heavy menstrual bleeding and dysmenorrhea. She desires contraception. The best choice is:",
-      "options": {
-        "A": "Levonorgestrel-releasing IUS (Mirena)",
-        "B": "Copper IUD",
-        "C": "Progestin-only pill",
-        "D": "Diaphragm",
-        "E": "Fertility awareness"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 28",
-      "question": "A woman who is 6 weeks postpartum and exclusively breastfeeding asks about contraception. A suitable option is:",
-      "options": {
-        "A": "Progestin-only pill (POP)",
-        "B": "Combined oral contraceptive pill",
-        "C": "Contraceptive vaginal ring",
-        "D": "Any method is acceptable",
-        "E": "She does not need contraception while breastfeeding"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 29",
-      "question": "A patient with poorly controlled hypertension is seeking a reliable contraceptive method. Which method is preferred?",
-      "options": {
-        "A": "Levonorgestrel IUD",
-        "B": "Combined oral contraceptive pill",
-        "C": "Transdermal patch",
-        "D": "Vaginal ring",
-        "E": "Combined injectable"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 30",
-      "question": "A woman with migraine with aura should avoid:",
-      "options": {
-        "A": "Combined hormonal contraceptives",
-        "B": "Progestin-only pills",
-        "C": "Copper IUD",
-        "D": "Barrier methods",
-        "E": "Fertility awareness"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 31",
-      "question": "The most common reason for combined oral contraceptive pill failure is:",
-      "options": {
-        "A": "Incorrect or inconsistent use",
-        "B": "Drug interactions",
-        "C": "Vomiting or diarrhea",
-        "D": "Manufacturing defects",
-        "E": "Genetic factors"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 32",
-      "question": "A patient using DMPA (Depo-Provera) injection should be informed about:",
-      "options": {
-        "A": "Potential for weight gain and delayed return of fertility",
-        "B": "Immediate fertility after discontinuation",
-        "C": "Increased risk of osteoporosis in young women",
-        "D": "Guaranteed regular cycles",
-        "E": "Protection against STIs"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 33",
-      "question": "A 22-year-old nulliparous woman with no medical problems presents, concerned about STIs and desiring highly effective contraception. The best recommendation is:",
-      "options": {
-        "A": "Consistent male condom use + Long-acting reversible contraceptive (LARC)",
-        "B": "Copper IUD alone",
-        "C": "Fertility awareness method",
-        "D": "Withdrawal method",
-        "E": "Diaphragm alone"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 34",
-      "question": "A patient using a combined oral contraceptive pill misses 2 active pills in a row during the third week of the pack. What is the correct advice?",
-      "options": {
-        "A": "Take the two missed pills immediately, continue the pack, and use backup contraception for 7 days",
-        "B": "Discard the pack and start a new one immediately",
-        "C": "Take one missed pill and continue as normal",
-        "D": "Stop taking pills and use condoms for the rest of the cycle",
-        "E": "Double the next 7 doses"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 35",
-      "question": "A woman with a BMI of 38 requests emergency contraception. The most effective option for her is:",
-      "options": {
-        "A": "Copper IUD insertion",
-        "B": "Double dose of Levonorgestrel EC",
-        "C": "Single dose of Ulipristal acetate",
-        "D": "Using two vaginal rings",
-        "E": "A high-dose progestin pill"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 36",
-      "question": "A patient with a history of breast cancer (estrogen receptor-positive, completed treatment 2 years ago) requests contraception. The most appropriate method is:",
-      "options": {
-        "A": "Copper IUD",
-        "B": "Combined hormonal patch",
-        "C": "Any combined oral contraceptive",
-        "D": "Vaginal ring",
-        "E": "Levonorgestrel IUD"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 37",
-      "question": "A patient with a seizure disorder on carbamazepine desires oral contraception. The most appropriate management is:",
-      "options": {
-        "A": "Use a non-hormonal method or a higher-dose COCP; efficacy of standard pills may be reduced",
-        "B": "Prescribe a standard low-dose COCP",
-        "C": "Recommend a progestin-only pill at the standard dose",
-        "D": "Contraindicate all hormonal methods",
-        "E": "Advise her that her antiepileptics will protect her from pregnancy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 38",
-      "question": "A woman develops hypertension while on combined oral contraceptive pills. The first step is:",
-      "options": {
-        "A": "Discontinue COCs and evaluate blood pressure",
-        "B": "Add antihypertensive medication",
-        "C": "Switch to a different COC brand",
-        "D": "Continue COCs and monitor",
-        "E": "Reduce the dose of COCs"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 39",
-      "question": "A patient with systemic lupus erythematosus (SLE) with positive antiphospholipid antibodies should avoid:",
-      "options": {
-        "A": "Combined hormonal contraceptives",
-        "B": "Copper IUD",
-        "C": "Progestin-only pills",
-        "D": "Barrier methods",
-        "E": "Fertility awareness"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 40",
-      "question": "The recommended time for postpartum IUD insertion is:",
-      "options": {
-        "A": "Immediately after delivery (within 10 minutes)",
-        "B": "At 6 weeks postpartum",
-        "C": "At 3 months postpartum",
-        "D": "During the first menstrual period",
-        "E": "Only after stopping breastfeeding"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 41",
-      "question": "What is the most common cause of vaginal discharge with a \"fishy\" odor?",
-      "options": {
-        "A": "Bacterial vaginosis",
-        "B": "Candidiasis",
-        "C": "Trichomoniasis",
-        "D": "Gonorrhea",
-        "E": "Chlamydia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 42",
-      "question": "Which organism is most commonly associated with vulvovaginal candidiasis?",
-      "options": {
-        "A": "Candida albicans",
-        "B": "Trichomonas vaginalis",
-        "C": "Gardnerella vaginalis",
-        "D": "Neisseria gonorrhoeae",
-        "E": "Chlamydia trachomatis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 43",
-      "question": "What is the typical appearance of discharge in trichomoniasis?",
-      "options": {
-        "A": "Frothy, yellow-green",
-        "B": "White, curdy",
-        "C": "Gray, homogeneous",
-        "D": "Thick, white",
-        "E": "Clear, stretchy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 44",
-      "question": "What is the gold standard for diagnosing bacterial vaginosis?",
-      "options": {
-        "A": "Amsel's criteria (clinical)",
-        "B": "Vaginal pH >4.5",
-        "C": "Whiff test",
-        "D": "Gram stain (Nugent score)",
-        "E": "Culture"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 45",
-      "question": "A pregnant woman presents with symptomatic bacterial vaginosis. What is the recommended treatment?",
-      "options": {
-        "A": "Oral metronidazole",
-        "B": "Fluconazole",
-        "C": "Doxycycline",
-        "D": "Estrogen cream",
-        "E": "Acyclovir"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 46",
-      "question": "A patient with persistent vaginal discharge despite treatment for bacterial vaginosis. What is the next step?",
-      "options": {
-        "A": "Test for other STIs (e.g., Trichomonas)",
-        "B": "Repeat the same treatment",
-        "C": "Perform hysterectomy",
-        "D": "Prescribe antifungal",
-        "E": "No further action"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 47",
-      "question": "A postmenopausal woman presents with thin, watery discharge and vaginal dryness. What is the most likely diagnosis?",
-      "options": {
-        "A": "Atrophic vaginitis",
-        "B": "Candidiasis",
-        "C": "Bacterial vaginosis",
-        "D": "Trichomoniasis",
-        "E": "Cervical cancer"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 48",
-      "question": "A woman with vaginal discharge and pelvic pain. Cervical motion tenderness is present. What is the most likely diagnosis?",
-      "options": {
-        "A": "Pelvic inflammatory disease (PID)",
-        "B": "Bacterial vaginosis",
-        "C": "Candidiasis",
-        "D": "Trichomoniasis",
-        "E": "Vulvodynia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 49",
-      "question": "A patient with recurrent bacterial vaginosis should be advised to avoid which of the following?",
-      "options": {
-        "A": "Douching",
-        "B": "Cotton underwear",
-        "C": "Probiotics",
-        "D": "Barrier contraception",
-        "E": "Antibiotic prophylaxis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 50",
-      "question": "A patient presents with a thin, grayish-white, homogeneous discharge with a positive \"whiff test.\" Microscopy shows clue cells. The diagnosis is:",
-      "options": {
-        "A": "Bacterial Vaginosis",
-        "B": "Trichomoniasis",
-        "C": "Candidiasis",
-        "D": "Atrophic vaginitis",
-        "E": "Gonorrhea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 51",
-      "question": "A sexually active 20-year-old presents with a frothy, yellow-green, foul-smelling discharge and vulvar itching. Microscopy shows motile flagellated organisms. The treatment of choice is:",
-      "options": {
-        "A": "Oral Metronidazole 2g single dose",
-        "B": "Oral Fluconazole 150mg single dose",
-        "C": "Clindamycin cream",
-        "D": "Miconazole cream",
-        "E": "Doxycycline 100mg BID for 7 days"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 52",
-      "question": "A diabetic patient presents with thick, white, \"cottage-cheese\" like discharge and severe pruritus. The most likely diagnosis is:",
-      "options": {
-        "A": "Vulvovaginal Candidiasis",
-        "B": "Bacterial Vaginosis",
-        "C": "Trichomoniasis",
-        "D": "Cytolytic Vaginosis",
-        "E": "Desquamative Inflammatory Vaginitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 53",
-      "question": "A pregnant patient in her second trimester is diagnosed with Trichomoniasis. What is the recommended treatment?",
-      "options": {
-        "A": "Oral Metronidazole 2g single dose",
-        "B": "Metronidazole vaginal gel",
-        "C": "Clindamycin cream",
-        "D": "Oral Fluconazole",
-        "E": "Treatment is deferred until after delivery"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 54",
-      "question": "A patient with recurrent BV (4 episodes in the past year) has failed standard treatments. A potential next-step management strategy is:",
-      "options": {
-        "A": "Consider suppressive therapy with Metronidazole gel twice weekly for 4-6 months",
-        "B": "Use a higher dose of oral Metronidazole for 14 days",
-        "C": "Prescribe a combination of antibiotics and antifungals",
-        "D": "Recommend a hysterectomy",
-        "E": "Advise douching with vinegar solution"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 55",
-      "question": "A patient presents with persistent vaginal discharge. Microscopy is negative for yeast, clue cells, and trichomonads. The pH is 4.2. The most likely diagnosis is:",
-      "options": {
-        "A": "Physiological discharge",
-        "B": "Bacterial Vaginosis",
-        "C": "Trichomoniasis",
-        "D": "Aerobic Vaginitis",
-        "E": "Cervicitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 56",
-      "question": "A patient with profuse purulent vaginal discharge and cervical friability is most likely suffering from:",
-      "options": {
-        "A": "Mucopurulent Cervicitis (e.g., Chlamydia or Gonorrhea)",
-        "B": "Bacterial Vaginosis",
-        "C": "Vulvovaginal Candidiasis",
-        "D": "Atrophic Vaginitis",
-        "E": "Genital Herpes"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 57",
-      "question": "A patient returns with symptoms of BV just 2 weeks after completing treatment. The most appropriate action is:",
-      "options": {
-        "A": "Verify diagnosis and adherence, then consider a different regimen (e.g., Clindamycin)",
-        "B": "Assume it's a yeast infection and treat with Fluconazole",
-        "C": "Diagnose a drug-resistant strain and refer to an ID specialist",
-        "D": "Double the duration of the previous treatment",
-        "E": "Do nothing, as it is expected to resolve spontaneously"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 58",
-      "question": "A patient with recurrent BV reports symptoms after sexual intercourse with a new partner. What is the recommended approach?",
-      "options": {
-        "A": "Treat the patient and consider treating the partner",
-        "B": "Treat only the patient",
-        "C": "No treatment needed",
-        "D": "Recommend condom use only",
-        "E": "Antibiotic prophylaxis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 59",
-      "question": "A HIV-positive woman with CD4 count <200 presents with severe recurrent candidiasis. What is the management?",
-      "options": {
-        "A": "Prolonged antifungal therapy",
-        "B": "Single dose Fluconazole",
-        "C": "No treatment needed",
-        "D": "Antibacterial therapy",
-        "E": "Surgical intervention"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 60",
-      "question": "A patient develops vaginal discharge after antibiotic therapy for pneumonia. What is the most likely cause?",
-      "options": {
-        "A": "Candidiasis",
-        "B": "Trichomoniasis",
-        "C": "Bacterial Vaginosis",
-        "D": "Gonorrhea",
-        "E": "Chlamydia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 61",
-      "question": "A 40-year-old with menorrhagia and a 14-week size irregular uterus is suspected to have adenomyosis. The best diagnostic method is:",
-      "options": {
-        "A": "MRI pelvis",
-        "B": "Transvaginal ultrasound",
-        "C": "Hysteroscopy",
-        "D": "Endometrial biopsy",
-        "E": "Clinical examination"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 62",
-      "question": "A patient with an adnexal mass, ascites, and pleural effusion has:",
-      "options": {
-        "A": "Meigs' syndrome",
-        "B": "Ovarian hyperstimulation syndrome",
-        "C": "Advanced ovarian cancer",
-        "D": "Tuberculous peritonitis",
-        "E": "Liver cirrhosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 63",
-      "question": "A 7-year-old girl presents with breast development but no pubic hair. What is the most likely diagnosis?",
-      "options": {
-        "A": "Premature thelarche",
-        "B": "Central precocious puberty",
-        "C": "McCune-Albright syndrome",
-        "D": "Adrenal tumor",
-        "E": "Normal puberty"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 64",
-      "question": "A 16-year-old girl has no breast development or menses. Her FSH is elevated. The most likely diagnosis is:",
-      "options": {
-        "A": "Primary ovarian insufficiency (e.g., Turner Syndrome)",
-        "B": "Hypothalamic amenorrhea",
-        "C": "Constitutional delay of puberty",
-        "D": "Polycystic ovary syndrome",
-        "E": "Congenital adrenal hyperplasia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 65",
-      "question": "A girl with precocious puberty and caf-au-lait spots is most likely to have:",
-      "options": {
-        "A": "McCune-Albright Syndrome",
-        "B": "Neurofibromatosis",
-        "C": "Tuberous Sclerosis",
-        "D": "Turner Syndrome",
-        "E": "Kallmann Syndrome"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 66",
-      "question": "The first-line treatment for central precocious puberty is:",
-      "options": {
-        "A": "GnRH agonists",
-        "B": "Aromatase inhibitors",
-        "C": "Progestins",
-        "D": "Observation",
-        "E": "Surgery"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 67",
-      "question": "A 14-year-old girl has breast development (Tanner stage 4) but no menses. What is the most appropriate initial investigation?",
-      "options": {
-        "A": "Pregnancy test",
-        "B": "Karyotype",
-        "C": "Pelvic ultrasound",
-        "D": "TSH and Prolactin",
-        "E": "MRI of the brain"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 68",
-      "question": "A 7-year-old girl shows breast development. What is the most appropriate initial investigation?",
-      "options": {
-        "A": "Bone age assessment",
-        "B": "Pelvic ultrasound",
-        "C": "MRI brain",
-        "D": "Thyroid function tests",
-        "E": "Karyotyping"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 69",
-      "question": "An 8-year-old girl presents with breast development and vaginal bleeding. Pelvic ultrasound shows an ovarian mass. The most likely diagnosis is:",
-      "options": {
-        "A": "Estrogen-secreting ovarian tumor",
-        "B": "Central precocious puberty",
-        "C": "Premature thelarche",
-        "D": "Hypothyroidism",
-        "E": "Foreign body"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 70",
-      "question": "A 17-year-old with no secondary sexual characteristics, normal height, and anosmia likely has:",
-      "options": {
-        "A": "Kallmann Syndrome",
-        "B": "Turner Syndrome",
-        "C": "Polycystic Ovary Syndrome",
-        "D": "Constitutional Delay",
-        "E": "Swyer Syndrome"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 71",
-      "question": "A 9-year-old girl with pubic hair but no breast development is diagnosed with premature adrenarche. What is the management?",
-      "options": {
-        "A": "Reassurance and observation",
-        "B": "Treatment with GnRH agonist",
-        "C": "Treatment with corticosteroids",
-        "D": "Surgical exploration",
-        "E": "Radiation therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 72",
-      "question": "A girl with delayed puberty is found to have a 46,XY karyotype. The most likely diagnosis is:",
-      "options": {
-        "A": "Swyer Syndrome",
-        "B": "Turner Syndrome",
-        "C": "Kallmann Syndrome",
-        "D": "Androgen Insensitivity Syndrome",
-        "E": "Mullerian agenesis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 73",
-      "question": "A 7-year-old girl with central precocious puberty is started on Leuprolide. The primary goal of this treatment is:",
-      "options": {
-        "A": "Preserve final adult height",
-        "B": "Prevent early menarche",
-        "C": "Reduce the risk of ovarian cancer",
-        "D": "Alleviate psychological distress",
-        "E": "Prevent hirsutism"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 74",
-      "question": "An 8-year-old girl with breast development and advanced bone age. Pelvic ultrasound shows an ovarian cyst. What is the most likely diagnosis?",
-      "options": {
-        "A": "McCune-Albright syndrome",
-        "B": "Central precocious puberty",
-        "C": "Premature adrenarche",
-        "D": "Ovarian tumor",
-        "E": "Hypothyroidism"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 75",
-      "question": "In the PALM-COEIN classification for AUB, the \"P\" stands for:",
-      "options": {
-        "A": "Polyp",
-        "B": "Prolactin",
-        "C": "Progesterone",
-        "D": "Pregnancy",
-        "E": "Perimenopause"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 76",
-      "question": "The most common cause of abnormal uterine bleeding in reproductive-aged women is:",
-      "options": {
-        "A": "Anovulation (AUB-O)",
-        "B": "Leiomyoma (AUB-L)",
-        "C": "Coagulopathy (AUB-C)",
-        "D": "Endometrial hyperplasia (AUB-E)",
-        "E": "Iatrogenic (AUB-I)"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 77",
-      "question": "A 50-year-old woman with AUB has an endometrial biopsy showing complex hyperplasia without atypia. Management is:",
-      "options": {
-        "A": "Progesterone therapy and repeat biopsy",
-        "B": "Total hysterectomy",
-        "C": "Hysteroscopic resection",
-        "D": "Observation",
-        "E": "Radiation therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 78",
-      "question": "A patient with AUB unresponsive to medical therapy and who has completed childbearing opts for a definitive procedure. The best option is:",
-      "options": {
-        "A": "Endometrial ablation",
-        "B": "Hysterectomy",
-        "C": "Hysteroscopic myomectomy",
-        "D": "Uterine artery embolization",
-        "E": "GnRH agonist therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 79",
-      "question": "A woman develops AUB after starting a new antipsychotic medication. The most likely mechanism is:",
-      "options": {
-        "A": "Hyperprolactinemia (AUB-I)",
-        "B": "Drug-induced coagulopathy",
-        "C": "Direct endometrial effect",
-        "D": "Anovulation from weight gain",
-        "E": "Allergic reaction"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 80",
-      "question": "A patient with AUB and a history of breast cancer on Tamoxifen should initially be evaluated with:",
-      "options": {
-        "A": "Transvaginal ultrasound and endometrial biopsy",
-        "B": "MRI pelvis",
-        "C": "Hysteroscopy",
-        "D": "CA-125 level",
-        "E": "Discontinuation of Tamoxifen"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 81",
-      "question": "A 40-year-old with severe anemia from AUB, refractory to tranexamic acid and oral progesterone, should be offered:",
-      "options": {
-        "A": "Levonorgestrel IUD",
-        "B": "High-dose estrogen therapy",
-        "C": "Laparoscopic bilateral oophorectomy",
-        "D": "Iron infusion alone",
-        "E": "Repeat trial of tranexamic acid"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 82",
-      "question": "What is the most common cause of abnormal uterine bleeding in reproductive-age women?",
-      "options": {
-        "A": "Anovulation",
-        "B": "Uterine fibroids",
-        "C": "Endometrial polyp",
-        "D": "Coagulopathy",
-        "E": "Thyroid disorder"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 83",
-      "question": "A sudden, sharp, unilateral lower abdominal pain in a reproductive-aged woman should first raise suspicion for:",
-      "options": {
-        "A": "Ectopic pregnancy",
-        "B": "Ovarian cyst rupture",
-        "C": "Mittelschmerz",
-        "D": "Appendicitis",
-        "E": "Diverticulitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 84",
-      "question": "The most common cause of acute pelvic inflammatory disease (PID) is:",
-      "options": {
-        "A": "Chlamydia trachomatis",
-        "B": "Neisseria gonorrhoeae",
-        "C": "Mycoplasma genitalium",
-        "D": "Escherichia coli",
-        "E": "Streptococcus agalactiae"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 85",
-      "question": "The first-line imaging modality for evaluating acute pelvic pain in a non-pregnant woman is:",
-      "options": {
-        "A": "Transvaginal ultrasound",
-        "B": "Abdominal ultrasound",
-        "C": "CT scan of abdomen and pelvis",
-        "D": "MRI pelvis",
-        "E": "X-ray abdomen"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 86",
-      "question": "The gold standard for diagnosing endometriosis is:",
-      "options": {
-        "A": "Diagnostic laparoscopy with biopsy",
-        "B": "Transvaginal ultrasound",
-        "C": "Serum CA-125 level",
-        "D": "MRI pelvis",
-        "E": "Clinical examination alone"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 87",
-      "question": "A common benign cause of postcoital bleeding is:",
-      "options": {
-        "A": "Cervical ectropion",
-        "B": "Cervical cancer",
-        "C": "Cervical polyp",
-        "D": "Vaginal trauma",
-        "E": "Uterine fibroids"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 88",
-      "question": "A 25-year-old with acute pelvic pain, cervical motion tenderness, and purulent cervical discharge should be treated for:",
-      "options": {
-        "A": "Pelvic Inflammatory Disease (PID)",
-        "B": "Ovarian torsion",
-        "C": "Endometriosis",
-        "D": "Irritable bowel syndrome",
-        "E": "Cystitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 89",
-      "question": "What is the definition of primary amenorrhea?",
-      "options": {
-        "A": "No menses by age 15",
-        "B": "No menses by age 12",
-        "C": "No menses for 3 months",
-        "D": "No menses for 6 months",
-        "E": "No menses by age 18"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 90",
-      "question": "What is the most common cause of secondary amenorrhea?",
-      "options": {
-        "A": "Pregnancy",
-        "B": "Polycystic ovary syndrome",
-        "C": "Hypothyroidism",
-        "D": "Hyperprolactinemia",
-        "E": "Premature ovarian failure"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 91",
-      "question": "A 18-year-old with primary amenorrhea, normal breast development, and cyclical pelvic pain. What is the most likely diagnosis?",
-      "options": {
-        "A": "Imperforate hymen",
-        "B": "Mullerian agenesis",
-        "C": "Androgen insensitivity",
-        "D": "Turner syndrome",
-        "E": "Swyer syndrome"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 92",
-      "question": "A 28-year-old with secondary amenorrhea after D&C for postpartum hemorrhage. What is the most likely diagnosis?",
-      "options": {
-        "A": "Asherman's syndrome",
-        "B": "Sheehan's syndrome",
-        "C": "Premature ovarian failure",
-        "D": "Polycystic ovary syndrome",
-        "E": "Hyperprolactinemia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 93",
-      "question": "A 22-year-old with amenorrhea, hirsutism, and obesity. What is the most likely diagnosis and initial test?",
-      "options": {
-        "A": "PCOS; pelvic ultrasound",
-        "B": "CAH; 17-OH progesterone",
-        "C": "Cushing's; cortisol",
-        "D": "Thyroid disorder; TSH",
-        "E": "Hyperprolactinemia; prolactin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 94",
-      "question": "A 40-year-old with amenorrhea and symptoms of estrogen deficiency. FSH is 12 mIU/mL. What is the next step?",
-      "options": {
-        "A": "Repeat FSH in 1-2 months",
-        "B": "Start hormone therapy",
-        "C": "Perform karyotype",
-        "D": "MRI pituitary",
-        "E": "Laparoscopy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 95",
-      "question": "A 17-year-old with primary amenorrhea, no breast development, and elevated FSH. What is the most appropriate next investigation?",
-      "options": {
-        "A": "Karyotype",
-        "B": "Pelvic ultrasound",
-        "C": "MRI brain",
-        "D": "Thyroid function",
-        "E": "Prolactin level"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 96",
-      "question": "Primary amenorrhea is defined as the absence of menses by age:",
-      "options": {
-        "A": 15,
-        "B": 12,
-        "C": 13,
-        "D": 16,
-        "E": 18
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 97",
-      "question": "A 28-year-old with secondary amenorrhea has an elevated FSH level. The diagnosis is:",
-      "options": {
-        "A": "Premature Ovarian Insufficiency (POI)",
-        "B": "Polycystic Ovary Syndrome (PCOS)",
-        "C": "Functional Hypothalamic Amenorrhea",
-        "D": "Hyperprolactinemia",
-        "E": "Thyroid disorder"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 98",
-      "question": "A patient with PCOS and amenorrhea desiring pregnancy should be offered first-line ovulation induction with:",
-      "options": {
-        "A": "Clomiphene Citrate",
-        "B": "Metformin",
-        "C": "Letrozole",
-        "D": "Gonadotropins",
-        "E": "Laparoscopic ovarian drilling"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 99",
-      "question": "A patient with amenorrhea and symptoms of vaginal dryness and hot flashes is found to have a normal FSH. What is the next step?",
-      "options": {
-        "A": "Repeat FSH or check Estradiol level",
-        "B": "Start hormone replacement therapy",
-        "C": "Perform a karyotype",
-        "D": "Order an MRI of the pituitary",
-        "E": "Do a progesterone challenge test"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 100",
-      "question": "A woman with hyperprolactinemia and a microadenoma on MRI who desires pregnancy should be treated with:",
-      "options": {
-        "A": "Cabergoline",
-        "B": "Surgical resection of the tumor",
-        "C": "Radiation therapy",
-        "D": "Observation",
-        "E": "Estrogen-progesterone therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 101",
-      "question": "A patient with constitutional delay of puberty and primary amenorrhea is best managed with:",
-      "options": {
-        "A": "Reassurance and observation if no other pathology is found",
-        "B": "Estrogen replacement therapy",
-        "C": "Gonadotropin therapy",
-        "D": "Surgical exploration",
-        "E": "Psychological counseling only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 102",
-      "question": "A 25-year-old woman is found to have a 7 cm cystic ovarian mass on ultrasound. The mass contains both solid and cystic components with calcifications and hair-like structures. What is the most likely diagnosis?",
-      "options": {
-        "A": "Mature cystic teratoma (dermoid cyst)",
-        "B": "Serous cystadenoma",
-        "C": "Endometrioma",
-        "D": "Mucinous cystadenoma",
-        "E": "Granulosa cell tumor"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 103",
-      "question": "Infertility is defined as the inability to achieve a pregnancy after how long of unprotected intercourse?",
-      "options": {
-        "A": "1 year",
-        "B": "6 months",
-        "C": "2 years",
-        "D": "18 months",
-        "E": "3 years"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 104",
-      "question": "The most common cause of female infertility is:",
-      "options": {
-        "A": "Ovulatory dysfunction",
-        "B": "Tubal factor",
-        "C": "Endometriosis",
-        "D": "Uterine factor",
-        "E": "Unexplained"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 105",
-      "question": "The initial test for evaluating ovulation is:",
-      "options": {
-        "A": "Mid-luteal phase serum progesterone",
-        "B": "Basal body temperature charting",
-        "C": "Urinary LH kits",
-        "D": "Endometrial biopsy",
-        "E": "Transvaginal ultrasound"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 106",
-      "question": "The gold standard test for assessing tubal patency is:",
-      "options": {
-        "A": "Hysterosalpingography (HSG)",
-        "B": "Laparoscopy with chromotubation",
-        "C": "Transvaginal ultrasound",
-        "D": "Saline infusion sonography",
-        "E": "Hysteroscopy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 107",
-      "question": "The most common cause of male factor infertility is:",
-      "options": {
-        "A": "Idiopathic abnormal semen parameters",
-        "B": "Varicocele",
-        "C": "Obstructive azoospermia",
-        "D": "Genetic disorders",
-        "E": "Hormonal imbalances"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 108",
-      "question": "A couple presents after 1 year of infertility. The woman has regular cycles. What is the most appropriate first step in evaluation?",
-      "options": {
-        "A": "Semen analysis",
-        "B": "Hysterosalpingography (HSG)",
-        "C": "Laparoscopy",
-        "D": "Serum progesterone check",
-        "E": "Transvaginal ultrasound"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 109",
-      "question": "A patient with severe male factor infertility (azoospermia) may require:",
-      "options": {
-        "A": "IVF with ICSI using surgically retrieved sperm",
-        "B": "Intrauterine insemination (IUI)",
-        "C": "Donor sperm insemination",
-        "D": "Adoption",
-        "E": "Clomiphene treatment for the female partner"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 110",
-      "question": "A woman with stage IV endometriosis and infertility, failing to conceive after surgery, should be offered:",
-      "options": {
-        "A": "In Vitro Fertilization (IVF)",
-        "B": "Another laparoscopic surgery",
-        "C": "Superovulation with IUI",
-        "D": "Danazol treatment",
-        "E": "High-dose progesterone"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 111",
-      "question": "The primary benefit of using Letrozole over Clomiphene for ovulation induction in PCOS is:",
-      "options": {
-        "A": "Higher live birth rate and lower multiple gestation risk",
-        "B": "It is cheaper",
-        "C": "It has fewer side effects",
-        "D": "It requires less monitoring",
-        "E": "It is effective in women with low AMH"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 112",
-      "question": "A patient with unilateral tubal occlusion on HSG and no other factors should be initially managed with:",
-      "options": {
-        "A": "Expectant management or ovulation induction with timed intercourse",
-        "B": "In Vitro Fertilization (IVF)",
-        "C": "Surgical tubal reconstruction",
-        "D": "Laparoscopy to confirm the finding",
-        "E": "Intrauterine insemination (IUI)"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 113",
-      "question": "A woman with hypothyroidism and infertility should be:",
-      "options": {
-        "A": "Treated with levothyroxine to normalize TSH",
-        "B": "Treated with Clomiphene immediately",
-        "C": "Referred directly for IVF",
-        "D": "Advised to adopt",
-        "E": "Told that thyroid disease does not affect fertility"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 114",
-      "question": "What is the definition of infertility?",
-      "options": {
-        "A": "No conception after 1 year of unprotected intercourse",
-        "B": "No conception after 6 months",
-        "C": "No conception after 2 years",
-        "D": "Never being able to conceive",
-        "E": "Only secondary infertility"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 115",
-      "question": "A woman with bilateral tubal blockage on HSG. What is the most appropriate treatment?",
-      "options": {
-        "A": "In vitro fertilization (IVF)",
-        "B": "Tubal surgery",
-        "C": "Ovulation induction",
-        "D": "IUI",
-        "E": "Expectant management"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 116",
-      "question": "A couple with male factor infertility (oligospermia). What is the recommended treatment?",
-      "options": {
-        "A": "Intracytoplasmic sperm injection (ICSI)",
-        "B": "Intrauterine insemination (IUI)",
-        "C": "Donor sperm",
-        "D": "Surgery",
-        "E": "Medication"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 117",
-      "question": "A 35-year-old with stage III endometriosis and infertility. What is the most appropriate treatment?",
-      "options": {
-        "A": "IVF",
-        "B": "Surgery alone",
-        "C": "Medical therapy",
-        "D": "IUI",
-        "E": "Expectant management"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 118",
-      "question": "A woman with unexplained infertility after basic evaluation. What is the next step?",
-      "options": {
-        "A": "Intrauterine insemination with ovulation induction",
-        "B": "Immediately proceed to IVF",
-        "C": "Laparoscopy",
-        "D": "Donor eggs",
-        "E": "Surrogacy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 119",
-      "question": "A couple with recurrent pregnancy loss. What evaluation is indicated?",
-      "options": {
-        "A": "Parental karyotyping",
-        "B": "HSG",
-        "C": "Semen analysis",
-        "D": "Ovulation testing",
-        "E": "Endometrial biopsy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 120",
-      "question": "A 40-year-old woman with low AMH and infertility. What is the most appropriate recommendation?",
-      "options": {
-        "A": "In vitro fertilization with own eggs",
-        "B": "Donor eggs",
-        "C": "Ovulation induction",
-        "D": "IUI",
-        "E": "Adoption"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 121",
-      "question": "What are the Rotterdam criteria for PCOS diagnosis?",
-      "options": {
-        "A": "2 out of 3: oligo/anovulation, clinical/biochemical hyperandrogenism, polycystic ovaries",
-        "B": "Only ovarian cysts on ultrasound",
-        "C": "Only menstrual irregularities",
-        "D": "Only hirsutism",
-        "E": "Only obesity"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 122",
-      "question": "What is the primary underlying pathophysiology of PCOS?",
-      "options": {
-        "A": "Insulin resistance",
-        "B": "Thyroid dysfunction",
-        "C": "Adrenal insufficiency",
-        "D": "Pituitary tumor",
-        "E": "Autoimmune disorder"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 123",
-      "question": "A PCOS patient with BMI 35 and infertility. What is the first recommendation?",
-      "options": {
-        "A": "Weight loss and lifestyle modification",
-        "B": "Immediate IVF",
-        "C": "Bariatric surgery",
-        "D": "Ovulation induction",
-        "E": "Metformin only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 124",
-      "question": "A woman with hirsutism has elevated 17-OH progesterone. What is the diagnosis?",
-      "options": {
-        "A": "Non-classical congenital adrenal hyperplasia",
-        "B": "PCOS",
-        "C": "Adrenal tumor",
-        "D": "Ovarian tumor",
-        "E": "Cushing's syndrome"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 125",
-      "question": "A PCOS patient develops endometrial hyperplasia. What is the most appropriate management?",
-      "options": {
-        "A": "Progestin therapy",
-        "B": "Hysterectomy",
-        "C": "Endometrial ablation",
-        "D": "Metformin",
-        "E": "Observation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 126",
-      "question": "A patient with PCOS and severe acne unresponsive to topical treatment. What is the best systemic therapy?",
-      "options": {
-        "A": "Combined oral contraceptive pills",
-        "B": "Antibiotics only",
-        "C": "Isotretinoin",
-        "D": "Spironolactone",
-        "E": "Metformin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 127",
-      "question": "A lean woman with PCOS and normal insulin levels fails to ovulate on Letrozole. The next step is:",
-      "options": {
-        "A": "Gonadotropin injections",
-        "B": "Laparoscopic ovarian drilling",
-        "C": "In Vitro Fertilization (IVF)",
-        "D": "Metformin therapy",
-        "E": "Use of Clomiphene instead"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 128",
-      "question": "A patient with PCOS and infertility has a partner with severe oligospermia. The recommended treatment is:",
-      "options": {
-        "A": "In Vitro Fertilization with ICSI",
-        "B": "Superovulation with IUI",
-        "C": "Clomiphene Citrate",
-        "D": "Letrozole",
-        "E": "Donor sperm insemination"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 129",
-      "question": "A woman with PCOS desires conception and has a BMI of 40. The most appropriate initial advice is:",
-      "options": {
-        "A": "Weight loss before attempting ovulation induction",
-        "B": "Start Letrozole immediately",
-        "C": "Proceed directly to IVF",
-        "D": "Start Metformin alone",
-        "E": "Use a gestational carrier"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 130",
-      "question": "A patient with PCOS on Spironolactone for hirsutism suddenly desires pregnancy. The correct action is:",
-      "options": {
-        "A": "Stop Spironolactone and switch to COCP for 1-2 cycles before conception",
-        "B": "Continue Spironolactone until pregnancy is confirmed",
-        "C": "Replace Spironolactone with Finasteride",
-        "D": "Advise that it is safe to conceive on Spironolactone",
-        "E": "Refer for immediate IVF"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 131",
-      "question": "A patient with PCOS and acanthosis nigricans should be screened for:",
-      "options": {
-        "A": "Impaired glucose tolerance / Type 2 Diabetes",
-        "B": "Cushing's syndrome",
-        "C": "Adrenal insufficiency",
-        "D": "Hyperthyroidism",
-        "E": "Liver dysfunction"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 132",
-      "question": "A sudden, sharp, unilateral lower abdominal pain in a reproductive-aged woman should first raise suspicion for:",
-      "options": {
-        "A": "Ectopic pregnancy",
-        "B": "Ovarian cyst rupture",
-        "C": "Mittelschmerz",
-        "D": "Appendicitis",
-        "E": "Diverticulitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 133",
-      "question": "The most common cause of pelvic organ prolapse is:",
-      "options": {
-        "A": "Vaginal childbirth",
-        "B": "Chronic constipation",
-        "C": "Hysterectomy",
-        "D": "Obesity",
-        "E": "Connective tissue disorders"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 134",
-      "question": "The Pelvic Organ Prolapse Quantification (POP-Q) system stages prolapse from:",
-      "options": {
-        "A": "0 to IV",
-        "B": "I to IV",
-        "C": "I to III",
-        "D": "A to D",
-        "E": "Mild to Severe"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 135",
-      "question": "A 65-year-old woman with a stage III cystocele complains of stress urinary incontinence. The best surgical option addressing both issues is:",
-      "options": {
-        "A": "Anterior colporrhaphy with mid-urethral sling",
-        "B": "Vaginal hysterectomy alone",
-        "C": "Sacrocolpopexy",
-        "D": "Pessary insertion",
-        "E": "Posterior colporrhaphy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 136",
-      "question": "A patient with uterine prolapse and enterocele should undergo:",
-      "options": {
-        "A": "Posterior colporrhaphy",
-        "B": "Anterior colporrhaphy",
-        "C": "Sacrospinous ligament fixation",
-        "D": "Uterosacral ligament suspension",
-        "E": "Burch colposuspension"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 137",
-      "question": "A good candidate for a vaginal pessary is:",
-      "options": {
-        "A": "A woman who wishes to avoid surgery or is a poor surgical candidate",
-        "B": "A woman with stage IV prolapse",
-        "C": "A woman with an active vaginal infection",
-        "D": "A woman who is sexually active and wants a permanent solution",
-        "E": "A woman with uterine prolapse and cervical elongation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 138",
-      "question": "A postmenopausal woman with prolapse and vaginal atrophy should be treated with:",
-      "options": {
-        "A": "Topical vaginal estrogen",
-        "B": "Systemic Hormone Replacement Therapy (HRT)",
-        "C": "Antibiotic cream",
-        "D": "Steroid cream",
-        "E": "Regular douching"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 139",
-      "question": "A patient develops dyspareunia and recurrent UTI after an anterior colporrhaphy with mesh. The most likely complication is:",
-      "options": {
-        "A": "Mesh erosion",
-        "B": "Pelvic infection",
-        "C": "Urinary fistula",
-        "D": "Nerve injury",
-        "E": "Vaginal stenosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 140",
-      "question": "A woman with recurrent vault prolapse after hysterectomy is best treated with:",
-      "options": {
-        "A": "Abdominal sacrocolpopexy",
-        "B": "Repeat vaginal repair",
-        "C": "Vaginal pessary",
-        "D": "Levator plication",
-        "E": "Colpocleisis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 141",
-      "question": "A frail, elderly woman with significant comorbidities and stage IV prolapse who is not sexually active would benefit most from:",
-      "options": {
-        "A": "Colpocleisis",
-        "B": "Sacrospinous ligament fixation",
-        "C": "Vaginal hysterectomy",
-        "D": "Pessary trial",
-        "E": "Abdominal sacrocolpopexy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 142",
-      "question": "A patient with uterine prolapse and stress urinary incontinence undergoes surgery. Postoperatively, she has difficulty voiding. The initial management is:",
-      "options": {
-        "A": "Intermittent self-catheterization",
-        "B": "Indwelling Foley catheter for one week",
-        "C": "Surgical revision",
-        "D": "Alpha-blocker medication",
-        "E": "Diuretics"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 143",
-      "question": "During a sacrospinous ligament fixation, the structure most at risk for injury is:",
-      "options": {
-        "A": "Pudendal nerve and vessels",
-        "B": "Ureter",
-        "C": "Sciatic nerve",
-        "D": "Obturator nerve",
-        "E": "Inferior epigastric artery"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 144",
-      "question": "A 75-year-old with multiple comorbidities and complete procidentia. What is the safest surgical option?",
-      "options": {
-        "A": "LeFort colpocleisis",
-        "B": "Vaginal hysterectomy",
-        "C": "Abdominal sacrocolpopexy",
-        "D": "Laparoscopic repair",
-        "E": "Uterine suspension"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 145",
-      "question": "What defines natural menopause?",
-      "options": {
-        "A": "12 months of amenorrhea after age 45",
-        "B": "Any cessation of menses",
-        "C": "Surgical removal of ovaries",
-        "D": "Cessation of periods at any age",
-        "E": "When FSH >20 mIU/mL"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 146",
-      "question": "What is the most common symptom of menopause?",
-      "options": {
-        "A": "Vasomotor symptoms (hot flashes)",
-        "B": "Vaginal dryness",
-        "C": "Mood changes",
-        "D": "Sleep disturbances",
-        "E": "Joint pains"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 147",
-      "question": "What is first-line for treating vasomotor symptoms?",
-      "options": {
-        "A": "Hormone therapy",
-        "B": "SSRIs",
-        "C": "Clonidine",
-        "D": "Gabapentin",
-        "E": "Vitamin E"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 148",
-      "question": "What is the primary indication for systemic hormone therapy?",
-      "options": {
-        "A": "Moderate-severe vasomotor symptoms",
-        "B": "Prevention of heart disease",
-        "C": "Treatment of osteoporosis only",
-        "D": "Improving libido",
-        "E": "Preventing dementia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 149",
-      "question": "A 48-year-old with premature ovarian insufficiency. What is the management?",
-      "options": {
-        "A": "Hormone therapy until average menopause age",
-        "B": "No treatment needed",
-        "C": "Herbal medicine only",
-        "D": "Testosterone therapy",
-        "E": "Chemotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 150",
-      "question": "A woman with history of DVT wants menopausal therapy. What is safest?",
-      "options": {
-        "A": "Transdermal estrogen",
-        "B": "Oral estrogen",
-        "C": "No hormone therapy",
-        "D": "Testosterone only",
-        "E": "Progestin only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 151",
-      "question": "A patient on tamoxifen for breast cancer has severe vulvovaginal symptoms. What is appropriate?",
-      "options": {
-        "A": "Non-hormonal moisturizers",
-        "B": "Vaginal estrogen",
-        "C": "Systemic estrogen",
-        "D": "Testosterone",
-        "E": "Laser therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 152",
-      "question": "A postmenopausal woman with abnormal bleeding on hormone therapy. What is the next step?",
-      "options": {
-        "A": "Endometrial evaluation",
-        "B": "Increase hormone dose",
-        "C": "Switch to different regimen",
-        "D": "Stop all treatment",
-        "E": "Add testosterone"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 153",
-      "question": "What is the most common form of precocious puberty in girls?",
-      "options": {
-        "A": "Central precocious puberty",
-        "B": "Peripheral precocious puberty",
-        "C": "Premature thelarche",
-        "D": "Congenital adrenal hyperplasia",
-        "E": "none of them"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 154",
-      "question": "In cases of suspected delayed puberty, which of the following should be the first step in evaluation?",
-      "options": {
-        "A": "Detailed medical history and physical examination",
-        "B": "Pelvic ultrasound",
-        "C": "Hormonal therapy",
-        "D": "MRI of the brain",
-        "E": "none of them"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 155",
-      "question": "A 58-year-old woman on continuous combined HT for 5 years presents with unscheduled bleeding. The first step is:",
-      "options": {
-        "A": "Endometrial assessment (biopsy)",
-        "B": "Increase the progestin dose",
-        "C": "Stop HT immediately",
-        "D": "Switch to estrogen-only therapy",
-        "E": "Perform a hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 156",
-      "question": "A patient with premature ovarian insufficiency (POI) should be managed with:",
-      "options": {
-        "A": "Hormone Therapy at least until the average age of menopause",
-        "B": "Calcium and Vitamin D only",
-        "C": "SSRIs for symptom control",
-        "D": "Clomiphene for ovulation induction",
-        "E": "Observation only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 157",
-      "question": "A menopausal woman with urogenital symptoms but contraindications to even topical estrogen could be treated with:",
-      "options": {
-        "A": "Ospemifene",
-        "B": "Systemic HT",
-        "C": "Testosterone cream",
-        "D": "Vaginal dehydroepiandrosterone (DHEA)",
-        "E": "Laser therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 158",
-      "question": "The Women's Health Initiative (WHI) study primarily showed an increased risk with combined HT of:",
-      "options": {
-        "A": "Breast cancer and venous thromboembolism",
-        "B": "Ovarian cancer",
-        "C": "Lung cancer",
-        "D": "Colon cancer",
-        "E": "Thyroid cancer"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 159",
-      "question": "What is the most common cause of cervical cancer?",
-      "options": {
-        "A": "HPV infection",
-        "B": "Herpes virus",
-        "C": "HIV",
-        "D": "Smoking",
-        "E": "Chlamydia"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 160",
-      "question": "What is the first-line screening for cervical cancer?",
-      "options": {
-        "A": "Pap smear",
-        "B": "HPV testing",
-        "C": "Colposcopy",
-        "D": "Biopsy",
-        "E": "Visual inspection"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 161",
-      "question": "What is the management of CIN 1?",
-      "options": {
-        "A": "Observation with follow-up",
-        "B": "LEEP",
-        "C": "Cold knife conization",
-        "D": "Hysterectomy",
-        "E": "Radiation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 162",
-      "question": "What is the treatment for microinvasive cervical cancer (IA1)?",
-      "options": {
-        "A": "Cone biopsy",
-        "B": "Radical hysterectomy",
-        "C": "Chemotherapy",
-        "D": "Radiation",
-        "E": "Immunotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 163",
-      "question": "A 30-year-old with ASC-US Pap smear. What is the next step?",
-      "options": {
-        "A": "HPV testing",
-        "B": "Repeat Pap in 1 year",
-        "C": "Colposcopy",
-        "D": "LEEP",
-        "E": "Hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 164",
-      "question": "A patient with HSIL on Pap smear. What is the management?",
-      "options": {
-        "A": "Colposcopy with biopsy",
-        "B": "Repeat Pap in 6 months",
-        "C": "HPV testing",
-        "D": "Cryotherapy",
-        "E": "Hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 165",
-      "question": "A 35-year-old with CIN 3 on biopsy. What is the treatment?",
-      "options": {
-        "A": "LEEP procedure",
-        "B": "Observation",
-        "C": "Chemotherapy",
-        "D": "Radiation",
-        "E": "Vaccination"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 166",
-      "question": "A woman with stage IB1 cervical cancer desires fertility. What is appropriate?",
-      "options": {
-        "A": "Radical trachelectomy",
-        "B": "Radical hysterectomy",
-        "C": "Chemoradiation",
-        "D": "Simple hysterectomy",
-        "E": "Observation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 167",
-      "question": "A 25-year-old with CIN 2 wants future fertility. What is the best treatment?",
-      "options": {
-        "A": "LEEP conization",
-        "B": "Cold knife conization",
-        "C": "Hysterectomy",
-        "D": "Radiation",
-        "E": "Ablation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 168",
-      "question": "A patient with recurrent cervical cancer after radiation. What is the treatment?",
-      "options": {
-        "A": "Pelvic exenteration",
-        "B": "Additional radiation",
-        "C": "Chemotherapy only",
-        "D": "Immunotherapy",
-        "E": "Palliative care only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 169",
-      "question": "A woman with stage IVB cervical cancer. What is the primary treatment?",
-      "options": {
-        "A": "Systemic chemotherapy",
-        "B": "Radical surgery",
-        "C": "Radiation therapy",
-        "D": "Hormonal therapy",
-        "E": "Immunotherapy only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 170",
-      "question": "A patient with positive margins after LEEP for CIN 3. What is the next step?",
-      "options": {
-        "A": "Repeat excision",
-        "B": "Hysterectomy",
-        "C": "Observation",
-        "D": "Radiation",
-        "E": "Chemotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 171",
-      "question": "A pregnant woman with abnormal Pap showing HSIL. What is management?",
-      "options": {
-        "A": "Colposcopy without endocervical curettage",
-        "B": "Immediate LEEP",
-        "C": "Termination of pregnancy",
-        "D": "Delivery then treatment",
-        "E": "No evaluation needed"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 172",
-      "question": "A 28-year-old pregnant woman at 16 weeks is diagnosed with CIN 3. Management is:",
-      "options": {
-        "A": "Defer treatment and repeat colposcopy postpartum",
-        "B": "Perform LEEP immediately",
-        "C": "Terminate pregnancy and treat",
-        "D": "Perform cold knife cone biopsy",
-        "E": "Start topical chemotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 173",
-      "question": "What is the most common benign uterine tumor?",
-      "options": {
-        "A": "Leiomyoma (fibroids)",
-        "B": "Adenomyosis",
-        "C": "Endometrial polyp",
-        "D": "Endometrial hyperplasia",
-        "E": "Sarcoma"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 174",
-      "question": "What is the most common type of ovarian cancer?",
-      "options": {
-        "A": "Epithelial ovarian cancer",
-        "B": "Germ cell tumors",
-        "C": "Sex cord-stromal tumors",
-        "D": "Metastatic tumors",
-        "E": "Borderline tumors"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 175",
-      "question": "What is the most common symptom of endometrial cancer?",
-      "options": {
-        "A": "Postmenopausal bleeding",
-        "B": "Pelvic pain",
-        "C": "Abdominal distension",
-        "D": "Urinary symptoms",
-        "E": "Weight loss"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 176",
-      "question": "What is the primary treatment for early-stage endometrial cancer?",
-      "options": {
-        "A": "Total hysterectomy with BSO",
-        "B": "Radiation alone",
-        "C": "Chemotherapy alone",
-        "D": "Hormonal therapy",
-        "E": "Immunotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 177",
-      "question": "A 45-year-old with heavy bleeding and 8-week size uterus with fibroids. What is the treatment?",
-      "options": {
-        "A": "Myomectomy",
-        "B": "Hysterectomy",
-        "C": "Uterine artery embolization",
-        "D": "Medical management",
-        "E": "Radiation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 178",
-      "question": "A postmenopausal woman with complex ovarian cyst and CA-125 35 U/mL. What is next?",
-      "options": {
-        "A": "Surgical evaluation",
-        "B": "Repeat US in 3 months",
-        "C": "Chemotherapy",
-        "D": "Radiation",
-        "E": "Hormonal therapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 179",
-      "question": "A 55-year-old with postmenopausal bleeding and endometrial thickness 8mm. What is next?",
-      "options": {
-        "A": "Endometrial biopsy",
-        "B": "Hysterectomy",
-        "C": "Hormonal therapy",
-        "D": "Radiation",
-        "E": "Observation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 180",
-      "question": "A woman with stage III ovarian cancer. What is the primary treatment?",
-      "options": {
-        "A": "Debulking surgery + chemotherapy",
-        "B": "Chemotherapy alone",
-        "C": "Radiation alone",
-        "D": "Hormonal therapy",
-        "E": "Immunotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 181",
-      "question": "A 40-year-old with symptomatic adenomyosis failed medical therapy. What is definitive treatment?",
-      "options": {
-        "A": "Hysterectomy",
-        "B": "Uterine artery embolization",
-        "C": "Endometrial ablation",
-        "D": "LNG-IUD",
-        "E": "GnRH agonists"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 182",
-      "question": "A premenopausal woman with grade 1 endometrial cancer desires fertility. What is appropriate?",
-      "options": {
-        "A": "Progestin therapy",
-        "B": "Hysterectomy",
-        "C": "Radiation",
-        "D": "Chemotherapy",
-        "E": "Observation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 183",
-      "question": "A patient with BRCA mutation wants ovarian cancer prevention. What is recommended?",
-      "options": {
-        "A": "Risk-reducing salpingo-oophorectomy",
-        "B": "Oral contraceptives",
-        "C": "Annual CA-125",
-        "D": "Ultrasound every 6 months",
-        "E": "Hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 184",
-      "question": "A woman with recurrent ovarian cancer 12 months after first remission. What is treatment?",
-      "options": {
-        "A": "Platinum-based chemotherapy",
-        "B": "Radiation",
-        "C": "Surgery only",
-        "D": "Hormonal therapy",
-        "E": "Palliative care only"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 185",
-      "question": "A postmenopausal woman with endometrial cancer and severe comorbidities. What is alternative to surgery?",
-      "options": {
-        "A": "Radiation therapy",
-        "B": "Chemotherapy",
-        "C": "Hormonal therapy",
-        "D": "Immunotherapy",
-        "E": "Active surveillance"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 186",
-      "question": "Menorrhagia is:",
-      "options": {
-        "A": "Cyclic uterine bleeding",
-        "B": "Acyclic Uterine Bleeding",
-        "C": "Painful and heavy menstruation",
-        "D": "Pre and postmenstrual bleeding",
-        "E": "absense of menses"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 187",
-      "question": "A 30-year-old with acute pelvic pain and fever. What is the most likely diagnosis?",
-      "options": {
-        "A": "PID",
-        "B": "Ovarian cyst",
-        "C": "Endometriosis",
-        "D": "Dysmenorrhea",
-        "E": "Irritable bowel"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 188",
-      "question": "A woman with cyclic pelvic pain and dysmenorrhea. What is most likely?",
-      "options": {
-        "A": "Endometriosis",
-        "B": "PID",
-        "C": "Ovarian cancer",
-        "D": "Uterine fibroids",
-        "E": "Cystitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 189",
-      "question": "A postmenopausal woman with vaginal bleeding. What must be ruled out first?",
-      "options": {
-        "A": "Endometrial cancer",
-        "B": "Atrophic vaginitis",
-        "C": "Cervical polyp",
-        "D": "UTI",
-        "E": "Hemorrhoids"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 190",
-      "question": "A 25-year-old with sudden severe unilateral pelvic pain. What is most likely?",
-      "options": {
-        "A": "Ovarian torsion",
-        "B": "PID",
-        "C": "Endometriosis",
-        "D": "Dysmenorrhea",
-        "E": "Appendicitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 191",
-      "question": "A 25-year-old with unilateral ovarian dermoid cyst. What is treatment?",
-      "options": {
-        "A": "Cystectomy",
-        "B": "Oophorectomy",
-        "C": "Chemotherapy",
-        "D": "Radiation",
-        "E": "Observation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 192",
-      "question": "A 20-year-old with dysmenorrhea unresponsive to NSAIDs. What is next treatment?",
-      "options": {
-        "A": "Combined oral contraceptives",
-        "B": "Hysterectomy",
-        "C": "Antibiotics",
-        "D": "Chemotherapy",
-        "E": "Radiation"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 193",
-      "question": "A 35-year-old with chronic pelvic pain and dyspareunia. Laparoscopy shows endometriosis. What is first-line medical treatment?",
-      "options": {
-        "A": "Progestins or combined contraceptives",
-        "B": "GnRH agonists",
-        "C": "Danazol",
-        "D": "Aromatase inhibitors",
-        "E": "Hysterectomy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 194",
-      "question": "A 40-year-old with abnormal uterine bleeding and anemia. Ultrasound shows endometrial thickness 18mm. What is next?",
-      "options": {
-        "A": "Endometrial biopsy",
-        "B": "Hormonal therapy",
-        "C": "Hysterectomy",
-        "D": "Radiation",
-        "E": "Iron supplements"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 195",
-      "question": "A 45-year-old with heavy bleeding, enlarged uterus, and iron deficiency anemia. What is definitive treatment?",
-      "options": {
-        "A": "Hysterectomy",
-        "B": "Medical management",
-        "C": "Iron therapy",
-        "D": "Radiation",
-        "E": "Uterine artery embolization"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 196",
-      "question": "A 32-year-old with stage IV endometriosis and severe pain failed medical therapy. What is next?",
-      "options": {
-        "A": "Surgical excision",
-        "B": "Additional medical therapy",
-        "C": "Hysterectomy",
-        "D": "Radiation",
-        "E": "Chemotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 197",
-      "question": "A 60-year-old with pelvic mass, CA-125 500, and pleural effusion. What is most likely?",
-      "options": {
-        "A": "Ovarian cancer",
-        "B": "Uterine fibroids",
-        "C": "Benign cyst",
-        "D": "Endometriosis",
-        "E": "Tuberculosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 198",
-      "question": "A 25-year-old with acute PID. What is the antibiotic regimen?",
-      "options": {
-        "A": "Ceftriaxone + doxycycline + metronidazole",
-        "B": "Penicillin alone",
-        "C": "Ciprofloxacin",
-        "D": "Azithromycin",
-        "E": "Vancomycin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 199",
-      "question": "A 55-year-old with postmenopausal bleeding. Endometrial biopsy shows hyperplasia with atypia. What is treatment?",
-      "options": {
-        "A": "Hysterectomy",
-        "B": "Progestin therapy",
-        "C": "Observation",
-        "D": "Radiation",
-        "E": "Chemotherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 200",
-      "question": "In family planning, what does the term 'fertility awareness' refer to?",
-      "options": {
-        "A": "Tracking ovulation and menstrual cycles",
-        "B": "Using contraceptives",
-        "C": "Surgical sterilization",
-        "D": "Hormonal treatments",
-        "E": "none of them"
-      },
-      "correct_answer": "A"
-    }
-  ]
-}
+[
+  {
+    "question": "Up to how many weeks of gestation is medical termination of pregnancy most commonly performed?",
+    "options": [
+      "10 weeks",
+      "16 weeks",
+      "20 weeks",
+      "24 weeks",
+      "28 weeks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which drug is a progesterone receptor modulator used in medical abortion?",
+    "options": [
+      "Mifepristone",
+      "Misoprostol",
+      "Methotrexate",
+      "Oxytocin",
+      "Prostaglandin E2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a common side effect of misoprostol?",
+    "options": [
+      "Nausea and diarrhea",
+      "Hypertension",
+      "Tachycardia",
+      "Hyperglycemia",
+      "Rash"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old woman with a 7-week intrauterine pregnancy and a history of two previous cesarean sections requests medical abortion. What is the most important consideration?",
+    "options": [
+      "Risk of uterine rupture",
+      "Risk of infection",
+      "Risk of ectopic pregnancy",
+      "Risk of thromboembolism",
+      "Risk of ovarian hyperstimulation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient has Rh-negative blood type and undergoes medical abortion at 9 weeks. What management is essential?",
+    "options": [
+      "Administer Anti-D immunoglobulin",
+      "No additional management needed",
+      "Perform blood transfusion",
+      "Administer IV iron",
+      "Schedule hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman reports severe abdominal pain and fever 3 days after medical abortion. What is the most likely diagnosis?",
+    "options": [
+      "Endometritis",
+      "Normal cramping",
+      "Ovarian cyst rupture",
+      "Urinary tract infection",
+      "Gastroenteritis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with a history of adrenal insufficiency is scheduled for medical abortion. Which drug requires special consideration?",
+    "options": [
+      "Mifepristone",
+      "Misoprostol",
+      "Ibuprofen",
+      "Acetaminophen",
+      "Doxycycline"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman fails medical abortion at 8 weeks. What is the next appropriate step?",
+    "options": [
+      "Surgical evacuation (e.g., vacuum aspiration)",
+      "Repeat the same medical regimen",
+      "Wait for another week",
+      "Start chemotherapy",
+      "Perform hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the first-line medical agent used for termination of pregnancy in the first trimester?",
+    "options": [
+      "Mifepristone",
+      "Misoprostol",
+      "Oxytocin",
+      "Methotrexate",
+      "Dinoprostone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Up to how many weeks of gestation is medical termination of pregnancy generally considered safe and effective?",
+    "options": [
+      "10 weeks",
+      "12 weeks",
+      "14 weeks",
+      "16 weeks",
+      "20 weeks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which drug is typically administered 24-48 hours after Mifepristone to induce uterine contractions?",
+    "options": [
+      "Misoprostol",
+      "Methotrexate",
+      "Estrogen",
+      "Progesterone",
+      "Cabergoline"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient at 8 weeks gestation, with a known copper IUD in place, requests medical termination. The most appropriate initial action is:",
+    "options": [
+      "Remove the IUD before administering Mifepristone",
+      "Proceed with the standard regimen with the IUD in situ",
+      "Double the dose of Misoprostol",
+      "Schedule for immediate surgical termination",
+      "Prescribe antibiotics for one week first"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient develops a fever of 38.5 C and severe abdominal pain 12 hours after using Misoprostol. The most likely diagnosis is:",
+    "options": [
+      "Infection (septic abortion)",
+      "Normal side effects of Misoprostol",
+      "Ovarian torsion",
+      "Appendicitis",
+      "Nephrolithiasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with a stable, small uterine fibroid (3cm) desires medical termination. Your management is:",
+    "options": [
+      "Proceed with standard medical regimen if no other contraindications",
+      "Contraindication; recommend surgery only",
+      "Require a myomectomy first",
+      "Use a higher dose of Mifepristone",
+      "Avoid Misoprostol and use Methotrexate instead"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient has failed medical termination (persistent gestational sac on US). The next step is:",
+    "options": [
+      "Offer surgical evacuation (e.g., suction curettage)",
+      "Repeat the same medical regimen",
+      "Switch to a different prostaglandin",
+      "Administer high-dose estrogen",
+      "Admit for observation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient who is breastfeeding requests medical termination. The correct advice is:",
+    "options": [
+      "Medical termination is safe; advise expressing and discarding breast milk for 5 days after Misoprostol",
+      "It is absolutely contraindicated",
+      "She must stop breastfeeding for one month",
+      "Only surgical termination is possible",
+      "Mifepristone passes into milk and is toxic to the infant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old woman is at 7 weeks gestation. She has no contraindications and opts for medical termination. Which regimen is most appropriate?",
+    "options": [
+      "Mifepristone 200mg orally followed by Misoprostol 800mcg buccally",
+      "Misoprostol alone, 400mcg every 2 hours",
+      "Methotrexate IM followed by Misoprostol",
+      "Oxytocin IV infusion",
+      "Estrogen and Progesterone combination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with heavy bleeding and abdominal pain 5 days after taking medication for termination. What is the most likely complication?",
+    "options": [
+      "Incomplete abortion",
+      "Ectopic pregnancy rupture",
+      "Ovarian hyperstimulation",
+      "Pelvic inflammatory disease",
+      "Urinary tract infection"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most critical step before initiating medical termination?",
+    "options": [
+      "Confirming an intrauterine pregnancy",
+      "Checking blood glucose",
+      "Performing a Pap smear",
+      "Testing for BRCA mutations",
+      "Measuring fundal height"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which contraceptive method is considered the most effective for preventing pregnancy?",
+    "options": [
+      "Intrauterine device (IUD)",
+      "Combined oral contraceptive pill",
+      "Male condom",
+      "Fertility awareness methods",
+      "Withdrawal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary mechanism of action of combined oral contraceptive pills is:",
+    "options": [
+      "Inhibition of ovulation",
+      "Thickening of cervical mucus",
+      "Prevention of implantation",
+      "Creating a hostile uterine environment",
+      "Tubal occlusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A non-hormonal, long-acting reversible contraceptive method is:",
+    "options": [
+      "Copper IUD",
+      "Etonogestrel implant",
+      "Depot medroxyprogesterone acetate injection",
+      "Levonorgestrel IUD",
+      "Vaginal ring"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is a common, non-serious side effect of progestin-only contraceptives?",
+    "options": [
+      "Irregular menstrual bleeding",
+      "Thromboembolism",
+      "Myocardial infarction",
+      "Hypertension",
+      "Liver tumors"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old smoker (15 cigarettes/day) requests oral contraception. The most appropriate advice is:",
+    "options": [
+      "Combined pills are contraindicated; offer a progestin-only method",
+      "Prescribe a low-dose combined pill",
+      "Recommend she stop smoking and use the patch",
+      "The risk is negligible; any pill is fine",
+      "She is only eligible for barrier methods"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with a history of deep vein thrombosis (DVT) wants effective contraception. Which method is safest?",
+    "options": [
+      "Progestin-only pill or implant",
+      "Combined oral contraceptive pill",
+      "Contraceptive vaginal ring",
+      "Transdermal patch",
+      "Combined injectable contraceptive"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient complains of heavy menstrual bleeding and dysmenorrhea. She desires contraception. The best choice is:",
+    "options": [
+      "Levonorgestrel-releasing IUS (Mirena)",
+      "Copper IUD",
+      "Progestin-only pill",
+      "Diaphragm",
+      "Fertility awareness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman who is 6 weeks postpartum and exclusively breastfeeding asks about contraception. A suitable option is:",
+    "options": [
+      "Progestin-only pill (POP)",
+      "Combined oral contraceptive pill",
+      "Contraceptive vaginal ring",
+      "Any method is acceptable",
+      "She does not need contraception while breastfeeding"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with poorly controlled hypertension is seeking a reliable contraceptive method. Which method is preferred?",
+    "options": [
+      "Levonorgestrel IUD",
+      "Combined oral contraceptive pill",
+      "Transdermal patch",
+      "Vaginal ring",
+      "Combined injectable"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with migraine with aura should avoid:",
+    "options": [
+      "Combined hormonal contraceptives",
+      "Progestin-only pills",
+      "Copper IUD",
+      "Barrier methods",
+      "Fertility awareness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common reason for combined oral contraceptive pill failure is:",
+    "options": [
+      "Incorrect or inconsistent use",
+      "Drug interactions",
+      "Vomiting or diarrhea",
+      "Manufacturing defects",
+      "Genetic factors"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient using DMPA (Depo-Provera) injection should be informed about:",
+    "options": [
+      "Potential for weight gain and delayed return of fertility",
+      "Immediate fertility after discontinuation",
+      "Increased risk of osteoporosis in young women",
+      "Guaranteed regular cycles",
+      "Protection against STIs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old nulliparous woman with no medical problems presents, concerned about STIs and desiring highly effective contraception. The best recommendation is:",
+    "options": [
+      "Consistent male condom use + Long-acting reversible contraceptive (LARC)",
+      "Copper IUD alone",
+      "Fertility awareness method",
+      "Withdrawal method",
+      "Diaphragm alone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient using a combined oral contraceptive pill misses 2 active pills in a row during the third week of the pack. What is the correct advice?",
+    "options": [
+      "Take the two missed pills immediately, continue the pack, and use backup contraception for 7 days",
+      "Discard the pack and start a new one immediately",
+      "Take one missed pill and continue as normal",
+      "Stop taking pills and use condoms for the rest of the cycle",
+      "Double the next 7 doses"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with a BMI of 38 requests emergency contraception. The most effective option for her is:",
+    "options": [
+      "Copper IUD insertion",
+      "Double dose of Levonorgestrel EC",
+      "Single dose of Ulipristal acetate",
+      "Using two vaginal rings",
+      "A high-dose progestin pill"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with a history of breast cancer (estrogen receptor-positive, completed treatment 2 years ago) requests contraception. The most appropriate method is:",
+    "options": [
+      "Copper IUD",
+      "Combined hormonal patch",
+      "Any combined oral contraceptive",
+      "Vaginal ring",
+      "Levonorgestrel IUD"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with a seizure disorder on carbamazepine desires oral contraception. The most appropriate management is:",
+    "options": [
+      "Use a non-hormonal method or a higher-dose COCP; efficacy of standard pills may be reduced",
+      "Prescribe a standard low-dose COCP",
+      "Recommend a progestin-only pill at the standard dose",
+      "Contraindicate all hormonal methods",
+      "Advise her that her antiepileptics will protect her from pregnancy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman develops hypertension while on combined oral contraceptive pills. The first step is:",
+    "options": [
+      "Discontinue COCs and evaluate blood pressure",
+      "Add antihypertensive medication",
+      "Switch to a different COC brand",
+      "Continue COCs and monitor",
+      "Reduce the dose of COCs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with systemic lupus erythematosus (SLE) with positive antiphospholipid antibodies should avoid:",
+    "options": [
+      "Combined hormonal contraceptives",
+      "Copper IUD",
+      "Progestin-only pills",
+      "Barrier methods",
+      "Fertility awareness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The recommended time for postpartum IUD insertion is:",
+    "options": [
+      "Immediately after delivery (within 10 minutes)",
+      "At 6 weeks postpartum",
+      "At 3 months postpartum",
+      "During the first menstrual period",
+      "Only after stopping breastfeeding"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common cause of vaginal discharge with a \"fishy\" odor?",
+    "options": [
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Trichomoniasis",
+      "Gonorrhea",
+      "Chlamydia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which organism is most commonly associated with vulvovaginal candidiasis?",
+    "options": [
+      "Candida albicans",
+      "Trichomonas vaginalis",
+      "Gardnerella vaginalis",
+      "Neisseria gonorrhoeae",
+      "Chlamydia trachomatis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the typical appearance of discharge in trichomoniasis?",
+    "options": [
+      "Frothy, yellow-green",
+      "White, curdy",
+      "Gray, homogeneous",
+      "Thick, white",
+      "Clear, stretchy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the gold standard for diagnosing bacterial vaginosis?",
+    "options": [
+      "Amsel's criteria (clinical)",
+      "Vaginal pH >4.5",
+      "Whiff test",
+      "Gram stain (Nugent score)",
+      "Culture"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A pregnant woman presents with symptomatic bacterial vaginosis. What is the recommended treatment?",
+    "options": [
+      "Oral metronidazole",
+      "Fluconazole",
+      "Doxycycline",
+      "Estrogen cream",
+      "Acyclovir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with persistent vaginal discharge despite treatment for bacterial vaginosis. What is the next step?",
+    "options": [
+      "Test for other STIs (e.g., Trichomonas)",
+      "Repeat the same treatment",
+      "Perform hysterectomy",
+      "Prescribe antifungal",
+      "No further action"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A postmenopausal woman presents with thin, watery discharge and vaginal dryness. What is the most likely diagnosis?",
+    "options": [
+      "Atrophic vaginitis",
+      "Candidiasis",
+      "Bacterial vaginosis",
+      "Trichomoniasis",
+      "Cervical cancer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with vaginal discharge and pelvic pain. Cervical motion tenderness is present. What is the most likely diagnosis?",
+    "options": [
+      "Pelvic inflammatory disease (PID)",
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Trichomoniasis",
+      "Vulvodynia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with recurrent bacterial vaginosis should be advised to avoid which of the following?",
+    "options": [
+      "Douching",
+      "Cotton underwear",
+      "Probiotics",
+      "Barrier contraception",
+      "Antibiotic prophylaxis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with a thin, grayish-white, homogeneous discharge with a positive \"whiff test.\" Microscopy shows clue cells. The diagnosis is:",
+    "options": [
+      "Bacterial Vaginosis",
+      "Trichomoniasis",
+      "Candidiasis",
+      "Atrophic vaginitis",
+      "Gonorrhea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A sexually active 20-year-old presents with a frothy, yellow-green, foul-smelling discharge and vulvar itching. Microscopy shows motile flagellated organisms. The treatment of choice is:",
+    "options": [
+      "Oral Metronidazole 2g single dose",
+      "Oral Fluconazole 150mg single dose",
+      "Clindamycin cream",
+      "Miconazole cream",
+      "Doxycycline 100mg BID for 7 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A diabetic patient presents with thick, white, \"cottage-cheese\" like discharge and severe pruritus. The most likely diagnosis is:",
+    "options": [
+      "Vulvovaginal Candidiasis",
+      "Bacterial Vaginosis",
+      "Trichomoniasis",
+      "Cytolytic Vaginosis",
+      "Desquamative Inflammatory Vaginitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A pregnant patient in her second trimester is diagnosed with Trichomoniasis. What is the recommended treatment?",
+    "options": [
+      "Oral Metronidazole 2g single dose",
+      "Metronidazole vaginal gel",
+      "Clindamycin cream",
+      "Oral Fluconazole",
+      "Treatment is deferred until after delivery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with recurrent BV (4 episodes in the past year) has failed standard treatments. A potential next-step management strategy is:",
+    "options": [
+      "Consider suppressive therapy with Metronidazole gel twice weekly for 4-6 months",
+      "Use a higher dose of oral Metronidazole for 14 days",
+      "Prescribe a combination of antibiotics and antifungals",
+      "Recommend a hysterectomy",
+      "Advise douching with vinegar solution"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with persistent vaginal discharge. Microscopy is negative for yeast, clue cells, and trichomonads. The pH is 4.2. The most likely diagnosis is:",
+    "options": [
+      "Physiological discharge",
+      "Bacterial Vaginosis",
+      "Trichomoniasis",
+      "Aerobic Vaginitis",
+      "Cervicitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with profuse purulent vaginal discharge and cervical friability is most likely suffering from:",
+    "options": [
+      "Mucopurulent Cervicitis (e.g., Chlamydia or Gonorrhea)",
+      "Bacterial Vaginosis",
+      "Vulvovaginal Candidiasis",
+      "Atrophic Vaginitis",
+      "Genital Herpes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient returns with symptoms of BV just 2 weeks after completing treatment. The most appropriate action is:",
+    "options": [
+      "Verify diagnosis and adherence, then consider a different regimen (e.g., Clindamycin)",
+      "Assume it's a yeast infection and treat with Fluconazole",
+      "Diagnose a drug-resistant strain and refer to an ID specialist",
+      "Double the duration of the previous treatment",
+      "Do nothing, as it is expected to resolve spontaneously"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with recurrent BV reports symptoms after sexual intercourse with a new partner. What is the recommended approach?",
+    "options": [
+      "Treat the patient and consider treating the partner",
+      "Treat only the patient",
+      "No treatment needed",
+      "Recommend condom use only",
+      "Antibiotic prophylaxis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A HIV-positive woman with CD4 count <200 presents with severe recurrent candidiasis. What is the management?",
+    "options": [
+      "Prolonged antifungal therapy",
+      "Single dose Fluconazole",
+      "No treatment needed",
+      "Antibacterial therapy",
+      "Surgical intervention"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient develops vaginal discharge after antibiotic therapy for pneumonia. What is the most likely cause?",
+    "options": [
+      "Candidiasis",
+      "Trichomoniasis",
+      "Bacterial Vaginosis",
+      "Gonorrhea",
+      "Chlamydia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old with menorrhagia and a 14-week size irregular uterus is suspected to have adenomyosis. The best diagnostic method is:",
+    "options": [
+      "MRI pelvis",
+      "Transvaginal ultrasound",
+      "Hysteroscopy",
+      "Endometrial biopsy",
+      "Clinical examination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with an adnexal mass, ascites, and pleural effusion has:",
+    "options": [
+      "Meigs' syndrome",
+      "Ovarian hyperstimulation syndrome",
+      "Advanced ovarian cancer",
+      "Tuberculous peritonitis",
+      "Liver cirrhosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 7-year-old girl presents with breast development but no pubic hair. What is the most likely diagnosis?",
+    "options": [
+      "Premature thelarche",
+      "Central precocious puberty",
+      "McCune-Albright syndrome",
+      "Adrenal tumor",
+      "Normal puberty"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 16-year-old girl has no breast development or menses. Her FSH is elevated. The most likely diagnosis is:",
+    "options": [
+      "Primary ovarian insufficiency (e.g., Turner Syndrome)",
+      "Hypothalamic amenorrhea",
+      "Constitutional delay of puberty",
+      "Polycystic ovary syndrome",
+      "Congenital adrenal hyperplasia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A girl with precocious puberty and caf-au-lait spots is most likely to have:",
+    "options": [
+      "McCune-Albright Syndrome",
+      "Neurofibromatosis",
+      "Tuberous Sclerosis",
+      "Turner Syndrome",
+      "Kallmann Syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The first-line treatment for central precocious puberty is:",
+    "options": [
+      "GnRH agonists",
+      "Aromatase inhibitors",
+      "Progestins",
+      "Observation",
+      "Surgery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 14-year-old girl has breast development (Tanner stage 4) but no menses. What is the most appropriate initial investigation?",
+    "options": [
+      "Pregnancy test",
+      "Karyotype",
+      "Pelvic ultrasound",
+      "TSH and Prolactin",
+      "MRI of the brain"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 7-year-old girl shows breast development. What is the most appropriate initial investigation?",
+    "options": [
+      "Bone age assessment",
+      "Pelvic ultrasound",
+      "MRI brain",
+      "Thyroid function tests",
+      "Karyotyping"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An 8-year-old girl presents with breast development and vaginal bleeding. Pelvic ultrasound shows an ovarian mass. The most likely diagnosis is:",
+    "options": [
+      "Estrogen-secreting ovarian tumor",
+      "Central precocious puberty",
+      "Premature thelarche",
+      "Hypothyroidism",
+      "Foreign body"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 17-year-old with no secondary sexual characteristics, normal height, and anosmia likely has:",
+    "options": [
+      "Kallmann Syndrome",
+      "Turner Syndrome",
+      "Polycystic Ovary Syndrome",
+      "Constitutional Delay",
+      "Swyer Syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 9-year-old girl with pubic hair but no breast development is diagnosed with premature adrenarche. What is the management?",
+    "options": [
+      "Reassurance and observation",
+      "Treatment with GnRH agonist",
+      "Treatment with corticosteroids",
+      "Surgical exploration",
+      "Radiation therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A girl with delayed puberty is found to have a 46,XY karyotype. The most likely diagnosis is:",
+    "options": [
+      "Swyer Syndrome",
+      "Turner Syndrome",
+      "Kallmann Syndrome",
+      "Androgen Insensitivity Syndrome",
+      "Mullerian agenesis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 7-year-old girl with central precocious puberty is started on Leuprolide. The primary goal of this treatment is:",
+    "options": [
+      "Preserve final adult height",
+      "Prevent early menarche",
+      "Reduce the risk of ovarian cancer",
+      "Alleviate psychological distress",
+      "Prevent hirsutism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An 8-year-old girl with breast development and advanced bone age. Pelvic ultrasound shows an ovarian cyst. What is the most likely diagnosis?",
+    "options": [
+      "McCune-Albright syndrome",
+      "Central precocious puberty",
+      "Premature adrenarche",
+      "Ovarian tumor",
+      "Hypothyroidism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the PALM-COEIN classification for AUB, the \"P\" stands for:",
+    "options": [
+      "Polyp",
+      "Prolactin",
+      "Progesterone",
+      "Pregnancy",
+      "Perimenopause"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of abnormal uterine bleeding in reproductive-aged women is:",
+    "options": [
+      "Anovulation (AUB-O)",
+      "Leiomyoma (AUB-L)",
+      "Coagulopathy (AUB-C)",
+      "Endometrial hyperplasia (AUB-E)",
+      "Iatrogenic (AUB-I)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 50-year-old woman with AUB has an endometrial biopsy showing complex hyperplasia without atypia. Management is:",
+    "options": [
+      "Progesterone therapy and repeat biopsy",
+      "Total hysterectomy",
+      "Hysteroscopic resection",
+      "Observation",
+      "Radiation therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with AUB unresponsive to medical therapy and who has completed childbearing opts for a definitive procedure. The best option is:",
+    "options": [
+      "Endometrial ablation",
+      "Hysterectomy",
+      "Hysteroscopic myomectomy",
+      "Uterine artery embolization",
+      "GnRH agonist therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman develops AUB after starting a new antipsychotic medication. The most likely mechanism is:",
+    "options": [
+      "Hyperprolactinemia (AUB-I)",
+      "Drug-induced coagulopathy",
+      "Direct endometrial effect",
+      "Anovulation from weight gain",
+      "Allergic reaction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with AUB and a history of breast cancer on Tamoxifen should initially be evaluated with:",
+    "options": [
+      "Transvaginal ultrasound and endometrial biopsy",
+      "MRI pelvis",
+      "Hysteroscopy",
+      "CA-125 level",
+      "Discontinuation of Tamoxifen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old with severe anemia from AUB, refractory to tranexamic acid and oral progesterone, should be offered:",
+    "options": [
+      "Levonorgestrel IUD",
+      "High-dose estrogen therapy",
+      "Laparoscopic bilateral oophorectomy",
+      "Iron infusion alone",
+      "Repeat trial of tranexamic acid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common cause of abnormal uterine bleeding in reproductive-age women?",
+    "options": [
+      "Anovulation",
+      "Uterine fibroids",
+      "Endometrial polyp",
+      "Coagulopathy",
+      "Thyroid disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A sudden, sharp, unilateral lower abdominal pain in a reproductive-aged woman should first raise suspicion for:",
+    "options": [
+      "Ectopic pregnancy",
+      "Ovarian cyst rupture",
+      "Mittelschmerz",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of acute pelvic inflammatory disease (PID) is:",
+    "options": [
+      "Chlamydia trachomatis",
+      "Neisseria gonorrhoeae",
+      "Mycoplasma genitalium",
+      "Escherichia coli",
+      "Streptococcus agalactiae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The first-line imaging modality for evaluating acute pelvic pain in a non-pregnant woman is:",
+    "options": [
+      "Transvaginal ultrasound",
+      "Abdominal ultrasound",
+      "CT scan of abdomen and pelvis",
+      "MRI pelvis",
+      "X-ray abdomen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The gold standard for diagnosing endometriosis is:",
+    "options": [
+      "Diagnostic laparoscopy with biopsy",
+      "Transvaginal ultrasound",
+      "Serum CA-125 level",
+      "MRI pelvis",
+      "Clinical examination alone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A common benign cause of postcoital bleeding is:",
+    "options": [
+      "Cervical ectropion",
+      "Cervical cancer",
+      "Cervical polyp",
+      "Vaginal trauma",
+      "Uterine fibroids"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old with acute pelvic pain, cervical motion tenderness, and purulent cervical discharge should be treated for:",
+    "options": [
+      "Pelvic Inflammatory Disease (PID)",
+      "Ovarian torsion",
+      "Endometriosis",
+      "Irritable bowel syndrome",
+      "Cystitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of primary amenorrhea?",
+    "options": [
+      "No menses by age 15",
+      "No menses by age 12",
+      "No menses for 3 months",
+      "No menses for 6 months",
+      "No menses by age 18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common cause of secondary amenorrhea?",
+    "options": [
+      "Pregnancy",
+      "Polycystic ovary syndrome",
+      "Hypothyroidism",
+      "Hyperprolactinemia",
+      "Premature ovarian failure"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 18-year-old with primary amenorrhea, normal breast development, and cyclical pelvic pain. What is the most likely diagnosis?",
+    "options": [
+      "Imperforate hymen",
+      "Mullerian agenesis",
+      "Androgen insensitivity",
+      "Turner syndrome",
+      "Swyer syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 28-year-old with secondary amenorrhea after D&C for postpartum hemorrhage. What is the most likely diagnosis?",
+    "options": [
+      "Asherman's syndrome",
+      "Sheehan's syndrome",
+      "Premature ovarian failure",
+      "Polycystic ovary syndrome",
+      "Hyperprolactinemia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old with amenorrhea, hirsutism, and obesity. What is the most likely diagnosis and initial test?",
+    "options": [
+      "PCOS; pelvic ultrasound",
+      "CAH; 17-OH progesterone",
+      "Cushing's; cortisol",
+      "Thyroid disorder; TSH",
+      "Hyperprolactinemia; prolactin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old with amenorrhea and symptoms of estrogen deficiency. FSH is 12 mIU/mL. What is the next step?",
+    "options": [
+      "Repeat FSH in 1-2 months",
+      "Start hormone therapy",
+      "Perform karyotype",
+      "MRI pituitary",
+      "Laparoscopy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 17-year-old with primary amenorrhea, no breast development, and elevated FSH. What is the most appropriate next investigation?",
+    "options": [
+      "Karyotype",
+      "Pelvic ultrasound",
+      "MRI brain",
+      "Thyroid function",
+      "Prolactin level"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Primary amenorrhea is defined as the absence of menses by age:",
+    "options": [
+      "15",
+      "12",
+      "13",
+      "16",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 28-year-old with secondary amenorrhea has an elevated FSH level. The diagnosis is:",
+    "options": [
+      "Premature Ovarian Insufficiency (POI)",
+      "Polycystic Ovary Syndrome (PCOS)",
+      "Functional Hypothalamic Amenorrhea",
+      "Hyperprolactinemia",
+      "Thyroid disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with PCOS and amenorrhea desiring pregnancy should be offered first-line ovulation induction with:",
+    "options": [
+      "Clomiphene Citrate",
+      "Metformin",
+      "Letrozole",
+      "Gonadotropins",
+      "Laparoscopic ovarian drilling"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with amenorrhea and symptoms of vaginal dryness and hot flashes is found to have a normal FSH. What is the next step?",
+    "options": [
+      "Repeat FSH or check Estradiol level",
+      "Start hormone replacement therapy",
+      "Perform a karyotype",
+      "Order an MRI of the pituitary",
+      "Do a progesterone challenge test"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with hyperprolactinemia and a microadenoma on MRI who desires pregnancy should be treated with:",
+    "options": [
+      "Cabergoline",
+      "Surgical resection of the tumor",
+      "Radiation therapy",
+      "Observation",
+      "Estrogen-progesterone therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with constitutional delay of puberty and primary amenorrhea is best managed with:",
+    "options": [
+      "Reassurance and observation if no other pathology is found",
+      "Estrogen replacement therapy",
+      "Gonadotropin therapy",
+      "Surgical exploration",
+      "Psychological counseling only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old woman is found to have a 7 cm cystic ovarian mass on ultrasound. The mass contains both solid and cystic components with calcifications and hair-like structures. What is the most likely diagnosis?",
+    "options": [
+      "Mature cystic teratoma (dermoid cyst)",
+      "Serous cystadenoma",
+      "Endometrioma",
+      "Mucinous cystadenoma",
+      "Granulosa cell tumor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Infertility is defined as the inability to achieve a pregnancy after how long of unprotected intercourse?",
+    "options": [
+      "1 year",
+      "6 months",
+      "2 years",
+      "18 months",
+      "3 years"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of female infertility is:",
+    "options": [
+      "Ovulatory dysfunction",
+      "Tubal factor",
+      "Endometriosis",
+      "Uterine factor",
+      "Unexplained"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The initial test for evaluating ovulation is:",
+    "options": [
+      "Mid-luteal phase serum progesterone",
+      "Basal body temperature charting",
+      "Urinary LH kits",
+      "Endometrial biopsy",
+      "Transvaginal ultrasound"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The gold standard test for assessing tubal patency is:",
+    "options": [
+      "Hysterosalpingography (HSG)",
+      "Laparoscopy with chromotubation",
+      "Transvaginal ultrasound",
+      "Saline infusion sonography",
+      "Hysteroscopy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of male factor infertility is:",
+    "options": [
+      "Idiopathic abnormal semen parameters",
+      "Varicocele",
+      "Obstructive azoospermia",
+      "Genetic disorders",
+      "Hormonal imbalances"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A couple presents after 1 year of infertility. The woman has regular cycles. What is the most appropriate first step in evaluation?",
+    "options": [
+      "Semen analysis",
+      "Hysterosalpingography (HSG)",
+      "Laparoscopy",
+      "Serum progesterone check",
+      "Transvaginal ultrasound"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with severe male factor infertility (azoospermia) may require:",
+    "options": [
+      "IVF with ICSI using surgically retrieved sperm",
+      "Intrauterine insemination (IUI)",
+      "Donor sperm insemination",
+      "Adoption",
+      "Clomiphene treatment for the female partner"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with stage IV endometriosis and infertility, failing to conceive after surgery, should be offered:",
+    "options": [
+      "In Vitro Fertilization (IVF)",
+      "Another laparoscopic surgery",
+      "Superovulation with IUI",
+      "Danazol treatment",
+      "High-dose progesterone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary benefit of using Letrozole over Clomiphene for ovulation induction in PCOS is:",
+    "options": [
+      "Higher live birth rate and lower multiple gestation risk",
+      "It is cheaper",
+      "It has fewer side effects",
+      "It requires less monitoring",
+      "It is effective in women with low AMH"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with unilateral tubal occlusion on HSG and no other factors should be initially managed with:",
+    "options": [
+      "Expectant management or ovulation induction with timed intercourse",
+      "In Vitro Fertilization (IVF)",
+      "Surgical tubal reconstruction",
+      "Laparoscopy to confirm the finding",
+      "Intrauterine insemination (IUI)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with hypothyroidism and infertility should be:",
+    "options": [
+      "Treated with levothyroxine to normalize TSH",
+      "Treated with Clomiphene immediately",
+      "Referred directly for IVF",
+      "Advised to adopt",
+      "Told that thyroid disease does not affect fertility"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of infertility?",
+    "options": [
+      "No conception after 1 year of unprotected intercourse",
+      "No conception after 6 months",
+      "No conception after 2 years",
+      "Never being able to conceive",
+      "Only secondary infertility"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with bilateral tubal blockage on HSG. What is the most appropriate treatment?",
+    "options": [
+      "In vitro fertilization (IVF)",
+      "Tubal surgery",
+      "Ovulation induction",
+      "IUI",
+      "Expectant management"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A couple with male factor infertility (oligospermia). What is the recommended treatment?",
+    "options": [
+      "Intracytoplasmic sperm injection (ICSI)",
+      "Intrauterine insemination (IUI)",
+      "Donor sperm",
+      "Surgery",
+      "Medication"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old with stage III endometriosis and infertility. What is the most appropriate treatment?",
+    "options": [
+      "IVF",
+      "Surgery alone",
+      "Medical therapy",
+      "IUI",
+      "Expectant management"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with unexplained infertility after basic evaluation. What is the next step?",
+    "options": [
+      "Intrauterine insemination with ovulation induction",
+      "Immediately proceed to IVF",
+      "Laparoscopy",
+      "Donor eggs",
+      "Surrogacy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A couple with recurrent pregnancy loss. What evaluation is indicated?",
+    "options": [
+      "Parental karyotyping",
+      "HSG",
+      "Semen analysis",
+      "Ovulation testing",
+      "Endometrial biopsy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old woman with low AMH and infertility. What is the most appropriate recommendation?",
+    "options": [
+      "In vitro fertilization with own eggs",
+      "Donor eggs",
+      "Ovulation induction",
+      "IUI",
+      "Adoption"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are the Rotterdam criteria for PCOS diagnosis?",
+    "options": [
+      "2 out of 3: oligo/anovulation, clinical/biochemical hyperandrogenism, polycystic ovaries",
+      "Only ovarian cysts on ultrasound",
+      "Only menstrual irregularities",
+      "Only hirsutism",
+      "Only obesity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary underlying pathophysiology of PCOS?",
+    "options": [
+      "Insulin resistance",
+      "Thyroid dysfunction",
+      "Adrenal insufficiency",
+      "Pituitary tumor",
+      "Autoimmune disorder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A PCOS patient with BMI 35 and infertility. What is the first recommendation?",
+    "options": [
+      "Weight loss and lifestyle modification",
+      "Immediate IVF",
+      "Bariatric surgery",
+      "Ovulation induction",
+      "Metformin only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with hirsutism has elevated 17-OH progesterone. What is the diagnosis?",
+    "options": [
+      "Non-classical congenital adrenal hyperplasia",
+      "PCOS",
+      "Adrenal tumor",
+      "Ovarian tumor",
+      "Cushing's syndrome"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A PCOS patient develops endometrial hyperplasia. What is the most appropriate management?",
+    "options": [
+      "Progestin therapy",
+      "Hysterectomy",
+      "Endometrial ablation",
+      "Metformin",
+      "Observation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with PCOS and severe acne unresponsive to topical treatment. What is the best systemic therapy?",
+    "options": [
+      "Combined oral contraceptive pills",
+      "Antibiotics only",
+      "Isotretinoin",
+      "Spironolactone",
+      "Metformin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A lean woman with PCOS and normal insulin levels fails to ovulate on Letrozole. The next step is:",
+    "options": [
+      "Gonadotropin injections",
+      "Laparoscopic ovarian drilling",
+      "In Vitro Fertilization (IVF)",
+      "Metformin therapy",
+      "Use of Clomiphene instead"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with PCOS and infertility has a partner with severe oligospermia. The recommended treatment is:",
+    "options": [
+      "In Vitro Fertilization with ICSI",
+      "Superovulation with IUI",
+      "Clomiphene Citrate",
+      "Letrozole",
+      "Donor sperm insemination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with PCOS desires conception and has a BMI of 40. The most appropriate initial advice is:",
+    "options": [
+      "Weight loss before attempting ovulation induction",
+      "Start Letrozole immediately",
+      "Proceed directly to IVF",
+      "Start Metformin alone",
+      "Use a gestational carrier"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with PCOS on Spironolactone for hirsutism suddenly desires pregnancy. The correct action is:",
+    "options": [
+      "Stop Spironolactone and switch to COCP for 1-2 cycles before conception",
+      "Continue Spironolactone until pregnancy is confirmed",
+      "Replace Spironolactone with Finasteride",
+      "Advise that it is safe to conceive on Spironolactone",
+      "Refer for immediate IVF"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with PCOS and acanthosis nigricans should be screened for:",
+    "options": [
+      "Impaired glucose tolerance / Type 2 Diabetes",
+      "Cushing's syndrome",
+      "Adrenal insufficiency",
+      "Hyperthyroidism",
+      "Liver dysfunction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A sudden, sharp, unilateral lower abdominal pain in a reproductive-aged woman should first raise suspicion for:",
+    "options": [
+      "Ectopic pregnancy",
+      "Ovarian cyst rupture",
+      "Mittelschmerz",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most common cause of pelvic organ prolapse is:",
+    "options": [
+      "Vaginal childbirth",
+      "Chronic constipation",
+      "Hysterectomy",
+      "Obesity",
+      "Connective tissue disorders"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Pelvic Organ Prolapse Quantification (POP-Q) system stages prolapse from:",
+    "options": [
+      "0 to IV",
+      "I to IV",
+      "I to III",
+      "A to D",
+      "Mild to Severe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 65-year-old woman with a stage III cystocele complains of stress urinary incontinence. The best surgical option addressing both issues is:",
+    "options": [
+      "Anterior colporrhaphy with mid-urethral sling",
+      "Vaginal hysterectomy alone",
+      "Sacrocolpopexy",
+      "Pessary insertion",
+      "Posterior colporrhaphy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with uterine prolapse and enterocele should undergo:",
+    "options": [
+      "Posterior colporrhaphy",
+      "Anterior colporrhaphy",
+      "Sacrospinous ligament fixation",
+      "Uterosacral ligament suspension",
+      "Burch colposuspension"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A good candidate for a vaginal pessary is:",
+    "options": [
+      "A woman who wishes to avoid surgery or is a poor surgical candidate",
+      "A woman with stage IV prolapse",
+      "A woman with an active vaginal infection",
+      "A woman who is sexually active and wants a permanent solution",
+      "A woman with uterine prolapse and cervical elongation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A postmenopausal woman with prolapse and vaginal atrophy should be treated with:",
+    "options": [
+      "Topical vaginal estrogen",
+      "Systemic Hormone Replacement Therapy (HRT)",
+      "Antibiotic cream",
+      "Steroid cream",
+      "Regular douching"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient develops dyspareunia and recurrent UTI after an anterior colporrhaphy with mesh. The most likely complication is:",
+    "options": [
+      "Mesh erosion",
+      "Pelvic infection",
+      "Urinary fistula",
+      "Nerve injury",
+      "Vaginal stenosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with recurrent vault prolapse after hysterectomy is best treated with:",
+    "options": [
+      "Abdominal sacrocolpopexy",
+      "Repeat vaginal repair",
+      "Vaginal pessary",
+      "Levator plication",
+      "Colpocleisis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A frail, elderly woman with significant comorbidities and stage IV prolapse who is not sexually active would benefit most from:",
+    "options": [
+      "Colpocleisis",
+      "Sacrospinous ligament fixation",
+      "Vaginal hysterectomy",
+      "Pessary trial",
+      "Abdominal sacrocolpopexy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with uterine prolapse and stress urinary incontinence undergoes surgery. Postoperatively, she has difficulty voiding. The initial management is:",
+    "options": [
+      "Intermittent self-catheterization",
+      "Indwelling Foley catheter for one week",
+      "Surgical revision",
+      "Alpha-blocker medication",
+      "Diuretics"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "During a sacrospinous ligament fixation, the structure most at risk for injury is:",
+    "options": [
+      "Pudendal nerve and vessels",
+      "Ureter",
+      "Sciatic nerve",
+      "Obturator nerve",
+      "Inferior epigastric artery"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 75-year-old with multiple comorbidities and complete procidentia. What is the safest surgical option?",
+    "options": [
+      "LeFort colpocleisis",
+      "Vaginal hysterectomy",
+      "Abdominal sacrocolpopexy",
+      "Laparoscopic repair",
+      "Uterine suspension"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What defines natural menopause?",
+    "options": [
+      "12 months of amenorrhea after age 45",
+      "Any cessation of menses",
+      "Surgical removal of ovaries",
+      "Cessation of periods at any age",
+      "When FSH >20 mIU/mL"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common symptom of menopause?",
+    "options": [
+      "Vasomotor symptoms (hot flashes)",
+      "Vaginal dryness",
+      "Mood changes",
+      "Sleep disturbances",
+      "Joint pains"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is first-line for treating vasomotor symptoms?",
+    "options": [
+      "Hormone therapy",
+      "SSRIs",
+      "Clonidine",
+      "Gabapentin",
+      "Vitamin E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary indication for systemic hormone therapy?",
+    "options": [
+      "Moderate-severe vasomotor symptoms",
+      "Prevention of heart disease",
+      "Treatment of osteoporosis only",
+      "Improving libido",
+      "Preventing dementia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 48-year-old with premature ovarian insufficiency. What is the management?",
+    "options": [
+      "Hormone therapy until average menopause age",
+      "No treatment needed",
+      "Herbal medicine only",
+      "Testosterone therapy",
+      "Chemotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with history of DVT wants menopausal therapy. What is safest?",
+    "options": [
+      "Transdermal estrogen",
+      "Oral estrogen",
+      "No hormone therapy",
+      "Testosterone only",
+      "Progestin only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient on tamoxifen for breast cancer has severe vulvovaginal symptoms. What is appropriate?",
+    "options": [
+      "Non-hormonal moisturizers",
+      "Vaginal estrogen",
+      "Systemic estrogen",
+      "Testosterone",
+      "Laser therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A postmenopausal woman with abnormal bleeding on hormone therapy. What is the next step?",
+    "options": [
+      "Endometrial evaluation",
+      "Increase hormone dose",
+      "Switch to different regimen",
+      "Stop all treatment",
+      "Add testosterone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common form of precocious puberty in girls?",
+    "options": [
+      "Central precocious puberty",
+      "Peripheral precocious puberty",
+      "Premature thelarche",
+      "Congenital adrenal hyperplasia",
+      "none of them"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In cases of suspected delayed puberty, which of the following should be the first step in evaluation?",
+    "options": [
+      "Detailed medical history and physical examination",
+      "Pelvic ultrasound",
+      "Hormonal therapy",
+      "MRI of the brain",
+      "none of them"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 58-year-old woman on continuous combined HT for 5 years presents with unscheduled bleeding. The first step is:",
+    "options": [
+      "Endometrial assessment (biopsy)",
+      "Increase the progestin dose",
+      "Stop HT immediately",
+      "Switch to estrogen-only therapy",
+      "Perform a hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with premature ovarian insufficiency (POI) should be managed with:",
+    "options": [
+      "Hormone Therapy at least until the average age of menopause",
+      "Calcium and Vitamin D only",
+      "SSRIs for symptom control",
+      "Clomiphene for ovulation induction",
+      "Observation only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A menopausal woman with urogenital symptoms but contraindications to even topical estrogen could be treated with:",
+    "options": [
+      "Ospemifene",
+      "Systemic HT",
+      "Testosterone cream",
+      "Vaginal dehydroepiandrosterone (DHEA)",
+      "Laser therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Women's Health Initiative (WHI) study primarily showed an increased risk with combined HT of:",
+    "options": [
+      "Breast cancer and venous thromboembolism",
+      "Ovarian cancer",
+      "Lung cancer",
+      "Colon cancer",
+      "Thyroid cancer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common cause of cervical cancer?",
+    "options": [
+      "HPV infection",
+      "Herpes virus",
+      "HIV",
+      "Smoking",
+      "Chlamydia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the first-line screening for cervical cancer?",
+    "options": [
+      "Pap smear",
+      "HPV testing",
+      "Colposcopy",
+      "Biopsy",
+      "Visual inspection"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the management of CIN 1?",
+    "options": [
+      "Observation with follow-up",
+      "LEEP",
+      "Cold knife conization",
+      "Hysterectomy",
+      "Radiation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the treatment for microinvasive cervical cancer (IA1)?",
+    "options": [
+      "Cone biopsy",
+      "Radical hysterectomy",
+      "Chemotherapy",
+      "Radiation",
+      "Immunotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old with ASC-US Pap smear. What is the next step?",
+    "options": [
+      "HPV testing",
+      "Repeat Pap in 1 year",
+      "Colposcopy",
+      "LEEP",
+      "Hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with HSIL on Pap smear. What is the management?",
+    "options": [
+      "Colposcopy with biopsy",
+      "Repeat Pap in 6 months",
+      "HPV testing",
+      "Cryotherapy",
+      "Hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old with CIN 3 on biopsy. What is the treatment?",
+    "options": [
+      "LEEP procedure",
+      "Observation",
+      "Chemotherapy",
+      "Radiation",
+      "Vaccination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with stage IB1 cervical cancer desires fertility. What is appropriate?",
+    "options": [
+      "Radical trachelectomy",
+      "Radical hysterectomy",
+      "Chemoradiation",
+      "Simple hysterectomy",
+      "Observation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old with CIN 2 wants future fertility. What is the best treatment?",
+    "options": [
+      "LEEP conization",
+      "Cold knife conization",
+      "Hysterectomy",
+      "Radiation",
+      "Ablation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with recurrent cervical cancer after radiation. What is the treatment?",
+    "options": [
+      "Pelvic exenteration",
+      "Additional radiation",
+      "Chemotherapy only",
+      "Immunotherapy",
+      "Palliative care only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with stage IVB cervical cancer. What is the primary treatment?",
+    "options": [
+      "Systemic chemotherapy",
+      "Radical surgery",
+      "Radiation therapy",
+      "Hormonal therapy",
+      "Immunotherapy only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with positive margins after LEEP for CIN 3. What is the next step?",
+    "options": [
+      "Repeat excision",
+      "Hysterectomy",
+      "Observation",
+      "Radiation",
+      "Chemotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A pregnant woman with abnormal Pap showing HSIL. What is management?",
+    "options": [
+      "Colposcopy without endocervical curettage",
+      "Immediate LEEP",
+      "Termination of pregnancy",
+      "Delivery then treatment",
+      "No evaluation needed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 28-year-old pregnant woman at 16 weeks is diagnosed with CIN 3. Management is:",
+    "options": [
+      "Defer treatment and repeat colposcopy postpartum",
+      "Perform LEEP immediately",
+      "Terminate pregnancy and treat",
+      "Perform cold knife cone biopsy",
+      "Start topical chemotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common benign uterine tumor?",
+    "options": [
+      "Leiomyoma (fibroids)",
+      "Adenomyosis",
+      "Endometrial polyp",
+      "Endometrial hyperplasia",
+      "Sarcoma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common type of ovarian cancer?",
+    "options": [
+      "Epithelial ovarian cancer",
+      "Germ cell tumors",
+      "Sex cord-stromal tumors",
+      "Metastatic tumors",
+      "Borderline tumors"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common symptom of endometrial cancer?",
+    "options": [
+      "Postmenopausal bleeding",
+      "Pelvic pain",
+      "Abdominal distension",
+      "Urinary symptoms",
+      "Weight loss"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary treatment for early-stage endometrial cancer?",
+    "options": [
+      "Total hysterectomy with BSO",
+      "Radiation alone",
+      "Chemotherapy alone",
+      "Hormonal therapy",
+      "Immunotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old with heavy bleeding and 8-week size uterus with fibroids. What is the treatment?",
+    "options": [
+      "Myomectomy",
+      "Hysterectomy",
+      "Uterine artery embolization",
+      "Medical management",
+      "Radiation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A postmenopausal woman with complex ovarian cyst and CA-125 35 U/mL. What is next?",
+    "options": [
+      "Surgical evaluation",
+      "Repeat US in 3 months",
+      "Chemotherapy",
+      "Radiation",
+      "Hormonal therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 55-year-old with postmenopausal bleeding and endometrial thickness 8mm. What is next?",
+    "options": [
+      "Endometrial biopsy",
+      "Hysterectomy",
+      "Hormonal therapy",
+      "Radiation",
+      "Observation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with stage III ovarian cancer. What is the primary treatment?",
+    "options": [
+      "Debulking surgery + chemotherapy",
+      "Chemotherapy alone",
+      "Radiation alone",
+      "Hormonal therapy",
+      "Immunotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old with symptomatic adenomyosis failed medical therapy. What is definitive treatment?",
+    "options": [
+      "Hysterectomy",
+      "Uterine artery embolization",
+      "Endometrial ablation",
+      "LNG-IUD",
+      "GnRH agonists"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A premenopausal woman with grade 1 endometrial cancer desires fertility. What is appropriate?",
+    "options": [
+      "Progestin therapy",
+      "Hysterectomy",
+      "Radiation",
+      "Chemotherapy",
+      "Observation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient with BRCA mutation wants ovarian cancer prevention. What is recommended?",
+    "options": [
+      "Risk-reducing salpingo-oophorectomy",
+      "Oral contraceptives",
+      "Annual CA-125",
+      "Ultrasound every 6 months",
+      "Hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with recurrent ovarian cancer 12 months after first remission. What is treatment?",
+    "options": [
+      "Platinum-based chemotherapy",
+      "Radiation",
+      "Surgery only",
+      "Hormonal therapy",
+      "Palliative care only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A postmenopausal woman with endometrial cancer and severe comorbidities. What is alternative to surgery?",
+    "options": [
+      "Radiation therapy",
+      "Chemotherapy",
+      "Hormonal therapy",
+      "Immunotherapy",
+      "Active surveillance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Menorrhagia is:",
+    "options": [
+      "Cyclic uterine bleeding",
+      "Acyclic Uterine Bleeding",
+      "Painful and heavy menstruation",
+      "Pre and postmenstrual bleeding",
+      "absense of menses"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old with acute pelvic pain and fever. What is the most likely diagnosis?",
+    "options": [
+      "PID",
+      "Ovarian cyst",
+      "Endometriosis",
+      "Dysmenorrhea",
+      "Irritable bowel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with cyclic pelvic pain and dysmenorrhea. What is most likely?",
+    "options": [
+      "Endometriosis",
+      "PID",
+      "Ovarian cancer",
+      "Uterine fibroids",
+      "Cystitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A postmenopausal woman with vaginal bleeding. What must be ruled out first?",
+    "options": [
+      "Endometrial cancer",
+      "Atrophic vaginitis",
+      "Cervical polyp",
+      "UTI",
+      "Hemorrhoids"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old with sudden severe unilateral pelvic pain. What is most likely?",
+    "options": [
+      "Ovarian torsion",
+      "PID",
+      "Endometriosis",
+      "Dysmenorrhea",
+      "Appendicitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old with unilateral ovarian dermoid cyst. What is treatment?",
+    "options": [
+      "Cystectomy",
+      "Oophorectomy",
+      "Chemotherapy",
+      "Radiation",
+      "Observation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old with dysmenorrhea unresponsive to NSAIDs. What is next treatment?",
+    "options": [
+      "Combined oral contraceptives",
+      "Hysterectomy",
+      "Antibiotics",
+      "Chemotherapy",
+      "Radiation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old with chronic pelvic pain and dyspareunia. Laparoscopy shows endometriosis. What is first-line medical treatment?",
+    "options": [
+      "Progestins or combined contraceptives",
+      "GnRH agonists",
+      "Danazol",
+      "Aromatase inhibitors",
+      "Hysterectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old with abnormal uterine bleeding and anemia. Ultrasound shows endometrial thickness 18mm. What is next?",
+    "options": [
+      "Endometrial biopsy",
+      "Hormonal therapy",
+      "Hysterectomy",
+      "Radiation",
+      "Iron supplements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old with heavy bleeding, enlarged uterus, and iron deficiency anemia. What is definitive treatment?",
+    "options": [
+      "Hysterectomy",
+      "Medical management",
+      "Iron therapy",
+      "Radiation",
+      "Uterine artery embolization"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 32-year-old with stage IV endometriosis and severe pain failed medical therapy. What is next?",
+    "options": [
+      "Surgical excision",
+      "Additional medical therapy",
+      "Hysterectomy",
+      "Radiation",
+      "Chemotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year-old with pelvic mass, CA-125 500, and pleural effusion. What is most likely?",
+    "options": [
+      "Ovarian cancer",
+      "Uterine fibroids",
+      "Benign cyst",
+      "Endometriosis",
+      "Tuberculosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old with acute PID. What is the antibiotic regimen?",
+    "options": [
+      "Ceftriaxone + doxycycline + metronidazole",
+      "Penicillin alone",
+      "Ciprofloxacin",
+      "Azithromycin",
+      "Vancomycin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 55-year-old with postmenopausal bleeding. Endometrial biopsy shows hyperplasia with atypia. What is treatment?",
+    "options": [
+      "Hysterectomy",
+      "Progestin therapy",
+      "Observation",
+      "Radiation",
+      "Chemotherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In family planning, what does the term 'fertility awareness' refer to?",
+    "options": [
+      "Tracking ovulation and menstrual cycles",
+      "Using contraceptives",
+      "Surgical sterilization",
+      "Hormonal treatments",
+      "none of them"
+    ],
+    "answer": 0
+  }
+]
