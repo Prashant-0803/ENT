@@ -1,2393 +1,2189 @@
-{
-  "subject": "8-Dermatovenerology-2025",
-  "questions": [
-    {
-      "question_number": "Question 2",
-      "question": "Choose proliferative elements of rash",
-      "options": {
-        "A": "Nodule",
-        "B": "vesicle",
-        "C": "Erosion",
-        "D": "Scar ",
-        "E": "Bulla"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 3",
-      "question": "What function of keratinocytes",
-      "options": {
-        "A": "reproduction",
-        "B": "protection from UV rays ",
-        "C": "termoregulation",
-        "D": "moisturizing",
-        "E": "tactile sensation "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 4",
-      "question": "What pathohistological changes in stratum corneum    ",
-      "options": {
-        "A": "Hyperkeratosis",
-        "B": "granulosis",
-        "C": "Acanthosis",
-        "D": "Acantholysis",
-        "E": "Papillomatosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 5",
-      "question": "Choose secondary elements of rash        ",
-      "options": {
-        "A": "Abrasion",
-        "B": "Abscesses",
-        "C": "Blister",
-        "D": "Enanthema",
-        "E": "Macula"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 6",
-      "question": "Choose secondary elements of rash        ",
-      "options": {
-        "A": "Erosion",
-        "B": "Blister",
-        "C": "Abscesses",
-        "D": "spots ",
-        "E": "Enanthema"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 7",
-      "question": "Differentiate in which of the following conditions does parakeratosis most frequently occur? ",
-      "options": {
-        "A": "Actinic keratosis",
-        "B": "Seborrheic keratosis",
-        "C": "Molluscum contagiosum ",
-        "D": "Basal cell carcinoma ",
-        "E": "Pitiriasis versicolor"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 8",
-      "question": "Specify cells that connnect desmosomes  ",
-      "options": {
-        "A": "Keratinocytes",
-        "B": "Melanocytes",
-        "C": "Dermis and epidermis ",
-        "D": "Langerhans cells ",
-        "E": "Merkel cells"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 9",
-      "question": "Determine what layer affects spongiosis",
-      "options": {
-        "A": "Stratum spinosum ",
-        "B": "Stratum basale",
-        "C": "Stratum corneum",
-        "D": "Stratum granulosum ",
-        "E": "Stratum licudum"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 10",
-      "question": "Sweat glands of palm can be diffe rentiated from others by the following ",
-      "options": {
-        "A": "Secretion stimulated by emotional stimuli ",
-        "B": "Apocrine glands",
-        "C": "High chloride content",
-        "D": "Adrenergic mediators control the secretion ",
-        "E": NaN
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 11",
-      "question": "Apocrine sweat glands are located in:",
-      "options": {
-        "A": "Armpits",
-        "B": "hairy part of head",
-        "C": "lower leg region",
-        "D": "in the area of the back of the hands",
-        "E": "on the soles"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 12",
-      "question": "Eccrine sweat glands are located:",
-      "options": {
-        "A": "throughout the skin",
-        "B": "On the back of the brushes",
-        "C": "in the rear foot",
-        "D": "on the nails",
-        "E": "on hair"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 13",
-      "question": "The sebaceous glands function:",
-      "options": {
-        "A": "moisturizing",
-        "B": "thermoregulatory",
-        "C": "receptor",
-        "D": "exchange",
-        "E": "respiratory"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 14",
-      "question": "Long hair located in the area:",
-      "options": {
-        "A": "head",
-        "B": "Eye brow",
-        "C": "about nail bed",
-        "D": "sole",
-        "E": "palms"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 15",
-      "question": "Bristly hair range:",
-      "options": {
-        "A": "in the field of beard and mustache",
-        "B": "in the nasal and auditory canal",
-        "C": "in the eyebrow area",
-        "D": "in the field of eyelashes",
-        "E": "heads"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 16",
-      "question": "In addition to sweating, thermoregulation is performed using:",
-      "options": {
-        "A": "Constriction or dilation of blood vessels",
-        "B": "Taurus Fater Pacini",
-        "C": "Sebecious  glands",
-        "D": "Merkel cells",
-        "E": "Ruffini corpuscle"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 17",
-      "question": "A 60-year-old man consulted a dermatologist. Complaints of a rash on the back of the neck, soreness, fever, limitation of neck mobility. Has been ill for 2 weeks. Concomitant disease: Diabetes mellitus. Objectively: on the skin of the back of the neck there is an infiltrate of stagnant-cyanotic color, in the central part with multiple pustules and foci of skin necrosis. A purulent bloody fluid flows out of the fistulous openings. The patient has a body temperature of 39 ̊С, the submandibular, cervical lymph nodes are enlarged, painful. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "Carbuncle",
-        "B": "Sycosis",
-        "C": "Hydradenitis",
-        "D": "Folliculitis",
-        "E": "Ostiofolliculitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 18",
-      "question": "A 26-year-old woman consulted a dermatologist. Complaints of sharp pain in the left axillary region. The disease began acutely 3 days ago. Suffers from increased sweating. Concomitant disease: Obesity II degree. On examination: in the left axillary region, there are several dense painful nodes, up to 1.8 cm in diameter, adhered to the skin, purple-red, conical in shape, with a defining fluctuation in the center. Body temperature 37.4 ̊С. In the clinical analysis of blood: leukocytes 13.8 x 10 g / l, ESR 18 mm / h. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "hydradenitis",
-        "B": "Carbuncle",
-        "C": "Furuncle",
-        "D": "folliculitis",
-        "E": "ostiofolliculitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 19",
-      "question": "A 49-year-old man came to the clinic. Complaints of painful formation on the back of the neck, chills. Body temperature 38.5 ̊С. She has a history of hypothermia. Among the accompanying diseases: chronic gastritis, chronic colitis. On examination: the skin on the back of the neck is purple-red, hot to the touch, edematous, infiltrated. In the central part, it has several fistulous openings, from which thick pus with an admixture of blood and necrotic masses is released. On palpation, a sharp pain in the lesion. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "carbuncle ",
-        "B": "sycosis",
-        "C": "folliculitis",
-        "D": "osteofolliculitis",
-        "E": "hydradenitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 20",
-      "question": "A woman with a child of 8 years old applied to the doctor. Complaints about rashes in the corners of the mouth, pain. Anamnesis: frequent flue. Sick for a week. Objectively: in the corners of the mouth there are slit-like erosion, cracks surrounded by a corolla of exfoliated epidermis, covered with yellow crusts. Scraping on the mycelium of the fungus is negative. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "Slit impetigo",
-        "B": "Staphylococcal impetigo",
-        "C": "Streptococcal impetigo",
-        "D": "Vulgar impetigo",
-        "E": "Bullous impetigo"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 21",
-      "question": "A man, 40 years old, applied to a dermatologist at the FMC. Complaints about a rash on the face in the area of ​​the mustache and beard. From the anamnesis he has been sick for a month. A concomitant disease is chronic gastritis. On examination: on the skin of the face in the area of ​​the beard and mustache against the background of hyperemia and infiltration, there are multiple scattered follicular papules and pustules, erosion, covered with purulent discharge and crusts, in places due to perifollicular inflammation, forming confluent foci covered with purulent crusts. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "vulgar sycosis",
-        "B": "gangrenous pyoderma",
-        "C": "Slit impetigo",
-        "D": "lichen simplex",
-        "E": "Vulgar impetigo"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 22",
-      "question": "A 32-year-old woman consulted a dermatologist. Complaints of eruptions accompanied by evening and nighttime itching. There are no associated diseases. Lives alone, two weeks ago she was visiting. On examination: on the skin of the trunk, especially on the anterolateral surfaces, around the nipples, on the upper and lower extremities, in the interdigital spaces there are numerous paired papules - vesicular elements, excoriation, bloody crusts. Symptoms of Cesari, Gorchakov are positive. Subjective: evening and nighttime itching. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "scabies ",
-        "B": "eczema ",
-        "C": "dermatitis ",
-        "D": "psoriasis ",
-        "E": "prurigo"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 23",
-      "question": "staphyloderma neonatal include:",
-      "options": {
-        "A": "vesiculopustosis",
-        "B": "exudative erythema",
-        "C": "diathesis",
-        "D": "lichen planus",
-        "E": "pityriasis versicolor"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 24",
-      "question": "Sycosis is localized:",
-      "options": {
-        "A": "in mustache and beard",
-        "B": "on the skin of the hips",
-        "C": "on the skin of the palms",
-        "D": "on the scalp",
-        "E": "on face"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 25",
-      "question": "In the treatment of furunculosis, use:",
-      "options": {
-        "A": "cephalosporins",
-        "B": "cytostatics",
-        "C": "Anabolic",
-        "D": "anti-TB drugs",
-        "E": "ACTG"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 26",
-      "question": "A carbuncle is:",
-      "options": {
-        "A": "Damage to several hair follicles",
-        "B": "single hair follicle",
-        "C": "Lesion of the nail bed",
-        "D": "Disease of sweat glands",
-        "E": "PVHD"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 27",
-      "question": "At the reception of a dermatologist a woman with her daughter 5 years old. Three days ago, after being bitten by mosquitoes and scratching, blisters began to appear on the girl's face, which quickly dried into crusts. Washing with hot soapy water caused an increase in rashes. Objectively: in the nasolabial folds, on the upper lip, cheeks and on the chin, there are single flat blisters with a thin lining and turbid contents, light yellow crusts. A preliminary diagnosis was made: Streptococcal impetigo. Which of the following drugs should be prescribed for external therapy?",
-      "options": {
-        "A": "fucorsin",
-        "B": "lamisil",
-        "C": "exoderil",
-        "D": "nizoral",
-        "E": "zalain"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 28",
-      "question": "A 60-year-old man went to the clinic. Complaints about a rash on the skin of the back of the neck, soreness. Has been ill for two weeks. Concomitant disease: Diabetes mellitus. On examination: an acute inflammatory infiltrate with many necrotic rods involving the underlying tissues, edema. In the center of the infiltrate, there are necrotic areas and fistulous openings with the release of pus mixed with blood. Diagnosed with Carbuncle. Which of the following is the most appropriate treatment?",
-      "options": {
-        "A": "surgical ",
-        "B": "physiotherapy ",
-        "C": "phytotherapeutic",
-        "D": "laser therapy ",
-        "E": "phototherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 29",
-      "question": "A 5-year-old man with a child applied to a dermatologist. Complaints about a rash in the groin - femoral, intergluteal folds. Stage II obesity. Objectively: multiple conflicts rapidly opening, forming weeping foci of bright pink color, with scalloped borders, linear cracks in the depths of the folds. The preliminary diagnosis: Intertriginous streptoderma. Which of the following is the most appropriate form in local patient care?",
-      "options": {
-        "A": "powder",
-        "B": "ointment ",
-        "C": "paste",
-        "D": "cream",
-        "E": "varnish"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 30",
-      "question": "A 24-year-old woman consulted a dermatologist at the clinic. Complaints about the appearance of rashes, accompanied by severe nighttime itching. Anamnesis - eczema. Two weeks ago she was in a sanatorium. On examination: in the interdigital folds of the hands, on the flexion surfaces of the wrist joints, elbows and abdomen, there are numerous papulo-vesicular elements, up to 3 - 4 mm in diameter, located in pairs, as well as point and linear excoriation, in the elbow area - punctate bloody crusts. Subjective: severe nighttime itching. Preliminary diagnosis: Scabies. Which of the following symptoms is typical for this disease?",
-      "options": {
-        "A": "gorchakov",
-        "B": "nikolsky",
-        "C": "kebner",
-        "D": "pilnov",
-        "E": "sheklakov"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 31",
-      "question": "A 30-year-old man has consulted a dermatologist at the FMC. Complaints of a rash on the skin of the trunk, upper and lower extremities, accompanied by evening and nighttime itching. From the anamnesis 2 weeks ago he was visiting relatives. On examination: on the skin of the trunk, especially on the anterolateral surfaces, abdomen, upper and lower limbs, there are numerous paired papules - vesicular elements, scratches, bloody crusts. Subjective: evening and nighttime itching. When examining scrapings, a scabies mite was found microscopically. Diagnosis: Scabies. Which of the following drugs should be prescribed for external therapy?",
-      "options": {
-        "A": "spregal",
-        "B": "tridox",
-        "C": "fenistil",
-        "D": "akriderm",
-        "E": "skinazole"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 32",
-      "question": "A 28-year-old woman turned to a dermatologist at the clinic. Complaints of itchy rash in the pubic area, which appeared a few days after intercourse. On examination: on the skin of the pubis and genitals, multiple grayish-brown points at the hair root, small, whitish, very dense nodules, as well as grayish-bluish spots, rounded outlines, up to 1 cm in diameter are determined. Preliminary diagnosis: Pubic lice. Which of the following drugs should be prescribed for external therapy?",
-      "options": {
-        "A": "permethrin",
-        "B": "tridox",
-        "C": "sinaflan",
-        "D": "akriderm",
-        "E": "skinazole"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 33",
-      "question": "Angular stomatitis is differentiated from:",
-      "options": {
-        "A": "Surface candidosis of the corners of the mouth",
-        "B": "With simple deprive",
-        "C": "with turpiolem",
-        "D": "with psoriasis",
-        "E": "Simple dermatitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 34",
-      "question": "Turniol is:",
-      "options": {
-        "A": "inflammation of the skin around the nail plate ",
-        "B": "inflammation of the sebaceous glands",
-        "C": "inflammation of the hair follicle",
-        "D": "Inflammation of the red border of the lip",
-        "E": "eye damage"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 35",
-      "question": "Pityriasis versicolor is caused by:",
-      "options": {
-        "A": "pityrosporum orbiculare",
-        "B": "candida albicans",
-        "C": "microsporum ferrugeneum",
-        "D": "trichophyton rubrum",
-        "E": "corinebacterium minutissimum"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 36",
-      "question": "What kind of peeling is typical for multi-colored lichen?",
-      "options": {
-        "A": "pityriasis ",
-        "B": "small lamellar",
-        "C": "flour like",
-        "D": "large lamellar",
-        "E": "leafy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 37",
-      "question": "What drugs are preferred for the treatment of superficial trichophytosis",
-      "options": {
-        "A": "antifungal ",
-        "B": "corticosteroid ",
-        "C": "antiviral ",
-        "D": "antibacterial ",
-        "E": "keratolytic "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 38",
-      "question": "In the treatment of microsporia, apply:",
-      "options": {
-        "A": "fluconazole",
-        "B": "ceftriaxone",
-        "C": "ciprofloxacin",
-        "D": "larotadine ",
-        "E": "ursodex"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 39",
-      "question": "A mother with a 7-year-old child came to dermatologist. She discovered a patch of hair loss on the scalp. When viewed on the scalp, a lesion measuring 2 cm in diameter is determined, the hair seems to be \"sloppy cut\", at the level of 5-8 mm with grayish stumps; the skin peels off profusely, a zone of mild hyperemia is determined along the periphery of the focus. An emerald-green glow was detected during luminescence research. What is the most likely diagnosis?",
-      "options": {
-        "A": "microsporia ",
-        "B": "seborrhea",
-        "C": "trichophytosis",
-        "D": "alopecia ",
-        "E": "favus"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 40",
-      "question": "A 40-year-old woman working as a milkmaid turned to an appointment with a dermatologist, complaining of painful elevations in the occiput. Objectively: in the occipital region on the scalp, acute inflammatory infiltrates sharply demarcated from the surrounding skin are determined, which noticeably rise above the skin level. The hair in the outbreak is stuck together due to the release of pus. With light tugging, the hair is easily pulled out. When the lesions are squeezed, pus is released from the hair follicles, the symptom of \"honeycomb\" is positive. What is the most likely diagnosis?",
-      "options": {
-        "A": "trichophytosis",
-        "B": "microsporia ",
-        "C": "pediculosis",
-        "D": "seborrhea",
-        "E": "psoriasis "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 41",
-      "question": "A 20-year-old man, applied to the FMC  with complaints of rashes in the area of ​​the groin-femoral folds, minor itching. From the anamnesis - attends the sports section. Objectively: spots on the skin of the inguinal-femoral folds are brown in color with distinct ridge-like scalloped edges. On the periphery of the spots there are papulovesicular elements, in the center there are foci of hypopigmentation. Epidermophyton floccosum was found by laboratory. What is the most likely diagnosis?",
-      "options": {
-        "A": "epidermophytisis of the inguinal folds",
-        "B": "trichophytosis of smooth skin",
-        "C": "flexion inverse psoriasis",
-        "D": "candidiasis of inguinal folds",
-        "E": "erythrasma of the groin area"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 42",
-      "question": "A mother with a 5-year-old child turned to a dermatologist with complaints of rashes on the skin of the child's trunk and limbs. From the anamnesis: a week ago he was at my grandmother's house and played with the cat. An objective examination revealed multiple rounded foci of various sizes, pale pink color, with fine-lamellar superficial peeling. The boundaries of the foci are clear, with a towering edematous ridge, consisting of small nodular and vesicular elements. Foci in the form of \"ring in a ring\" figures. Microsporum canis was found during research. Provide the most likely diagnosis",
-      "options": {
-        "A": "microsporia",
-        "B": "erythrasma",
-        "C": "trichophytosis",
-        "D": "eczema",
-        "E": "psoriasis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 43",
-      "question": "A 24-year-old man came to see a doctor at the FMC with complaints of peeling of the scalp. On examination, the patient has a pronounced erythema of the skin, peeling, thinning hair. At the base of many hairs, rounded formations are determined, resembling an inverted saucer - scutula. Hair is dull, gray in color, reminiscent of an old chignon. In the centers of hair thinning, there are signs of cicatricial atrophy of the skin. An unpleasant \"mouse\" smell comes from the hair. What disease is such a picture typical for?",
-      "options": {
-        "A": "favus of the scalp",
-        "B": "seborrhea of the scalp",
-        "C": "teichophytosis of the scalp",
-        "D": "microsporia of the scalp",
-        "E": "flexion inverse psoriasis "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 44",
-      "question": "A 35-year-old woman consulted a dermatologist with complaints of skin lesions under the mammary glands, burning and slight itching. Objectively: a woman has dark red flushing foci with clear boundaries in the folds under the mammary glands. Erosion in the center of the folds is covered with a whitish coating, when removed, bright red erosive surfaces are exposed. There are small nodular elements along the periphery of the foci. From research identified Candida albicans. Diagnosis: Intertriginous candidiasis. What disease is differential diagnosis performed with?",
-      "options": {
-        "A": "candidiasis",
-        "B": "dermatitis ",
-        "C": "eczema",
-        "D": "psoriasis ",
-        "E": "pruritus"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 45",
-      "question": "When examining schoolchildren, a 14-year-old teenager showed rashes on the skin of his chest. Objectively: single spots of various configurations and sizes on the skin of the upper half of the body, yellowish-brown in color, reminiscent of the type of \"coffee with milk\", with pityriasis peeling on the surface. Balzer's iodine test is positive. Laboratory - found Pityrosporum orbiculare / What is the most likely diagnosis?",
-      "options": {
-        "A": "pityriasis vesicolor",
-        "B": "psoriasis vulgaris",
-        "C": "pink lichen",
-        "D": "disffuse neurodermatitis",
-        "E": "skin itching"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 46",
-      "question": "A 25-year-old man consulted a local doctor with complaints of swelling, itching and soreness of the nail folds. Objectively: the nail plates are deformed, yellowish; when pressed from the side, droplets of pus protrude from under the rollers. The nail folds are edematous, brightly hyperemic. Microscopic examination revealed mycelium of the fungus. Diagnosis: Candidiasis of the nail plates. What medicines are prescribed for this diagnosis?",
-      "options": {
-        "A": "antifungal",
-        "B": "antihistamines",
-        "C": "antiprotozoal",
-        "D": "corticosteroid ",
-        "E": "antibacterial "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 47",
-      "question": "A mother with a child of 9 years old, went to the clinic with complaints of hair loss in the child. Objectively: on the scalp, the lesions are located on the marginal zones, merging with each other. The inflammation is covered with asbestos-like scales. Hair is broken off at the level of 5-8 mm. The hair is dull, at the base is dressed in a white cover. In laboratory research, mycelium filaments were found. Diagnosis: Microsporia of the scalp. Which of the following drugs is preferable in the treatment of microsporia of the scalp",
-      "options": {
-        "A": "terbizil",
-        "B": "ceftriaxone",
-        "C": "ciprofloxacin",
-        "D": "ornidazole",
-        "E": "Amoxicillin "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 48",
-      "question": "A mother with a child of 11 years old, went to the clinic with complaints of itching of the scalp and hair loss. Objectively: on the scalp, a lesion measuring 2 cm in diameter is determined, the hair appears to be \"carelessly cut\", broken off at the level of 5-6 mm, with grayish stumps, the skin is abundantly flaky, and a zone of slight hyperemia is determined along the periphery of the lesion. A luminescent study revealed a greenish glow. Diagnosis: Microsporia of the scalp. What disease is differential diagnosis performed with?",
-      "options": {
-        "A": "trichophytosis",
-        "B": "eczema ",
-        "C": "seborrhea",
-        "D": "alopecia",
-        "E": "psoriasis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 49",
-      "question": "Eczema is:",
-      "options": {
-        "A": "chronic inflammation over. skin layers, polymorphism of elements",
-        "B": "chronic infectious skin inflammation",
-        "C": "acute infectious inflammation of the skin",
-        "D": "monomorphism of elements",
-        "E": "Chronic inflammation of the connective tissue"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 50",
-      "question": "Secondary elements for true eczema:",
-      "options": {
-        "A": "erosion",
-        "B": "vegetation",
-        "C": "ulcer",
-        "D": "abrasion",
-        "E": "lichenification"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 51",
-      "question": "Species of true eczema:",
-      "options": {
-        "A": "idiopathic",
-        "B": "Microbial",
-        "C": "children",
-        "D": "paratraumatic",
-        "E": "ribbon-like"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 52",
-      "question": "The most frequent localization of true eczema:",
-      "options": {
-        "A": "palms and soles",
-        "B": "mucous urethra",
-        "C": "dried shells",
-        "D": "Language",
-        "E": "esophagus"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 53",
-      "question": "Differential diagnostic criteria for true eczema:",
-      "options": {
-        "A": "Symmetry of rash",
-        "B": "presence of purulent ulcers",
-        "C": "asymmetry of rash",
-        "D": "Nikolsky positive symptom",
-        "E": "presence of scars"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 54",
-      "question": "To diagnostic criteria for prurginic eczema, include:",
-      "options": {
-        "A": "papulovesicles on a tight base",
-        "B": "Excessive oozing",
-        "C": "symptom Sheklakova",
-        "D": "Presence of pustules",
-        "E": "the presence of vegetations"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 55",
-      "question": "It is used locally for true eczema:",
-      "options": {
-        "A": "solution of rivanol",
-        "B": "Clotrimazole",
-        "C": "Sol. Demyanovich",
-        "D": "Mycosist",
-        "E": "Corvalol"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 56",
-      "question": "Seborrheic eczema is differentiated from:",
-      "options": {
-        "A": "Seborrheic dermatitis",
-        "B": "Inguinal epidermophitia",
-        "C": "syphilitic alopecia",
-        "D": "neurodermatitis",
-        "E": "Scabies"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 57",
-      "question": "Against the background of what diseases | seborrheic eczema occurs:",
-      "options": {
-        "A": "Fat seborrhea",
-        "B": "Microbial Eczema",
-        "C": "idiopathic eczema",
-        "D": "Seborrheic baldness",
-        "E": "Obesity"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 58",
-      "question": "A 27-year-old patient has turned to a dermatologist with complaints of rashes and itching in the feet. The disease is associated with a visit to the bath 2 weeks ago. Objectively: on the skin of the arch of the foot and its lateral surfaces, as well as the interdigital spaces against the background of erythema and swelling, there are flat bublles with a dense cover, resembling \"sago grains\", with peeling and thickening of the skin on the surface. The lesions on the periphery are surrounded by a border of exfoliating epidermis with small vesicles along the edge, there are cracks and weeping. What is the most likely diagnosis",
-      "options": {
-        "A": "epidermophytosis of the feet",
-        "B": "pityriasis versicolor",
-        "C": "microbial eczema",
-        "D": "psoriasis of nail",
-        "E": "rubromycosis of feet"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 59",
-      "question": "A 25-year-old man turned to a dermatologist  with complaints of multiple rashes in the chest area, which he associates with sunburn. Objectively: single spots of various configurations and sizes on the skin of the upper half of the body, yellowish-brown in color with pityriasis peeling on the surface. Balzer's iodine test is positive. Laboratory examination found Pityropsporum orbiculare. What is the most likely diagnosis?",
-      "options": {
-        "A": "pityriasis versicolor",
-        "B": "superficial trichophytosis",
-        "C": "superficial microsporia ",
-        "D": "psoriasis vulgaris",
-        "E": "atopic dermatitis "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 60",
-      "question": "A 28-year-old man, applied to the FMC with complaints of rashes on the skin of the feet and toes and changes in the nail plates. From the anamnesis: he has been suffering from this disease for about 2 years, for the first time the rash appeared while serving in the army. Objectively: on the skin of the soles, there is marked infiltration, diffuse hyperemia, skin furrows with pronounced mucous peeling are clearly visible. The process captures the back and side surfaces of the feet and toes. All the nail plates on the skin of the feet are thickened, easily crumble, subungual hyperkeratosis is noted. A laboratory study found Trihophyton rubrum. What is the most likely diagnosis?",
-      "options": {
-        "A": "rubrophytia of pedis",
-        "B": "superficial microsporia ",
-        "C": "superficial trichophytosis",
-        "D": "epidermophytosis of the feet",
-        "E": "erythrasma folds"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 61",
-      "question": "Apply the treatment for lichen planus on the oral mucosa",
-      "options": {
-        "A": "corticosteroid ",
-        "B": "antibiotics",
-        "C": "cytostatics",
-        "D": "antimalarial drugs",
-        "E": "antifungal drugs "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 62",
-      "question": "Differentiate psoriasis with",
-      "options": {
-        "A": "lichen planus",
-        "B": "toxicoderma ",
-        "C": "pemfigus vulgaris",
-        "D": "scabies",
-        "E": "pyodermia "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 63",
-      "question": "Apply the external treatment for lichen planus ",
-      "options": {
-        "A": "corticosteroids ointments ",
-        "B": "antibiotics ointments ",
-        "C": "antifungal ointments ",
-        "D": "antiviral ointments ",
-        "E": "sun block cream"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 64",
-      "question": "Apply the treatment for psoriasis reabilitation stage",
-      "options": {
-        "A": "emolient ",
-        "B": "antibiotics cream ",
-        "C": "keratolitic ointment",
-        "D": "corticosteroid ointment ",
-        "E": "antifungal ointment "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 65",
-      "question": "Apply diagnostic test for psoriasis",
-      "options": {
-        "A": "auspith triad ",
-        "B": "balcar test ",
-        "C": "wood lamp",
-        "D": "microscopic examination ",
-        "E": "Yadasson test "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 66",
-      "question": "Apply diagnostic test for lichen planus",
-      "options": {
-        "A": "Wickham mash",
-        "B": "wood lamp",
-        "C": "microscopic examinaion ",
-        "D": "balcar test ",
-        "E": "Yadasson test "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 67",
-      "question": "Mr. Johnson presents with chronic itching all over his body, particularly on his arms, legs, and back. The itching has been ongoing for several months and is affecting his quality of life. He describes the itch as bothersome and constant, leading to sleep disturbances and irritability. There are no visible skin lesions or rash noted upon examination. Medical History:  Mr. Johnson has a history of hypertension and osteoarthritis. He is on medication for both conditions and denies any recent changes in his medications. There is no known history of allergies or skin conditions. His past medical history is significant for a mild case of eczema in his.What will be the diagnosis and treatment",
-      "options": {
-        "A": "senile pruritis ; Emollients & topical corticosteroids",
-        "B": "Leprosy ; dapsone",
-        "C": "syphillis ; rifampicin",
-        "D": "Multiform exudative erythmea; hydrocortisone cortisone",
-        "E": "Dermophagism"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 68",
-      "question": " Specify the pathohistological sign of pemphigus",
-      "options": {
-        "A": " acantolysis                        ",
-        "B": " Hyperkeratosis",
-        "C": " acanthosis",
-        "D": " spongiosis",
-        "E": " parakeratosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 69",
-      "question": " Name the pathological cells in pemphigus:",
-      "options": {
-        "A": " Tzanck cells      ",
-        "B": " LE cells",
-        "C": " Merkel cells",
-        "D": " spiny cells",
-        "E": " Meissner cells"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 70",
-      "question": "Name the element in the vegetative form of pemphigus:",
-      "options": {
-        "A": " erosion   ",
-        "B": " nodule",
-        "C": " ulcer",
-        "D": " abrasion",
-        "E": " Lichenification"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 71",
-      "question": "Specify with which disease bullous pemphigoid should be differentiated:",
-      "options": {
-        "A": " Duhring's dermatitis    ",
-        "B": " eczema",
-        "C": " neurodermatitis",
-        "D": " scabies",
-        "E": " psoriasis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 72",
-      "question": "Specify the clinical sign in Duhring's dermatitis:",
-      "options": {
-        "A": " polymorphic symmetrical rashes    ",
-        "B": " scarring",
-        "C": " spots",
-        "D": " monomorphic asymmetrical rashes",
-        "E": " vegetations"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 73",
-      "question": "select the first-line treatment for mild to moderate atopic dermatitis in children and adults?",
-      "options": {
-        "A": "Topical corticosteroids",
-        "B": "Oral antihistamines",
-        "C": "Topical calcineurin inhibitors",
-        "D": "Oral corticosteroids",
-        "E": "Phototherapy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 74",
-      "question": "Determine the pathomorphologic sign of the Nicolsky symptom in pemphigus vulgaris:",
-      "options": {
-        "A": " acantholysis                    ",
-        "B": " parakeratosis",
-        "C": " acanthosis",
-        "D": " spongiosis",
-        "E": " granulosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 75",
-      "question": "Determine the condition of the skin around the blisters in pemphigus:",
-      "options": {
-        "A": " not changed                        ",
-        "B": " hyperemic",
-        "C": " infiltrated",
-        "D": " tinged with purple",
-        "E": " has a pronounced skin pattern"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 76",
-      "question": " Determine in which disease corticosteroid therapy should be used:",
-      "options": {
-        "A": " true pemphigus          ",
-        "B": " herpes simplex",
-        "C": " Rubromycosis                   ",
-        "D": " candidiasis",
-        "E": " furunculosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 77",
-      "question": "Determine what happens to the blister in Nikolsky's symptom:",
-      "options": {
-        "A": " increases in size   ",
-        "B": " burst",
-        "C": " crusts over",
-        "D": " painful",
-        "E": " bleeds"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 78",
-      "question": "Determine in which disease Nikolsky's symptom is sharply positive:",
-      "options": {
-        "A": " pemphigus  ",
-        "B": " neurodermatitis",
-        "C": " Duhring's dermatitis",
-        "D": " eczema",
-        "E": " psoriasis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 79",
-      "question": "A patient presents with a sharply demarcated, erythematous, and edematous rash with vesicles and weeping, following exposure to a new skincare product. choose the correct   diagnosis?",
-      "options": {
-        "A": " Allergic contact dermatitis",
-        "B": "Irritant contact dermatitis",
-        "C": "Atopic dermatitis",
-        "D": "Seborrheic dermatitis",
-        "E": "Nummular dermatitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 80",
-      "question": " Select a disease from the collagenosis group:",
-      "options": {
-        "A": " scleroderma ",
-        "B": " rosacea",
-        "C": " psoriasis",
-        "D": " scrofuloderma",
-        "E": " acne"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 81",
-      "question": "State the pathohistological phenomena responsible for the Benier-Meschersky symptom in lupus erythematosus:",
-      "options": {
-        "A": " follicular hyperkeratosis  ",
-        "B": " acantholysis",
-        "C": " granulosis",
-        "D": " acanthosis",
-        "E": " parakeratosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 82",
-      "question": "Select the definition of the symptom \"lady's heel\":",
-      "options": {
-        "A": " the presence of horny spines under the scales     ",
-        "B": " the presence of horny spines on the surface of the scales",
-        "C": " a pattern on the skin that resembles a heel",
-        "D": " a sensation of pain when the scales are removed",
-        "E": " thickening of the skin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 83",
-      "question": "Specify what is a symptom of Benier-Meschersky :",
-      "options": {
-        "A": " painfulness when the scales are removed    ",
-        "B": " the presence of spikes under the scales",
-        "C": " the presence of desquamation in the centre of the lesion",
-        "D": " the appearance of infiltrative plaques",
-        "E": " lichenification of the skin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 84",
-      "question": "Specify the localisation of discoid lupus erythematosus:",
-      "options": {
-        "A": " face     ",
-        "B": " back",
-        "C": " neck",
-        "D": " scalp",
-        "E": " palms and feet"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 85",
-      "question": "Which of the following is NOT a typical characteristic of psoriasis?",
-      "options": {
-        "A": "Involvement of only the palms and soles",
-        "B": "Silvery scales",
-        "C": "Well-demarcated erythematous plaques",
-        "D": "Pustules filled with clear fluid",
-        "E": "Auspitz sign (pinpoint bleeding upon removal of scales)"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 86",
-      "question": "Name the primary  symptom of discoid lupus erythematosus:",
-      "options": {
-        "A": " erythema ",
-        "B": " papular infiltration",
-        "C": " vegetation",
-        "D": " mottling",
-        "E": " follicular pustule"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 87",
-      "question": " Determine what causes the Benier-Meschersky symptom in discoid lupus erythematosus:",
-      "options": {
-        "A": " densely seated scales    ",
-        "B": " vasodilatation",
-        "C": " exudation",
-        "D": " atrophy",
-        "E": " hyperkeratosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 88",
-      "question": " Determine the stage of development of scleroderma:",
-      "options": {
-        "A": " edema     ",
-        "B": " infiltration",
-        "C": " erosion",
-        "D": " vegetation",
-        "E": " lichenification"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 89",
-      "question": " State the clinical sign of limited scleroderma:",
-      "options": {
-        "A": " a rounded spot with a lilac rim around the periphery   ",
-        "B": " multiple white patches",
-        "C": " erythematous spots",
-        "D": " spot with desquamation",
-        "E": " nodule"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 90",
-      "question": " Prescribe treatment for scleroderma:",
-      "options": {
-        "A": " hyaluronidase    ",
-        "B": " analgesics",
-        "C": " antihistamines",
-        "D": " corticosteroids",
-        "E": " antibiotics"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 91",
-      "question": "Choose the following  characteristic feature of pityriasis rosea lesions?",
-      "options": {
-        "A": "Wickham striae",
-        "B": "Central umbilication",
-        "C": "Targetoid appearance",
-        "D": "Koebner phenomenon",
-        "E": "Psoriasiform scales"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 92",
-      "question": "Select the most common age group affected by pityriasis rosea?",
-      "options": {
-        "A": "Adolescents and young adults",
-        "B": "Infants",
-        "C": "Middle-aged adults",
-        "D": "Elderly",
-        "E": "All age groups are equally affected"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 93",
-      "question": "Name the disease with which you would differentiate seborrhoeic eczema",
-      "options": {
-        "A": " seborrheic dermatitis                       ",
-        "B": " Inguinal epidermophitia",
-        "C": " syphilitic alopecia",
-        "D": " neurodermatitis",
-        "E": " Scabies"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 94",
-      "question": "Indicate the background of which disease seborrheic eczema occurs:",
-      "options": {
-        "A": " Fat seborrhea                       ",
-        "B": " Microbial Eczema",
-        "C": " idiopathic eczema",
-        "D": " Seborrheic baldness",
-        "E": " Obesity"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 95",
-      "question": "Specify the morphological feature of seborrhoeic eczema",
-      "options": {
-        "A": " erythematous stains with fatty scales            ",
-        "B": " papulovesicles with sulfur-purulent crusts",
-        "C": " Papulovesicles with serous contents",
-        "D": " erosion with serous crusts",
-        "E": " Ulcers"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 96",
-      "question": "Specify the typical localisation of seborrhoea:",
-      "options": {
-        "A": " face, scalp, back, chest    ",
-        "B": " palms and soles",
-        "C": " upper and lower extremities",
-        "D": " external genitalia",
-        "E": " inguinal area, buttocks"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 97",
-      "question": "Choose among  the following  commonly used topical treatment for localized lichen planus?",
-      "options": {
-        "A": "Topical calcineurin inhibitors",
-        "B": "Oral corticosteroids",
-        "C": "Systemic retinoids",
-        "D": "Oral antifungal agents",
-        "E": "Oral antihistamines"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 98",
-      "question": "Specify the localisation of seborrheic eczema",
-      "options": {
-        "A": " skin of head     ",
-        "B": " nails",
-        "C": " soles",
-        "D": " palms",
-        "E": " sex organs"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 99",
-      "question": "Name the disease with which you would differentiate seborrhoeic eczema",
-      "options": {
-        "A": " seborrheic dermatitis                       ",
-        "B": " Inguinal epidermophitia",
-        "C": " syphilitic alopecia",
-        "D": " neurodermatitis",
-        "E": " Scabies"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 100",
-      "question": " Specify the common localisation of seborrhoeic eczema:",
-      "options": {
-        "A": " sebaceous glands    ",
-        "B": " sweat glands",
-        "C": " hair",
-        "D": " nails",
-        "E": " palms and soles"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 101",
-      "question": " Specify the morphological feature of seborrhoeic eczema",
-      "options": {
-        "A": " erythematous stains with fatty scales            ",
-        "B": " papulovesicles with sulfur-purulent crusts",
-        "C": " Papulovesicles with serous contents",
-        "D": " erosion with serous crusts",
-        "E": " Ulcers"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 102",
-      "question": "Specify the typical localisation of seborrhoea:",
-      "options": {
-        "A": " face, scalp, back, chest    ",
-        "B": " palms and soles",
-        "C": " upper and lower extremities",
-        "D": " external genitalia",
-        "E": " inguinal area, buttocks"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 103",
-      "question": " Specify the primary morphological element of herpes simplex virus:",
-      "options": {
-        "A": " vesicle",
-        "B": " pustule",
-        "C": " papule",
-        "D": " nodule",
-        "E": " spot"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 104",
-      "question": " Specify the clinical signs in herpes simplex:",
-      "options": {
-        "A": " a burning sensation       ",
-        "B": " a feeling of numbness",
-        "C": " an increase in blood pressure",
-        "D": " dysuria",
-        "E": " diarrhoea"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 105",
-      "question": "Specify the characteristics of the herpes zoster rash:",
-      "options": {
-        "A": " located along nerve endings ",
-        "B": " vesicles are not tense",
-        "C": " blisters are flaccid",
-        "D": " rashes are covered with scales",
-        "E": " no rash"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 106",
-      "question": "Name the group of diseases to which herpes zoster belongs:",
-      "options": {
-        "A": " viral        ",
-        "B": " bacterial",
-        "C": " fungal ",
-        "D": " autoimmune",
-        "E": " genetic"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 107",
-      "question": "Name the clinical form of herpes zoster:",
-      "options": {
-        "A": " haemorrhagic        ",
-        "B": " hypertrophic",
-        "C": " ring-shaped",
-        "D": " Nummular",
-        "E": " lenticular"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 108",
-      "question": " Specify the clinical form of herpes zoster:",
-      "options": {
-        "A": " necrotic       ",
-        "B": " papular",
-        "C": " lichenoid",
-        "D": " erythrodermic",
-        "E": " scaly"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 109",
-      "question": " Specify the differential diagnosis of herpes simplex with which disease:",
-      "options": {
-        "A": " pemphigus vulgaris",
-        "B": " urticaria",
-        "C": " Duhring's dermatitis",
-        "D": " flat warts",
-        "E": " molluscum contagiosum"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 110",
-      "question": "At  a  dermatologist's  appointment,  a  30-year-old  man  complained  of  recurring  painful rashes on the red border of the lips, accompanied by burning. From the anamnesis: exacerbations of the  disease  occur  more  than  6  times  a  year.  Locally:  on  the  red  border  of  the  lips  against  the background of erythema and edema, there are grouped vesicular elements with serous contents, individual elements form surface erosions covered with crusts. Which of the following diagnoses is the most likely? ",
-      "options": {
-        "A": "  Labial herpes   ",
-        "B": "  Viral warts ",
-        "C": "  Streptococcal impetigo ",
-        "D": "  Allergic dermatitis ",
-        "E": "  Candidal stomatitis "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 111",
-      "question": "A man, 30 years old, consulted a doctor with complaints of frequent urination. From the anamnesis:  a  week  ago  there  was  an  unprotected  intercourse  with  an  unfamiliar  woman. Objectively: hyperemia, edema of the mucous membrane of the external  opening of the urethra, infiltration  of  the  urethral  sponges,  mucous  discharge.  M.  Genitalium  was  detected  by  PCR diagnostics. Which of the following diagnoses is the most likely? ",
-      "options": {
-        "A": "  Mycoplasma infection   ",
-        "B": "  Chlamydial infection ",
-        "C": "  Trichomonas infection ",
-        "D": "  Gonorrheal infection ",
-        "E": "  Genitourinary candidiasis "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 112",
-      "question": "An 18-year-old girl came to the doctor's office with complaints of rashes in the genital area, accompanied by soreness, burning, itching. From the anamnesis: she had ARVI a week ago, she did not  use  any  medications.  Locally:  against  the  background  of  erythema  and  edema,  there  are grouped vesicular elements with serous and serous-purulent contents, crusts and ulceration. Which of the following is the most likely diagnosis? ",
-      "options": {
-        "A": "  Genital herpes   ",
-        "B": "  herpes zoster",
-        "C": "  Viral warts ",
-        "D": "  Molluscum contagiosum ",
-        "E": "  Ecthyma ordinary "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 113",
-      "question": " A mother with a 13-year-old child turned to a dermatologist with complaints of rashes on her arms. From the anamnesis: noticed a rash a week ago. Objectively: on the dorsum of the hands, hemispherical, dense nodules, rising above the skin, 3 to 5 mm in diameter, with a rough granular surface, having irregular outlines. Which of the preliminary diagnoses is the most likely? ",
-      "options": {
-        "A": "  Youthful warts   ",
-        "B": "  Molluscum contagiosum ",
-        "C": "  Contact dermatitis ",
-        "D": "  Staphylococcal impetigo ",
-        "E": "  Pigmented nevus "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 114",
-      "question": " A 45-year-old woman consulted a doctor with complaints of severe dull pains and rashes in the  back,  general  malaise.  Anamnesis:  a  week  before  the  rash,  she  had  a  sore  throat,  low-grade fever,  pain  and  burning  along  the  intercostal  nerves.  Objectively:  unilateral  lesion  along  the intercostal nerves on the right - grouped vesicles are linearly located, with serous-purulent contents on an erythematous, slightly edematous base. Which of the following diagnoses is the most likely? ",
-      "options": {
-        "A": "  Herpes zoster ",
-        "B": "  Herpes simplex ",
-        "C": "  Pemphigus vulgaris ",
-        "D": "  Molluscum contagiosum ",
-        "E": "  Allergic dermatitis "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 115",
-      "question": " Specify the causative agent of syphilis?       ",
-      "options": {
-        "A": "  Treponema pallidum",
-        "B": "  Neisseria gonorrhoeae",
-        "C": "  Chlamydia trachomatis",
-        "D": "  Helicobacter pylori",
-        "E": "  Candida albicans"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 116",
-      "question": " Specify the primary route of transmission of the causative agent of syphilis?     ",
-      "options": {
-        "A": "  sexual ",
-        "B": "  household contact",
-        "C": "  transmissive",
-        "D": "  transfusion",
-        "E": "  transplacental"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 117",
-      "question": "A 24-year-old patient came to the FMC for an appointment with a doctor complaining of the appearance of a sore on the glans penis, which has already lasted for 10 days. From the anamnesis, it was possible to find out that he had sexual intercourse with an unfamiliar woman. Objectively: in the area of ​​the coronal groove there is a round ulcer, the edges are even, the bottom is smooth, the size is 1.5x2.0 cm. Pale treponema was found in the material taken from the ulcer. DAC is negative. What is the most likely diagnosis?",
-      "options": {
-        "A": "   Syphilis primary seronegative",
-        "B": "   Syphilis primary seropositive ",
-        "C": "    Syphilis secondary fresh",
-        "D": "   Syphilis secondary recurrent",
-        "E": "    Syphilis tertiary active"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 118",
-      "question": " A 24-year-old patient turned to a dermatovenerologist in a private clinic with complaints of ulcers on the glans penis, as well as swelling in the right iliac region. Anamnesis revealed that he had sexual contact with one woman for 2 months. Objectively: there is a sore on the head of the penis, measuring 1x1 cm, the edges are even, the bottom is varnished. The right lymph node in the iliac region is enlarged to a walnut, painless and dense in consistency. DAC (++++) is sharply positive. What is the most likely diagnosis?",
-      "options": {
-        "A": "   Syphilis primary seropositive ",
-        "B": "   Syphilis secondary recurrent",
-        "C": "    Syphilis primary seronegative ",
-        "D": "   Syphilis secondary fresh",
-        "E": "    Syphilis tertiary active"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 119",
-      "question": "A 26-year-old patient consulted a dermatovenerologist with complaints of hair loss and the appearance of white spots on the back of the neck. Before that, I noted rashes on the skin of the trunk, which, as suddenly appeared, just as suddenly disappeared. Not married, promiscuous in sexual contacts. DAC (++++) is sharply positive. Objectively: there is a small focal hair loss, depigmented spots on the back of the neck, similar to a specific leukoderma. What diagnosis can be suspected in the patient?",
-      "options": {
-        "A": "   Syphilis secondary recurrent",
-        "B": "   Syphilis primary seronegative ",
-        "C": "    Syphilis secondary fresh",
-        "D": "   Syphilis tertiary active",
-        "E": "    Syphilis late latent"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 120",
-      "question": " During a preventive examination in a antenatal clinic, in a pregnant woman at a period of 3 months, the DAC is sharply positive (++++). On examination: the skin is clean. An ulcer was found on the cervix, measuring 1.5x1.5 cm. Inguinal lymph nodes are enlarged on both sides. The husband was diagnosed with secondary recurrent syphilis. What is the most likely diagnosis?",
-      "options": {
-        "A": "    Syphilis primary seropositive ",
-        "B": "   Syphilis primary seronegative",
-        "C": "    Secondary early syphilis",
-        "D": "   Syphilis secondary late",
-        "E": "    Syphilis late latent "
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 121",
-      "question": " During a preventive examination in a antenatal clinic, in a pregnant woman at a period of 3 months, the DAC is sharply positive (++++). On examination: the skin is clean. An ulcer was found on the cervix, measuring 1.5x1.5 cm. Inguinal lymph nodes are enlarged on both sides. The husband was diagnosed with secondary recurrent syphilis. What is the most likely diagnosis?",
-      "options": {
-        "A": " Syphilis primary seropositive ",
-        "B": " Syphilis primary seronegative",
-        "C": " Secondary early syphilis",
-        "D": " Syphilis secondary late",
-        "E": " Syphilis late latent"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 122",
-      "question": "A 26-year-old patient consulted a doctor at the FMC for a rash in the anus. He thought hemorrhoids, treated himself with various ointments, applied ichthyol suppositories. Minor improvements. Before that, he noticed the appearance of reddish spots on the skin of the trunk. Objectively: there are single, numbered papules on the skin of the abdomen and back. De-pigmentation with a marble tint is noticeable on the skin of the neck. In the area of ​​the anus, extensive wide condylomas. Not married, not sexually choosy. DAC is sharply positive. Which of the following diagnoses is the most likely?",
-      "options": {
-        "A": " Syphilis secondary late",
-        "B": " Syphilis latent ",
-        "C": " Syphilis primary seronegative",
-        "D": " Syphilis tertiary active",
-        "E": " Syphilis secondary early syphilis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 123",
-      "question": " Specify the method of diagnosis of primary syphilis?               ",
-      "options": {
-        "A": "  Dark-field microscopy",
-        "B": "  General blood test",
-        "C": "  Ultrasound examination of lymph nodes",
-        "D": " Lymph node biopsy",
-        "E": "  Histological examination of the biomaterial"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 124",
-      "question": "A 22-year-old patient turned to a dermatovenerologist with complaints of rashes in the area of ​​the skin of the palms and soles. Not socially adapted, not picky about sexual relations. Objectively: on the skin of the palms and soles there are papules of rounded outlines measuring 1.5x1.5 cm, depigmented spots in the back of the neck. What laboratory tests need to be performed to establish a diagnosis?",
-      "options": {
-        "A": "   Serological",
-        "B": "   Histological",
-        "C": "    Biochemical",
-        "D": "    Cytological",
-        "E": "    Bacterioscopic"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 125",
-      "question": "A 23-year-old female patient consulted a doctor with complaints of discomfort when swallowing and enlarged tonsils. From the anamnesis it was found out that he leads a promiscuous sex life. Objectively: the tonsil is larger on the right, copper-red, swollen. The submandibular lymph node on the right is enlarged to the size of a bean. What laboratory tests are required to clarify the diagnosis?",
-      "options": {
-        "A": "   Serological",
-        "B": "    Bacteriological",
-        "C": "    Histological",
-        "D": "   Cytological",
-        "E": "    Biochemical"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 126",
-      "question": "A 25-year-old patient came to the doctor's office with complaints of swelling and pain in the glans penis, which appeared two days ago. He is married and has a child. Often on a business trip for work. Objectively: the skin of the glans penis is hyperemic, edematous, the ulcer is in the epithelial stage. Inguinal lymph nodes are enlarged on both sides. DAC is negative. Pale treponema was found in the material from the ulcer. Diagnosed with primary seronegative syphilis. What antibiotic is recommended in the treatment of this patient?",
-      "options": {
-        "A": "   Doxycycline",
-        "B": "    Spectinomycin",
-        "C": "    Levomycentin",
-        "D": "   Tsiprobay",
-        "E": "    Gentamicin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 127",
-      "question": " In the FMC, a 25-year-old woman turned to a dermatovenerologist who had repeated sexual contact with a man she knew who was diagnosed with syphilis. The last contact was 2 months ago. Objectively: the skin and visible mucous membranes are free of rashes. The inguinal lymph nodes are not enlarged. Serological tests are negative. Preventive treatment was prescribed. What antibiotic is most indicated in this case?",
-      "options": {
-        "A": " Extensillin",
-        "B": " Spectinomycin",
-        "C": " Levomycentin",
-        "D": " Gentamicin",
-        "E": " Ciprofloxacin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 128",
-      "question": "A 22-year-old patient turned to a dermatovenerologist with complaints of rashes in the area of ​​the skin of the palms and soles. Not socially adapted, not picky about sexual relations. Objectively: on the skin of the palms and soles there are papules of rounded outlines measuring 1.5x1.5 cm, depigmented spots in the back of the neck. What laboratory tests need to be performed to establish a diagnosis?",
-      "options": {
-        "A": " Serological",
-        "B": " Histological",
-        "C": " Biochemical",
-        "D": " Cytological",
-        "E": " Bacterioscopic"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 129",
-      "question": " A 23-year-old female patient consulted a doctor with complaints of discomfort when swallowing and enlarged tonsils. From the anamnesis it was found out that he leads a promiscuous sex life. Objectively: the tonsil is larger on the right, copper-red, swollen. The submandibular lymph node on the right is enlarged to the size of a bean. What laboratory tests are required to clarify the diagnosis?",
-      "options": {
-        "A": " Serological",
-        "B": " Bacteriological",
-        "C": " Histological",
-        "D": " Cytological",
-        "E": " Biochemical"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 130",
-      "question": "Patient A., 49 years old, came to the FMC to a dermatovenerologist with complaints of an unhealed ulcer of the right leg, which appeared about two months ago. Earlier, before the appearance of the ulcer, he noticed rashes on the trunk, which periodically appeared and disappeared. Objectively: an ulcer is visible 2 - 3 cm in size, the discharge is insignificant, sticky, viscous in nature, similar to gum arabic (juice of an African tree). DAC is weakly positive (++). What diagnosis can you think of? ",
-      "options": {
-        "A": "   Syphilis tertiary",
-        "B": "   Syphilis secondary",
-        "C": "    Syphilis primary ",
-        "D": "   Syphilis unspecified",
-        "E": "    Syphilis early"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 131",
-      "question": " Indicate at what age tertiary syphilis is diagnosed",
-      "options": {
-        "A": " 4-5 years",
-        "B": " 1-2 months",
-        "C": " 1-2 years",
-        "D": " 1-3 days",
-        "E": " 15-20 years"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 132",
-      "question": " Specify the primary morphological element in tertiary syphilis:",
-      "options": {
-        "A": " tuberclum",
-        "B": " spot",
-        "C": " papulae",
-        "D": " roseola",
-        "E": " pustulae"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 133",
-      "question": " A child at the age of 4 months was admitted to the children's department with rashes on the skin of the trunk and limbs. The mother was diagnosed with secondary fresh syphilis. Objectively: on the skin of the limbs and buttocks there is a maculopapular rash, weeping papules around the mouth and anus. DAC is sharply positive. What is the most appropriate preliminary diagnosis?",
-      "options": {
-        "A": "   Syphilis congenital early",
-        "B": "    Syphilis congenital late ",
-        "C": "    Syphilis secondary recurrent",
-        "D": "   Syphilis secondary fresh",
-        "E": "    Syphilis primary seropositive"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 134",
-      "question": "Specify the period of time from the time of infection after which early latent syphilis can be diagnosed :",
-      "options": {
-        "A": " less than one year     ",
-        "B": " four weeks",
-        "C": " more than two years",
-        "D": " more than three years",
-        "E": " more than 4 years"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 135",
-      "question": "Specify the clinical symptom of early congenital syphilis in children aged 1 to 2 years:",
-      "options": {
-        "A": " broad condylomas  ",
-        "B": " diffuse papular infiltration of Gohsinger's papules",
-        "C": " syphilitic vesicles",
-        "D": " syphilitic rhinitis",
-        "E": " parenchymatous keratitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 136",
-      "question": "Determine the sign of bone involvement in early congenital syphilis:",
-      "options": {
-        "A": " Osteochondritis   ",
-        "B": " osteomyelitis",
-        "C": " periostitis",
-        "D": " monoarthritis",
-        "E": " Polyarthritis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 137",
-      "question": " Specify the infectious biomaterial from a pregnant woman with syphilis:",
-      "options": {
-        "A": " breast milk  ",
-        "B": " urine",
-        "C": " sweat",
-        "D": " faeces",
-        "E": " Tears"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 138",
-      "question": " Identify the symptom of early congenital syphilis:",
-      "options": {
-        "A": " syphilitic rhinitis   ",
-        "B": " a patchy rash of the skin of the torso",
-        "C": " papular rash of the skin of the trunk",
-        "D": " syphilitic alopecia",
-        "E": " syphilitic vesicles"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 139",
-      "question": " Specify a reliable sign of fetal syphilis:",
-      "options": {
-        "A": " osteoperiostitis",
-        "B": " myocarditis",
-        "C": " hepatitis",
-        "D": " pneumonia",
-        "E": " meningitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 140",
-      "question": "Specify the diagnostic examination in the recognition of aortic aneurysm of syphilitic genesis:",
-      "options": {
-        "A": " Radiological   ",
-        "B": " auscultatory",
-        "C": " percussion",
-        "D": " serological",
-        "E": " clinical"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 141",
-      "question": " Provide a definition of non-sterile infectious immunity in syphilis:",
-      "options": {
-        "A": " resistance to new infection as long as the pathogen remains in the patient's organism  ",
-        "B": " the inability of a person who has been cured of syphilis to become infected with it again",
-        "C": " the possibility of a syphilis patient to be re-infected by additional exposure to the causative organism",
-        "D": " more severe course in case of repeated infection",
-        "E": " persistent immunity"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 142",
-      "question": "Specify which mucous membrane lesions are most characteristic of congenital syphilis of infancy:",
-      "options": {
-        "A": " nose  ",
-        "B": " mouth",
-        "C": " pharynx",
-        "D": " genitalia",
-        "E": " Conjunctiva"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 143",
-      "question": "Specify the favourite localisation of rashes in syphilitic vesicular vesicles",
-      "options": {
-        "A": " palms and soles  ",
-        "B": " seborrhoeic area",
-        "C": " trunk",
-        "D": " genitalia",
-        "E": " everywhere on the skin cover"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 144",
-      "question": " Specify the infectious form of syphilis:",
-      "options": {
-        "A": " early latent  ",
-        "B": " late latent",
-        "C": " tertiary active",
-        "D": " tertiary latent",
-        "E": " Neurosyphilis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 145",
-      "question": "Specify in which period of pregnancy changes in the internal organs of the foetus caused by syphilitic infection are observed:",
-      "options": {
-        "A": " 5th month ",
-        "B": " 2-3 months ",
-        "C": " 7th month ",
-        "D": " 6th month",
-        "E": " Month 8"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 146",
-      "question": "Patient G., aged 52 years, came to the polyclinic to see a dermatologist about rashes in the left hip joint, which appeared 3-4 weeks ago. Subjectively: she was bothered by pains in her legs. Previously she had noticed rashes on the skin of the trunk, palms and soles. According to the patient, they spontaneously appeared and disappeared. Objective: on the inner surface of the left thigh there are grouped bumps dense to the touch, the size of a pea. Presumptive diagnosis: tubercle syphilis. What investigation should be performed to clarify the diagnosis?",
-      "options": {
-        "A": "Serological",
-        "B": "Histological ",
-        "C": "Bacteriological ",
-        "D": "Biochemical",
-        "E": "Bacterioscopic"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 147",
-      "question": " Specify the causative agent of gonorrhea",
-      "options": {
-        "A": " gonococcus",
-        "B": " Trichomonas vaginalis",
-        "C": " staphylococcus",
-        "D": " streptococcus",
-        "E": " Gardnerella vaginalis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 148",
-      "question": "A 30-year-old woman turned to a venereologist with complaints of profuse leucorrhoea with an unpleasant odor that arose after an acute respiratory infection. Previously, such pathological vaginal discharge did not bother the patient. The result of microscopy of a vaginal smear stained according to Gram: leukocytes - 8-10, moderate microflora, single lactobacilli, “key cells” were found. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "   Bacterial vaginosis",
-        "B": "   Trichomonas vaginitis",
-        "C": "    Candidal vaginitis",
-        "D": "    Gonorrheal endocervicitis",
-        "E": "    Chlamydial cervicitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 149",
-      "question": " A woman of 27 years old, suffering from secondary infertility, complains of profuse leucorrhoea, periodically frequent urination. When viewed in the mirrors, the cervix is ​​eroded, hyperemic, mucopurulent discharge from the cervical canal. The body of the uterus and appendages are not enlarged, painless on palpation. The vaults are free. In a smear up to 40-50 leukocytes, abundant coccal flora, key cells, gardnerella were found, Trichomonas and diplococci were not found. Which of the following preliminary diagnoses is the most likely?",
-      "options": {
-        "A": "   Bacterial vaginosis",
-        "B": "   Candidal vaginitis",
-        "C": "    Gonorrheal endocervicitis",
-        "D": "   Trichomonas vaginitis",
-        "E": "    Chlamydial cervicitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 150",
-      "question": "Name the complication of male gonorrhoea characterised by dense swollen masses on the urethral surface of the penis:",
-      "options": {
-        "A": " lymphangitis",
-        "B": " cavernitis",
-        "C": " colliculitis",
-        "D": " stricture",
-        "E": " Epididymitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 151",
-      "question": "Specify the incorrect symptom of trichomoniasis in women:",
-      "options": {
-        "A": " acute condylomas on the large and small labia and around the anus.",
-        "B": " hyperaemia and swelling of the vulvar and vaginal mucosa;",
-        "C": " yellow-green liquid frothy discharge from the vagina with an unpleasant odour;",
-        "D": " erosive and ulcerative lesions of the mucous membrane of the external genitalia and/or skin of the inner surface of the thighs;",
-        "E": " petechial haemorrhages on the mucous membrane of the vaginal part of the cervix (\"strawberry\" cervix);"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 152",
-      "question": "Specify the incorrect complication of trichomoniasis in women:",
-      "options": {
-        "A": " cervical cancer.",
-        "B": " salpingoophoritis.",
-        "C": " endometritis",
-        "D": " pelvio-peritonitis.",
-        "E": " cystitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 153",
-      "question": "Specify which group of microorganisms vaginal gardnerella belongs to:",
-      "options": {
-        "A": " gram-variable coccobacillus forms of microorganisms",
-        "B": " gram-negative coccobacilli",
-        "C": " gram-variable coccobacilli",
-        "D": " gram-positive coccobacterial forms of microorganisms",
-        "E": " gram-positive bacillary forms of microorganisms"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 154",
-      "question": "Specify the localisation of urogenital trichomonads in women:",
-      "options": {
-        "A": " in all genitourinary organs and the ampulla of the rectum",
-        "B": " urethra, vagina, vagina, cervix",
-        "C": NaN,
-        "D": " vagina, cervix, uterus.",
-        "E": " urethra, vagina, ampulla of rectum."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 155",
-      "question": " Specify the main clinical sign of eye damage in gonorrhea:",
-      "options": {
-        "A": " conjunctivitis",
-        "B": " blepharitis",
-        "C": " cataract",
-        "D": "4 glaucoma",
-        "E": " retinal detachment"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 156",
-      "question": "A 30-year-old woman turned to a venereologist for a preventive examination. Anamnesis: casual sexual intercourse six days ago. Complaints about minor discharge. During a gynecological examination: the external genital organs and vaginal mucosa without signs of inflammation, the internal genital organs without pathology. What research should be assigned to make a diagnosis?",
-      "options": {
-        "A": "   PCR",
-        "B": "   CSR",
-        "C": "    IEA",
-        "D": "   SIF",
-        "E": "    RIF"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 157",
-      "question": " A 30-year-old woman turned to the polyclinic of the dermatovenerologic dispensary with complaints of moderate, homogeneous, sticky, grayish-whitish vaginal discharge, with an unpleasant smell of “rotten fish”. On examination: the walls of the vagina are moderately hyperemic, covered with grayish-whitish discharge. “Key” cells were found in smears. Diagnosis: Bacterial vaginosis. Which test confirms the diagnosis?",
-      "options": {
-        "A": "   Amine",
-        "B": "    Urease",
-        "C": "    Salbutomach",
-        "D": "   Glycemic",
-        "E": "    Lepromine"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 158",
-      "question": " A 36-year-old woman turned to a venereologist for a preventive examination. Complaints about discharge, burning. When viewed in mirrors: the cervix is ​​cylindrical, mucous discharge, foamy, gray with an unpleasant odor. When conducting a bimanual study, pathology from the internal genital organs was not detected. According to microscopic examination, “key cells” were found in vaginal smears. Preliminary diagnosis: Bacterial vaginosis. What drug should be prescribed?",
-      "options": {
-        "A": "    Clindamycin",
-        "B": "   Acyclovir",
-        "C": "    Valacyclovir",
-        "D": "   Diazolin",
-        "E": "    Diclofenac"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 159",
-      "question": "Specify an ineffective treatment regimen for uncomplicated gonorrhoea:",
-      "options": {
-        "A": " kanamycin 2 g orally once a month",
-        "B": " ceftriaxone 250 mg intravenously once a day",
-        "C": " spectinomycin 2 g once a day/m",
-        "D": " cefixime 400 mg once orally",
-        "E": " doxycycline 100 mg 2 times a day for 7 days"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 160",
-      "question": "Specify an ineffective treatment regimen for trichomoniasis:",
-      "options": {
-        "A": " metronidazole 250 mg orally 2 times a day for 14 days ",
-        "B": " metronidazole 500 mg orally 2 times a day for 7 days",
-        "C": " metronidazole 2 g orally once a day",
-        "D": " tinidazole 2 g orally once a day",
-        "E": " metronidazole 250 mg 4 times a day for 7 days"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 161",
-      "question": "Specify an ineffective localisation for gonorrhoea testing:",
-      "options": {
-        "A": " from the posterior vaginal vault",
-        "B": " urethral secretion",
-        "C": " from the cervical canal",
-        "D": " from the back of the pharynx",
-        "E": " ocular secretions"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 162",
-      "question": "Specify the drug of choice in the treatment of gonorrhoea:",
-      "options": {
-        "A": " ceftriaxone",
-        "B": " penicillin",
-        "C": " tetracycline",
-        "D": " metronidazole",
-        "E": " Erythromycin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 163",
-      "question": " Specify the causative agent of urogenital chlamydia",
-      "options": {
-        "A": " Chlamydia trachomatis",
-        "B": " Trichomonas vaginalis",
-        "C": " Gardnerella vaginalis",
-        "D": " gonococcus",
-        "E": " Helicobacter pylori"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 164",
-      "question": " Choose the group of the causative agent chlamydia trachomatis",
-      "options": {
-        "A": " bacteria",
-        "B": " viruses",
-        "C": " helminths",
-        "D": " protozoa",
-        "E": " fungi"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 165",
-      "question": "A 45-year-old woman turned to a dermatovenerologist with complaints of soreness during intercourse, pulling pains in the lower abdomen, frequent painful urination. From the anamnesis: the sexual partner had discharge of a mucopurulent character. Barrier contraception is not used. Objectively: swelling and hyperemia of the mucous membrane of the cervix, mucopurulent discharge from the cervical canal. C. trachomatis was found by PCR diagnostics. Which of the following infections is most commonly associated with this pathogen?",
-      "options": {
-        "A": "   Gonorrheal",
-        "B": "   Trichomonas",
-        "C": "    Gardnerella",
-        "D": "   Staphylococcal",
-        "E": "    Streptococcal"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 166",
-      "question": "A man, 34 years old, turned to a dermatovenerologist with complaints of scanty mucous discharge from the urethra, pain and burning sensation when urinating. From the anamnesis: has been ill for a week. Objectively: the sponges of the urethra are hyperemic and edematous, mucopurulent discharge. Which of the verified diagnostic methods will make the diagnosis possible?",
-      "options": {
-        "A": "   Polymerase chain reaction",
-        "B": "   Complete blood count",
-        "C": "    General urine analysis",
-        "D": "   Bacteriological inoculation method",
-        "E": "    A complex of serological reactions"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 167",
-      "question": "Specify the most detectable localization of the chlamydia pathogen in a newborn baby:",
-      "options": {
-        "A": " mucous membrane of the posterior pharyngeal wall",
-        "B": " nasal mucosa",
-        "C": " external auditory canal",
-        "D": " inguinal fold",
-        "E": " umbilical cord"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 168",
-      "question": "Identify which disease is characterized by \"contact\" bleeding during the intermenstrual period in women:",
-      "options": {
-        "A": " urogenital chlamydia",
-        "B": " urogenital trichomoniasis",
-        "C": " gonorrhea",
-        "D": " urogenital candidiasis",
-        "E": " bacterial vaginosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 169",
-      "question": " Use the main group of drugs in the treatment of urogenital chlamydia for children under 12 years of age and pregnant women",
-      "options": {
-        "A": " macrolides",
-        "B": " tetracyclines",
-        "C": " cephalosporins",
-        "D": " penicillins",
-        "E": " antimalarial"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 170",
-      "question": " Choose the symptom of Reiter's disease:",
-      "options": {
-        "A": " arthritis",
-        "B": " gastritis",
-        "C": " myocarditis",
-        "D": " pyelonephritis",
-        "E": " colitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 171",
-      "question": " Choose the symptom of Reiter's disease:",
-      "options": {
-        "A": " urethritis",
-        "B": " gastritis",
-        "C": " myocarditis",
-        "D": " pyelonephritis",
-        "E": " colitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 172",
-      "question": "Specify the group of drugs that is not used in the treatment of Reiter's disease:",
-      "options": {
-        "A": " sulphonamide drugs",
-        "B": " detoxification therapy",
-        "C": " hyposensitising therapy",
-        "D": " antirheumatic drugs",
-        "E": " antibacterial drugs"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 173",
-      "question": "Name which of the following microorganisms that cause sexually transmitted diseases cannot be detected by microscopic examination:",
-      "options": {
-        "A": " mycoplasma genitalis",
-        "B": " pale treponema",
-        "C": " gardnerella",
-        "D": " gonococcus Neisser.",
-        "E": " trichomonas vaginalis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 174",
-      "question": " Name the most common reason for men with urogenital chlamydia to come to the clinic:",
-      "options": {
-        "A": " chronic urethroprostatitis",
-        "B": " acute urethritis",
-        "C": " acute prostatitis",
-        "D": " acute orchoepididymitis",
-        "E": " acute cystitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 175",
-      "question": "Specify the time period for taking urethral material to detect chlamydia:",
-      "options": {
-        "A": " after delayed urination for 3-4 hours",
-        "B": " immediately or 10 minutes after urination",
-        "C": " after preliminary combined provocation",
-        "D": " against the background of purulent discharge",
-        "E": " after urethral massage on the bougie"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 176",
-      "question": " Specify the time period for the first PCR control test for chlamydia after treatment:",
-      "options": {
-        "A": " after 1 month",
-        "B": " immediately after the end of antibiotic therapy",
-        "C": " after 10-14 days",
-        "D": " after 2-3 months",
-        "E": " after six months"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 177",
-      "question": "specify the incorrect biological material for laboratory diagnosis of mycoplasmosis and ureaplasmosis in women:",
-      "options": {
-        "A": " conjunctival secretion",
-        "B": " urethral mucosal scraping",
-        "C": " cervical mucosal scraping",
-        "D": " blood serum",
-        "E": " vaginal discharge"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 178",
-      "question": "Specify the drug for the treatment of chlamydial and ureaplasma urethritis:",
-      "options": {
-        "A": " sumamed",
-        "B": " ofloxacin",
-        "C": " rovamycin",
-        "D": " claforan",
-        "E": " amoxicillin"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 179",
-      "question": " Choose the causative agent of urogenital candidiasis:",
-      "options": {
-        "A": " candida albicans",
-        "B": " trichophyton rubrum",
-        "C": " microsporum",
-        "D": " Malasezia furfur",
-        "E": " Epidermophyton"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 180",
-      "question": " A 34-year-old man consulted a venereologist at a private medical center with complaints of itching and burning of the foreskin. She has been ill for 1.5 months. From the anamnesis: over the past year he has been treated at a tuberculosis clinic for extrapulmonary tuberculosis and is registered. Objectively: whitish coating on the glans penis and foreskin, curd-like discharge. Which of the following diagnoses is most likely?",
-      "options": {
-        "A": "   Candida balanoposthitis",
-        "B": "    Tuberculous balanitis",
-        "C": "    Bacterial balanitis",
-        "D": "   Tuberculous balanoposthitis",
-        "E": "    Gonorrheal balanitis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 181",
-      "question": "A 47-year-old man consulted a dermatovenerologist with complaints of rashes in the genital area, burning, and soreness. Similar rashes have appeared before. Denies extramarital sex. Objectively: on the mucous membrane of the labia majora, there are grouped vesicles with serous contents and erosions with polycyclic outlines. Regional lymph nodes are not enlarged. No laboratory tests have been carried out. Which of the following diagnoses is most likely?",
-      "options": {
-        "A": "   Genital herpes",
-        "B": "    Bullous pemphigoid",
-        "C": "    Chancroid",
-        "D": "   True pemphigus",
-        "E": "    Urogenital candidiasis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 182",
-      "question": "Specify where the inflammatory process is localised in urogenital candidiasis",
-      "options": {
-        "A": "1) upper layers of the vaginal epithelium ",
-        "B": "2) upper layers of the urethral epithelium;",
-        "C": " 3) deep layers of the vaginal epithelium;",
-        "D": " 4) deep layers of the urethral epithelium.",
-        "E": "5) upper and deep layers of the vaginal epithelium"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 183",
-      "question": "Name the diseases caused by urogenital candidiasis in women?",
-      "options": {
-        "A": "2) vulvovaginitis ",
-        "B": "1) vaginosis;",
-        "C": "3) urethritis;",
-        "D": "4) salpingitis",
-        "E": "5) endometriosis."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 184",
-      "question": "Specify which diseases are caused by urogenital candidiasis in men?",
-      "options": {
-        "A": "4) urethritis ",
-        "B": "1) orchitis",
-        "C": "2) epididymitis",
-        "D": "3) prostatitis;",
-        "E": "5) cystitis."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 185",
-      "question": " Specify the group of causative agents of genital herpes",
-      "options": {
-        "A": " viruses",
-        "B": " bacteria",
-        "C": " protozoa",
-        "D": " helminths",
-        "E": " fungi"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 186",
-      "question": " Specify the incorrect method for laboratory diagnosis of herpetic infection:",
-      "options": {
-        "A": "IFA",
-        "B": "  microscopy",
-        "C": "  culture method",
-        "D": "  PIF",
-        "E": " PCR"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 187",
-      "question": " A 25-year-old man came to see a dermatologist with complaints of painful rashes. During the last 2 years he notes the appearance of manifestations for the eighth time. Objectively: on the head of the penis - grouped vesicles the size of a millet grain with serous content. On the inner sheet of the preputial sac - erosive surface with clear edges, soft on palpation. Which of the listed diseases is characterised by the above picture?",
-      "options": {
-        "A": " genital herpes",
-        "B": " primary syphilis",
-        "C": " herpes zoster",
-        "D": " chancriform pyoderma",
-        "E": " Scabies"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 188",
-      "question": "Patient 37 years old, applied to a venereologist complaining of soreness, rashes on the head of the penis. From anamnesis: he has been ill for 10 days. Objectively: on the head of the penis there are vesicles with serous content on a swollen, hyperaemic background, polycyclic erosions. Diagnosis: Genital herpes. Choose a remedy for external therapy:",
-      "options": {
-        "A": " Poultice",
-        "B": " Ointment",
-        "C": " Cream",
-        "D": " Paste",
-        "E": " Lacquer"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 189",
-      "question": "A 45-year-old patient visited a venereologist with complaints of rashes, itching of genitals. From the anamnesis: he had been ill for 5 days, earlier he had the same rashes, this was the 6th relapse within a year. He was treated at the place of residence. Objectively: on the skin of the venous furrow of the penis, grouped vesicles on a hyperaemic base, erosions with festooned edges. Diagnosis: Genital herpes. Recurrent form. Which of the following vaccines is used to prevent subsequent recurrences?",
-      "options": {
-        "A": " Antiviral ",
-        "B": " Anti-staphylococcal ",
-        "C": " Anti-Tuberculosis   ",
-        "D": " Anti-tetanus ",
-        "E": " Antitrichomonadal"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 190",
-      "question": "Specify the dosage of Fluconazole in the treatment of acute urogenital candidiasis?",
-      "options": {
-        "A": " 150 mg once",
-        "B": " 150 mg once for 3 days;",
-        "C": " 250 mg once;",
-        "D": " 250 mg once for 3 days",
-        "E": "  50mg once"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 191",
-      "question": "Name the drugs used in the maintenance therapy of urogenital candidiasis?",
-      "options": {
-        "A": " Clotrimazole",
-        "B": " Josamycin;",
-        "C": " Itraconazole;",
-        "D": "  Amoxicillin",
-        "E": " Ofloxacin."
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 192",
-      "question": " Specify the tactics of treatment of urogenital candidiasis in pregnant women in the 1st trimester?",
-      "options": {
-        "A": "  Natamycin vaginal suppositories 100 mg once a day for 6 days.",
-        "B": " Clotrimazole vaginal tablet 100 mg once a day before bedtime for 10 days;",
-        "C": " Clotrimazole vaginal tablet 100 mg once daily before bedtime for 7 days;",
-        "D": " Natamycin vaginal suppositories 100 mg once daily for 10 days;",
-        "E": " Nystatin vaginal suppositories 1 time per day for 6 days"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 193",
-      "question": " Specify the tactics of treatment of urogenital candidiasis in pregnant women in the 2nd trimester?",
-      "options": {
-        "A": " Natamycin vaginal suppositories 100 mg once a day for 6 days.",
-        "B": " Clotrimazole vaginal tablet 100 mg once a day before bedtime for 10 days;",
-        "C": " Clotrimazole vaginal tablet 100 mg once daily before bedtime for 7 days;",
-        "D": " Natamycin vaginal suppositories 100 mg once daily for 10 days;",
-        "E": " Nystatin vaginal suppositories 1 time per day for 6 days"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 194",
-      "question": "Name the criteria for assessing the quality of medical care for patients with urogenital candidiasis?",
-      "options": {
-        "A": "  microscopic examination",
-        "B": "  general blood analysis ",
-        "C": "  ultrasound examination of pelvic organs",
-        "D": "  prescription of immunomodulatory therapy;",
-        "E": "  instrumental examination;"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 195",
-      "question": " Specify a preventive measure aimed at actively identifying hidden sources of infection of sexually transmitted diseases:",
-      "options": {
-        "A": " medical examinations",
-        "B": " treatment of patients",
-        "C": " examination of patients",
-        "D": " vaccination",
-        "E": " sanitary educational work"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 196",
-      "question": "Specify the cause of the \"lower abdominal pain\" syndrome:",
-      "options": {
-        "A": " chlamydia",
-        "B": " soft chancre",
-        "C": " syphilis",
-        "D": " donovanosis",
-        "E": " leprosy"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 197",
-      "question": "Specify what does not cause scrotal oedema syndrome:",
-      "options": {
-        "A": " genital herpes",
-        "B": " gonorrhoea",
-        "C": " chlamydia",
-        "D": " trauma",
-        "E": " mycoplasmosis"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 198",
-      "question": "Specify the causative agent of venereal lymphogranuloma:",
-      "options": {
-        "A": " Chlamydia trachomatis (serotypes L1, L2, L3)",
-        "B": " Streptobacillus Ducreyi.",
-        "C": " Donovan's corpuscles",
-        "D": " pale treponema",
-        "E": " candida"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 199",
-      "question": " Specify the social factors that do not influence STD transmission:",
-      "options": {
-        "A": " gender, age",
-        "B": "refusal of personal protective equipment (condom, etc.)",
-        "C": " untimely initiation of STI treatment",
-        "D": " interruption of treatment",
-        "E": " sexual partners are not involved in treatment"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question_number": "Question 200",
-      "question": "Specify the earliest time for detection of HIV antibodies:",
-      "options": {
-        "A": " two weeks",
-        "B": " one month",
-        "C": " two months",
-        "D": " three weeks",
-        "E": " one week"
-      },
-      "correct_answer": "A"
-    }
-  ]
-}
+[
+  {
+    "question": "Choose proliferative elements of rash",
+    "options": [
+      "Nodule",
+      "vesicle",
+      "Erosion",
+      "Scar ",
+      "Bulla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What function of keratinocytes",
+    "options": [
+      "reproduction",
+      "protection from UV rays ",
+      "termoregulation",
+      "moisturizing",
+      "tactile sensation "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What pathohistological changes in stratum corneum    ",
+    "options": [
+      "Hyperkeratosis",
+      "granulosis",
+      "Acanthosis",
+      "Acantholysis",
+      "Papillomatosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Choose secondary elements of rash        ",
+    "options": [
+      "Abrasion",
+      "Abscesses",
+      "Blister",
+      "Enanthema",
+      "Macula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Choose secondary elements of rash        ",
+    "options": [
+      "Erosion",
+      "Blister",
+      "Abscesses",
+      "spots ",
+      "Enanthema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Differentiate in which of the following conditions does parakeratosis most frequently occur? ",
+    "options": [
+      "Actinic keratosis",
+      "Seborrheic keratosis",
+      "Molluscum contagiosum ",
+      "Basal cell carcinoma ",
+      "Pitiriasis versicolor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify cells that connnect desmosomes  ",
+    "options": [
+      "Keratinocytes",
+      "Melanocytes",
+      "Dermis and epidermis ",
+      "Langerhans cells ",
+      "Merkel cells"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Determine what layer affects spongiosis",
+    "options": [
+      "Stratum spinosum ",
+      "Stratum basale",
+      "Stratum corneum",
+      "Stratum granulosum ",
+      "Stratum licudum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sweat glands of palm can be diffe rentiated from others by the following ",
+    "options": [
+      "Secretion stimulated by emotional stimuli ",
+      "Apocrine glands",
+      "High chloride content",
+      "Adrenergic mediators control the secretion "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Apocrine sweat glands are located in:",
+    "options": [
+      "Armpits",
+      "hairy part of head",
+      "lower leg region",
+      "in the area of the back of the hands",
+      "on the soles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eccrine sweat glands are located:",
+    "options": [
+      "throughout the skin",
+      "On the back of the brushes",
+      "in the rear foot",
+      "on the nails",
+      "on hair"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The sebaceous glands function:",
+    "options": [
+      "moisturizing",
+      "thermoregulatory",
+      "receptor",
+      "exchange",
+      "respiratory"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Long hair located in the area:",
+    "options": [
+      "head",
+      "Eye brow",
+      "about nail bed",
+      "sole",
+      "palms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bristly hair range:",
+    "options": [
+      "in the field of beard and mustache",
+      "in the nasal and auditory canal",
+      "in the eyebrow area",
+      "in the field of eyelashes",
+      "heads"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In addition to sweating, thermoregulation is performed using:",
+    "options": [
+      "Constriction or dilation of blood vessels",
+      "Taurus Fater Pacini",
+      "Sebecious  glands",
+      "Merkel cells",
+      "Ruffini corpuscle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year-old man consulted a dermatologist. Complaints of a rash on the back of the neck, soreness, fever, limitation of neck mobility. Has been ill for 2 weeks. Concomitant disease: Diabetes mellitus. Objectively: on the skin of the back of the neck there is an infiltrate of stagnant-cyanotic color, in the central part with multiple pustules and foci of skin necrosis. A purulent bloody fluid flows out of the fistulous openings. The patient has a body temperature of 39 ̊С, the submandibular, cervical lymph nodes are enlarged, painful. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "Carbuncle",
+      "Sycosis",
+      "Hydradenitis",
+      "Folliculitis",
+      "Ostiofolliculitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 26-year-old woman consulted a dermatologist. Complaints of sharp pain in the left axillary region. The disease began acutely 3 days ago. Suffers from increased sweating. Concomitant disease: Obesity II degree. On examination: in the left axillary region, there are several dense painful nodes, up to 1.8 cm in diameter, adhered to the skin, purple-red, conical in shape, with a defining fluctuation in the center. Body temperature 37.4 ̊С. In the clinical analysis of blood: leukocytes 13.8 x 10 g / l, ESR 18 mm / h. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "hydradenitis",
+      "Carbuncle",
+      "Furuncle",
+      "folliculitis",
+      "ostiofolliculitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 49-year-old man came to the clinic. Complaints of painful formation on the back of the neck, chills. Body temperature 38.5 ̊С. She has a history of hypothermia. Among the accompanying diseases: chronic gastritis, chronic colitis. On examination: the skin on the back of the neck is purple-red, hot to the touch, edematous, infiltrated. In the central part, it has several fistulous openings, from which thick pus with an admixture of blood and necrotic masses is released. On palpation, a sharp pain in the lesion. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "carbuncle ",
+      "sycosis",
+      "folliculitis",
+      "osteofolliculitis",
+      "hydradenitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman with a child of 8 years old applied to the doctor. Complaints about rashes in the corners of the mouth, pain. Anamnesis: frequent flue. Sick for a week. Objectively: in the corners of the mouth there are slit-like erosion, cracks surrounded by a corolla of exfoliated epidermis, covered with yellow crusts. Scraping on the mycelium of the fungus is negative. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "Slit impetigo",
+      "Staphylococcal impetigo",
+      "Streptococcal impetigo",
+      "Vulgar impetigo",
+      "Bullous impetigo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A man, 40 years old, applied to a dermatologist at the FMC. Complaints about a rash on the face in the area of ​​the mustache and beard. From the anamnesis he has been sick for a month. A concomitant disease is chronic gastritis. On examination: on the skin of the face in the area of ​​the beard and mustache against the background of hyperemia and infiltration, there are multiple scattered follicular papules and pustules, erosion, covered with purulent discharge and crusts, in places due to perifollicular inflammation, forming confluent foci covered with purulent crusts. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "vulgar sycosis",
+      "gangrenous pyoderma",
+      "Slit impetigo",
+      "lichen simplex",
+      "Vulgar impetigo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 32-year-old woman consulted a dermatologist. Complaints of eruptions accompanied by evening and nighttime itching. There are no associated diseases. Lives alone, two weeks ago she was visiting. On examination: on the skin of the trunk, especially on the anterolateral surfaces, around the nipples, on the upper and lower extremities, in the interdigital spaces there are numerous paired papules - vesicular elements, excoriation, bloody crusts. Symptoms of Cesari, Gorchakov are positive. Subjective: evening and nighttime itching. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "scabies ",
+      "eczema ",
+      "dermatitis ",
+      "psoriasis ",
+      "prurigo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "staphyloderma neonatal include:",
+    "options": [
+      "vesiculopustosis",
+      "exudative erythema",
+      "diathesis",
+      "lichen planus",
+      "pityriasis versicolor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sycosis is localized:",
+    "options": [
+      "in mustache and beard",
+      "on the skin of the hips",
+      "on the skin of the palms",
+      "on the scalp",
+      "on face"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the treatment of furunculosis, use:",
+    "options": [
+      "cephalosporins",
+      "cytostatics",
+      "Anabolic",
+      "anti-TB drugs",
+      "ACTG"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A carbuncle is:",
+    "options": [
+      "Damage to several hair follicles",
+      "single hair follicle",
+      "Lesion of the nail bed",
+      "Disease of sweat glands",
+      "PVHD"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "At the reception of a dermatologist a woman with her daughter 5 years old. Three days ago, after being bitten by mosquitoes and scratching, blisters began to appear on the girl's face, which quickly dried into crusts. Washing with hot soapy water caused an increase in rashes. Objectively: in the nasolabial folds, on the upper lip, cheeks and on the chin, there are single flat blisters with a thin lining and turbid contents, light yellow crusts. A preliminary diagnosis was made: Streptococcal impetigo. Which of the following drugs should be prescribed for external therapy?",
+    "options": [
+      "fucorsin",
+      "lamisil",
+      "exoderil",
+      "nizoral",
+      "zalain"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 60-year-old man went to the clinic. Complaints about a rash on the skin of the back of the neck, soreness. Has been ill for two weeks. Concomitant disease: Diabetes mellitus. On examination: an acute inflammatory infiltrate with many necrotic rods involving the underlying tissues, edema. In the center of the infiltrate, there are necrotic areas and fistulous openings with the release of pus mixed with blood. Diagnosed with Carbuncle. Which of the following is the most appropriate treatment?",
+    "options": [
+      "surgical ",
+      "physiotherapy ",
+      "phytotherapeutic",
+      "laser therapy ",
+      "phototherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 5-year-old man with a child applied to a dermatologist. Complaints about a rash in the groin - femoral, intergluteal folds. Stage II obesity. Objectively: multiple conflicts rapidly opening, forming weeping foci of bright pink color, with scalloped borders, linear cracks in the depths of the folds. The preliminary diagnosis: Intertriginous streptoderma. Which of the following is the most appropriate form in local patient care?",
+    "options": [
+      "powder",
+      "ointment ",
+      "paste",
+      "cream",
+      "varnish"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 24-year-old woman consulted a dermatologist at the clinic. Complaints about the appearance of rashes, accompanied by severe nighttime itching. Anamnesis - eczema. Two weeks ago she was in a sanatorium. On examination: in the interdigital folds of the hands, on the flexion surfaces of the wrist joints, elbows and abdomen, there are numerous papulo-vesicular elements, up to 3 - 4 mm in diameter, located in pairs, as well as point and linear excoriation, in the elbow area - punctate bloody crusts. Subjective: severe nighttime itching. Preliminary diagnosis: Scabies. Which of the following symptoms is typical for this disease?",
+    "options": [
+      "gorchakov",
+      "nikolsky",
+      "kebner",
+      "pilnov",
+      "sheklakov"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old man has consulted a dermatologist at the FMC. Complaints of a rash on the skin of the trunk, upper and lower extremities, accompanied by evening and nighttime itching. From the anamnesis 2 weeks ago he was visiting relatives. On examination: on the skin of the trunk, especially on the anterolateral surfaces, abdomen, upper and lower limbs, there are numerous paired papules - vesicular elements, scratches, bloody crusts. Subjective: evening and nighttime itching. When examining scrapings, a scabies mite was found microscopically. Diagnosis: Scabies. Which of the following drugs should be prescribed for external therapy?",
+    "options": [
+      "spregal",
+      "tridox",
+      "fenistil",
+      "akriderm",
+      "skinazole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 28-year-old woman turned to a dermatologist at the clinic. Complaints of itchy rash in the pubic area, which appeared a few days after intercourse. On examination: on the skin of the pubis and genitals, multiple grayish-brown points at the hair root, small, whitish, very dense nodules, as well as grayish-bluish spots, rounded outlines, up to 1 cm in diameter are determined. Preliminary diagnosis: Pubic lice. Which of the following drugs should be prescribed for external therapy?",
+    "options": [
+      "permethrin",
+      "tridox",
+      "sinaflan",
+      "akriderm",
+      "skinazole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Angular stomatitis is differentiated from:",
+    "options": [
+      "Surface candidosis of the corners of the mouth",
+      "With simple deprive",
+      "with turpiolem",
+      "with psoriasis",
+      "Simple dermatitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Turniol is:",
+    "options": [
+      "inflammation of the skin around the nail plate ",
+      "inflammation of the sebaceous glands",
+      "inflammation of the hair follicle",
+      "Inflammation of the red border of the lip",
+      "eye damage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Pityriasis versicolor is caused by:",
+    "options": [
+      "pityrosporum orbiculare",
+      "candida albicans",
+      "microsporum ferrugeneum",
+      "trichophyton rubrum",
+      "corinebacterium minutissimum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What kind of peeling is typical for multi-colored lichen?",
+    "options": [
+      "pityriasis ",
+      "small lamellar",
+      "flour like",
+      "large lamellar",
+      "leafy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What drugs are preferred for the treatment of superficial trichophytosis",
+    "options": [
+      "antifungal ",
+      "corticosteroid ",
+      "antiviral ",
+      "antibacterial ",
+      "keratolytic "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the treatment of microsporia, apply:",
+    "options": [
+      "fluconazole",
+      "ceftriaxone",
+      "ciprofloxacin",
+      "larotadine ",
+      "ursodex"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A mother with a 7-year-old child came to dermatologist. She discovered a patch of hair loss on the scalp. When viewed on the scalp, a lesion measuring 2 cm in diameter is determined, the hair seems to be \"sloppy cut\", at the level of 5-8 mm with grayish stumps; the skin peels off profusely, a zone of mild hyperemia is determined along the periphery of the focus. An emerald-green glow was detected during luminescence research. What is the most likely diagnosis?",
+    "options": [
+      "microsporia ",
+      "seborrhea",
+      "trichophytosis",
+      "alopecia ",
+      "favus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 40-year-old woman working as a milkmaid turned to an appointment with a dermatologist, complaining of painful elevations in the occiput. Objectively: in the occipital region on the scalp, acute inflammatory infiltrates sharply demarcated from the surrounding skin are determined, which noticeably rise above the skin level. The hair in the outbreak is stuck together due to the release of pus. With light tugging, the hair is easily pulled out. When the lesions are squeezed, pus is released from the hair follicles, the symptom of \"honeycomb\" is positive. What is the most likely diagnosis?",
+    "options": [
+      "trichophytosis",
+      "microsporia ",
+      "pediculosis",
+      "seborrhea",
+      "psoriasis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 20-year-old man, applied to the FMC  with complaints of rashes in the area of ​​the groin-femoral folds, minor itching. From the anamnesis - attends the sports section. Objectively: spots on the skin of the inguinal-femoral folds are brown in color with distinct ridge-like scalloped edges. On the periphery of the spots there are papulovesicular elements, in the center there are foci of hypopigmentation. Epidermophyton floccosum was found by laboratory. What is the most likely diagnosis?",
+    "options": [
+      "epidermophytisis of the inguinal folds",
+      "trichophytosis of smooth skin",
+      "flexion inverse psoriasis",
+      "candidiasis of inguinal folds",
+      "erythrasma of the groin area"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A mother with a 5-year-old child turned to a dermatologist with complaints of rashes on the skin of the child's trunk and limbs. From the anamnesis: a week ago he was at my grandmother's house and played with the cat. An objective examination revealed multiple rounded foci of various sizes, pale pink color, with fine-lamellar superficial peeling. The boundaries of the foci are clear, with a towering edematous ridge, consisting of small nodular and vesicular elements. Foci in the form of \"ring in a ring\" figures. Microsporum canis was found during research. Provide the most likely diagnosis",
+    "options": [
+      "microsporia",
+      "erythrasma",
+      "trichophytosis",
+      "eczema",
+      "psoriasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 24-year-old man came to see a doctor at the FMC with complaints of peeling of the scalp. On examination, the patient has a pronounced erythema of the skin, peeling, thinning hair. At the base of many hairs, rounded formations are determined, resembling an inverted saucer - scutula. Hair is dull, gray in color, reminiscent of an old chignon. In the centers of hair thinning, there are signs of cicatricial atrophy of the skin. An unpleasant \"mouse\" smell comes from the hair. What disease is such a picture typical for?",
+    "options": [
+      "favus of the scalp",
+      "seborrhea of the scalp",
+      "teichophytosis of the scalp",
+      "microsporia of the scalp",
+      "flexion inverse psoriasis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35-year-old woman consulted a dermatologist with complaints of skin lesions under the mammary glands, burning and slight itching. Objectively: a woman has dark red flushing foci with clear boundaries in the folds under the mammary glands. Erosion in the center of the folds is covered with a whitish coating, when removed, bright red erosive surfaces are exposed. There are small nodular elements along the periphery of the foci. From research identified Candida albicans. Diagnosis: Intertriginous candidiasis. What disease is differential diagnosis performed with?",
+    "options": [
+      "candidiasis",
+      "dermatitis ",
+      "eczema",
+      "psoriasis ",
+      "pruritus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When examining schoolchildren, a 14-year-old teenager showed rashes on the skin of his chest. Objectively: single spots of various configurations and sizes on the skin of the upper half of the body, yellowish-brown in color, reminiscent of the type of \"coffee with milk\", with pityriasis peeling on the surface. Balzer's iodine test is positive. Laboratory - found Pityrosporum orbiculare / What is the most likely diagnosis?",
+    "options": [
+      "pityriasis vesicolor",
+      "psoriasis vulgaris",
+      "pink lichen",
+      "disffuse neurodermatitis",
+      "skin itching"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old man consulted a local doctor with complaints of swelling, itching and soreness of the nail folds. Objectively: the nail plates are deformed, yellowish; when pressed from the side, droplets of pus protrude from under the rollers. The nail folds are edematous, brightly hyperemic. Microscopic examination revealed mycelium of the fungus. Diagnosis: Candidiasis of the nail plates. What medicines are prescribed for this diagnosis?",
+    "options": [
+      "antifungal",
+      "antihistamines",
+      "antiprotozoal",
+      "corticosteroid ",
+      "antibacterial "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A mother with a child of 9 years old, went to the clinic with complaints of hair loss in the child. Objectively: on the scalp, the lesions are located on the marginal zones, merging with each other. The inflammation is covered with asbestos-like scales. Hair is broken off at the level of 5-8 mm. The hair is dull, at the base is dressed in a white cover. In laboratory research, mycelium filaments were found. Diagnosis: Microsporia of the scalp. Which of the following drugs is preferable in the treatment of microsporia of the scalp",
+    "options": [
+      "terbizil",
+      "ceftriaxone",
+      "ciprofloxacin",
+      "ornidazole",
+      "Amoxicillin "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A mother with a child of 11 years old, went to the clinic with complaints of itching of the scalp and hair loss. Objectively: on the scalp, a lesion measuring 2 cm in diameter is determined, the hair appears to be \"carelessly cut\", broken off at the level of 5-6 mm, with grayish stumps, the skin is abundantly flaky, and a zone of slight hyperemia is determined along the periphery of the lesion. A luminescent study revealed a greenish glow. Diagnosis: Microsporia of the scalp. What disease is differential diagnosis performed with?",
+    "options": [
+      "trichophytosis",
+      "eczema ",
+      "seborrhea",
+      "alopecia",
+      "psoriasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eczema is:",
+    "options": [
+      "chronic inflammation over. skin layers, polymorphism of elements",
+      "chronic infectious skin inflammation",
+      "acute infectious inflammation of the skin",
+      "monomorphism of elements",
+      "Chronic inflammation of the connective tissue"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Secondary elements for true eczema:",
+    "options": [
+      "erosion",
+      "vegetation",
+      "ulcer",
+      "abrasion",
+      "lichenification"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Species of true eczema:",
+    "options": [
+      "idiopathic",
+      "Microbial",
+      "children",
+      "paratraumatic",
+      "ribbon-like"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most frequent localization of true eczema:",
+    "options": [
+      "palms and soles",
+      "mucous urethra",
+      "dried shells",
+      "Language",
+      "esophagus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Differential diagnostic criteria for true eczema:",
+    "options": [
+      "Symmetry of rash",
+      "presence of purulent ulcers",
+      "asymmetry of rash",
+      "Nikolsky positive symptom",
+      "presence of scars"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "To diagnostic criteria for prurginic eczema, include:",
+    "options": [
+      "papulovesicles on a tight base",
+      "Excessive oozing",
+      "symptom Sheklakova",
+      "Presence of pustules",
+      "the presence of vegetations"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "It is used locally for true eczema:",
+    "options": [
+      "solution of rivanol",
+      "Clotrimazole",
+      "Sol. Demyanovich",
+      "Mycosist",
+      "Corvalol"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Seborrheic eczema is differentiated from:",
+    "options": [
+      "Seborrheic dermatitis",
+      "Inguinal epidermophitia",
+      "syphilitic alopecia",
+      "neurodermatitis",
+      "Scabies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Against the background of what diseases | seborrheic eczema occurs:",
+    "options": [
+      "Fat seborrhea",
+      "Microbial Eczema",
+      "idiopathic eczema",
+      "Seborrheic baldness",
+      "Obesity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 27-year-old patient has turned to a dermatologist with complaints of rashes and itching in the feet. The disease is associated with a visit to the bath 2 weeks ago. Objectively: on the skin of the arch of the foot and its lateral surfaces, as well as the interdigital spaces against the background of erythema and swelling, there are flat bublles with a dense cover, resembling \"sago grains\", with peeling and thickening of the skin on the surface. The lesions on the periphery are surrounded by a border of exfoliating epidermis with small vesicles along the edge, there are cracks and weeping. What is the most likely diagnosis",
+    "options": [
+      "epidermophytosis of the feet",
+      "pityriasis versicolor",
+      "microbial eczema",
+      "psoriasis of nail",
+      "rubromycosis of feet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old man turned to a dermatologist  with complaints of multiple rashes in the chest area, which he associates with sunburn. Objectively: single spots of various configurations and sizes on the skin of the upper half of the body, yellowish-brown in color with pityriasis peeling on the surface. Balzer's iodine test is positive. Laboratory examination found Pityropsporum orbiculare. What is the most likely diagnosis?",
+    "options": [
+      "pityriasis versicolor",
+      "superficial trichophytosis",
+      "superficial microsporia ",
+      "psoriasis vulgaris",
+      "atopic dermatitis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 28-year-old man, applied to the FMC with complaints of rashes on the skin of the feet and toes and changes in the nail plates. From the anamnesis: he has been suffering from this disease for about 2 years, for the first time the rash appeared while serving in the army. Objectively: on the skin of the soles, there is marked infiltration, diffuse hyperemia, skin furrows with pronounced mucous peeling are clearly visible. The process captures the back and side surfaces of the feet and toes. All the nail plates on the skin of the feet are thickened, easily crumble, subungual hyperkeratosis is noted. A laboratory study found Trihophyton rubrum. What is the most likely diagnosis?",
+    "options": [
+      "rubrophytia of pedis",
+      "superficial microsporia ",
+      "superficial trichophytosis",
+      "epidermophytosis of the feet",
+      "erythrasma folds"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Apply the treatment for lichen planus on the oral mucosa",
+    "options": [
+      "corticosteroid ",
+      "antibiotics",
+      "cytostatics",
+      "antimalarial drugs",
+      "antifungal drugs "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Differentiate psoriasis with",
+    "options": [
+      "lichen planus",
+      "toxicoderma ",
+      "pemfigus vulgaris",
+      "scabies",
+      "pyodermia "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Apply the external treatment for lichen planus ",
+    "options": [
+      "corticosteroids ointments ",
+      "antibiotics ointments ",
+      "antifungal ointments ",
+      "antiviral ointments ",
+      "sun block cream"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Apply the treatment for psoriasis reabilitation stage",
+    "options": [
+      "emolient ",
+      "antibiotics cream ",
+      "keratolitic ointment",
+      "corticosteroid ointment ",
+      "antifungal ointment "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Apply diagnostic test for psoriasis",
+    "options": [
+      "auspith triad ",
+      "balcar test ",
+      "wood lamp",
+      "microscopic examination ",
+      "Yadasson test "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Apply diagnostic test for lichen planus",
+    "options": [
+      "Wickham mash",
+      "wood lamp",
+      "microscopic examinaion ",
+      "balcar test ",
+      "Yadasson test "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mr. Johnson presents with chronic itching all over his body, particularly on his arms, legs, and back. The itching has been ongoing for several months and is affecting his quality of life. He describes the itch as bothersome and constant, leading to sleep disturbances and irritability. There are no visible skin lesions or rash noted upon examination. Medical History:  Mr. Johnson has a history of hypertension and osteoarthritis. He is on medication for both conditions and denies any recent changes in his medications. There is no known history of allergies or skin conditions. His past medical history is significant for a mild case of eczema in his.What will be the diagnosis and treatment",
+    "options": [
+      "senile pruritis ; Emollients & topical corticosteroids",
+      "Leprosy ; dapsone",
+      "syphillis ; rifampicin",
+      "Multiform exudative erythmea; hydrocortisone cortisone",
+      "Dermophagism"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the pathohistological sign of pemphigus",
+    "options": [
+      " acantolysis                        ",
+      " Hyperkeratosis",
+      " acanthosis",
+      " spongiosis",
+      " parakeratosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Name the pathological cells in pemphigus:",
+    "options": [
+      " Tzanck cells      ",
+      " LE cells",
+      " Merkel cells",
+      " spiny cells",
+      " Meissner cells"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the element in the vegetative form of pemphigus:",
+    "options": [
+      " erosion   ",
+      " nodule",
+      " ulcer",
+      " abrasion",
+      " Lichenification"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify with which disease bullous pemphigoid should be differentiated:",
+    "options": [
+      " Duhring's dermatitis    ",
+      " eczema",
+      " neurodermatitis",
+      " scabies",
+      " psoriasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the clinical sign in Duhring's dermatitis:",
+    "options": [
+      " polymorphic symmetrical rashes    ",
+      " scarring",
+      " spots",
+      " monomorphic asymmetrical rashes",
+      " vegetations"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "select the first-line treatment for mild to moderate atopic dermatitis in children and adults?",
+    "options": [
+      "Topical corticosteroids",
+      "Oral antihistamines",
+      "Topical calcineurin inhibitors",
+      "Oral corticosteroids",
+      "Phototherapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Determine the pathomorphologic sign of the Nicolsky symptom in pemphigus vulgaris:",
+    "options": [
+      " acantholysis                    ",
+      " parakeratosis",
+      " acanthosis",
+      " spongiosis",
+      " granulosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Determine the condition of the skin around the blisters in pemphigus:",
+    "options": [
+      " not changed                        ",
+      " hyperemic",
+      " infiltrated",
+      " tinged with purple",
+      " has a pronounced skin pattern"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Determine in which disease corticosteroid therapy should be used:",
+    "options": [
+      " true pemphigus          ",
+      " herpes simplex",
+      " Rubromycosis                   ",
+      " candidiasis",
+      " furunculosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Determine what happens to the blister in Nikolsky's symptom:",
+    "options": [
+      " increases in size   ",
+      " burst",
+      " crusts over",
+      " painful",
+      " bleeds"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Determine in which disease Nikolsky's symptom is sharply positive:",
+    "options": [
+      " pemphigus  ",
+      " neurodermatitis",
+      " Duhring's dermatitis",
+      " eczema",
+      " psoriasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with a sharply demarcated, erythematous, and edematous rash with vesicles and weeping, following exposure to a new skincare product. choose the correct   diagnosis?",
+    "options": [
+      " Allergic contact dermatitis",
+      "Irritant contact dermatitis",
+      "Atopic dermatitis",
+      "Seborrheic dermatitis",
+      "Nummular dermatitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Select a disease from the collagenosis group:",
+    "options": [
+      " scleroderma ",
+      " rosacea",
+      " psoriasis",
+      " scrofuloderma",
+      " acne"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the pathohistological phenomena responsible for the Benier-Meschersky symptom in lupus erythematosus:",
+    "options": [
+      " follicular hyperkeratosis  ",
+      " acantholysis",
+      " granulosis",
+      " acanthosis",
+      " parakeratosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the definition of the symptom \"lady's heel\":",
+    "options": [
+      " the presence of horny spines under the scales     ",
+      " the presence of horny spines on the surface of the scales",
+      " a pattern on the skin that resembles a heel",
+      " a sensation of pain when the scales are removed",
+      " thickening of the skin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify what is a symptom of Benier-Meschersky :",
+    "options": [
+      " painfulness when the scales are removed    ",
+      " the presence of spikes under the scales",
+      " the presence of desquamation in the centre of the lesion",
+      " the appearance of infiltrative plaques",
+      " lichenification of the skin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the localisation of discoid lupus erythematosus:",
+    "options": [
+      " face     ",
+      " back",
+      " neck",
+      " scalp",
+      " palms and feet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a typical characteristic of psoriasis?",
+    "options": [
+      "Involvement of only the palms and soles",
+      "Silvery scales",
+      "Well-demarcated erythematous plaques",
+      "Pustules filled with clear fluid",
+      "Auspitz sign (pinpoint bleeding upon removal of scales)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the primary  symptom of discoid lupus erythematosus:",
+    "options": [
+      " erythema ",
+      " papular infiltration",
+      " vegetation",
+      " mottling",
+      " follicular pustule"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Determine what causes the Benier-Meschersky symptom in discoid lupus erythematosus:",
+    "options": [
+      " densely seated scales    ",
+      " vasodilatation",
+      " exudation",
+      " atrophy",
+      " hyperkeratosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Determine the stage of development of scleroderma:",
+    "options": [
+      " edema     ",
+      " infiltration",
+      " erosion",
+      " vegetation",
+      " lichenification"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " State the clinical sign of limited scleroderma:",
+    "options": [
+      " a rounded spot with a lilac rim around the periphery   ",
+      " multiple white patches",
+      " erythematous spots",
+      " spot with desquamation",
+      " nodule"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Prescribe treatment for scleroderma:",
+    "options": [
+      " hyaluronidase    ",
+      " analgesics",
+      " antihistamines",
+      " corticosteroids",
+      " antibiotics"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Choose the following  characteristic feature of pityriasis rosea lesions?",
+    "options": [
+      "Wickham striae",
+      "Central umbilication",
+      "Targetoid appearance",
+      "Koebner phenomenon",
+      "Psoriasiform scales"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Select the most common age group affected by pityriasis rosea?",
+    "options": [
+      "Adolescents and young adults",
+      "Infants",
+      "Middle-aged adults",
+      "Elderly",
+      "All age groups are equally affected"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the disease with which you would differentiate seborrhoeic eczema",
+    "options": [
+      " seborrheic dermatitis                       ",
+      " Inguinal epidermophitia",
+      " syphilitic alopecia",
+      " neurodermatitis",
+      " Scabies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Indicate the background of which disease seborrheic eczema occurs:",
+    "options": [
+      " Fat seborrhea                       ",
+      " Microbial Eczema",
+      " idiopathic eczema",
+      " Seborrheic baldness",
+      " Obesity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the morphological feature of seborrhoeic eczema",
+    "options": [
+      " erythematous stains with fatty scales            ",
+      " papulovesicles with sulfur-purulent crusts",
+      " Papulovesicles with serous contents",
+      " erosion with serous crusts",
+      " Ulcers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the typical localisation of seborrhoea:",
+    "options": [
+      " face, scalp, back, chest    ",
+      " palms and soles",
+      " upper and lower extremities",
+      " external genitalia",
+      " inguinal area, buttocks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Choose among  the following  commonly used topical treatment for localized lichen planus?",
+    "options": [
+      "Topical calcineurin inhibitors",
+      "Oral corticosteroids",
+      "Systemic retinoids",
+      "Oral antifungal agents",
+      "Oral antihistamines"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the localisation of seborrheic eczema",
+    "options": [
+      " skin of head     ",
+      " nails",
+      " soles",
+      " palms",
+      " sex organs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the disease with which you would differentiate seborrhoeic eczema",
+    "options": [
+      " seborrheic dermatitis                       ",
+      " Inguinal epidermophitia",
+      " syphilitic alopecia",
+      " neurodermatitis",
+      " Scabies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the common localisation of seborrhoeic eczema:",
+    "options": [
+      " sebaceous glands    ",
+      " sweat glands",
+      " hair",
+      " nails",
+      " palms and soles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the morphological feature of seborrhoeic eczema",
+    "options": [
+      " erythematous stains with fatty scales            ",
+      " papulovesicles with sulfur-purulent crusts",
+      " Papulovesicles with serous contents",
+      " erosion with serous crusts",
+      " Ulcers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the typical localisation of seborrhoea:",
+    "options": [
+      " face, scalp, back, chest    ",
+      " palms and soles",
+      " upper and lower extremities",
+      " external genitalia",
+      " inguinal area, buttocks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the primary morphological element of herpes simplex virus:",
+    "options": [
+      " vesicle",
+      " pustule",
+      " papule",
+      " nodule",
+      " spot"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the clinical signs in herpes simplex:",
+    "options": [
+      " a burning sensation       ",
+      " a feeling of numbness",
+      " an increase in blood pressure",
+      " dysuria",
+      " diarrhoea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the characteristics of the herpes zoster rash:",
+    "options": [
+      " located along nerve endings ",
+      " vesicles are not tense",
+      " blisters are flaccid",
+      " rashes are covered with scales",
+      " no rash"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the group of diseases to which herpes zoster belongs:",
+    "options": [
+      " viral        ",
+      " bacterial",
+      " fungal ",
+      " autoimmune",
+      " genetic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the clinical form of herpes zoster:",
+    "options": [
+      " haemorrhagic        ",
+      " hypertrophic",
+      " ring-shaped",
+      " Nummular",
+      " lenticular"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the clinical form of herpes zoster:",
+    "options": [
+      " necrotic       ",
+      " papular",
+      " lichenoid",
+      " erythrodermic",
+      " scaly"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the differential diagnosis of herpes simplex with which disease:",
+    "options": [
+      " pemphigus vulgaris",
+      " urticaria",
+      " Duhring's dermatitis",
+      " flat warts",
+      " molluscum contagiosum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "At  a  dermatologist's  appointment,  a  30-year-old  man  complained  of  recurring  painful rashes on the red border of the lips, accompanied by burning. From the anamnesis: exacerbations of the  disease  occur  more  than  6  times  a  year.  Locally:  on  the  red  border  of  the  lips  against  the background of erythema and edema, there are grouped vesicular elements with serous contents, individual elements form surface erosions covered with crusts. Which of the following diagnoses is the most likely? ",
+    "options": [
+      "  Labial herpes   ",
+      "  Viral warts ",
+      "  Streptococcal impetigo ",
+      "  Allergic dermatitis ",
+      "  Candidal stomatitis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A man, 30 years old, consulted a doctor with complaints of frequent urination. From the anamnesis:  a  week  ago  there  was  an  unprotected  intercourse  with  an  unfamiliar  woman. Objectively: hyperemia, edema of the mucous membrane of the external  opening of the urethra, infiltration  of  the  urethral  sponges,  mucous  discharge.  M.  Genitalium  was  detected  by  PCR diagnostics. Which of the following diagnoses is the most likely? ",
+    "options": [
+      "  Mycoplasma infection   ",
+      "  Chlamydial infection ",
+      "  Trichomonas infection ",
+      "  Gonorrheal infection ",
+      "  Genitourinary candidiasis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An 18-year-old girl came to the doctor's office with complaints of rashes in the genital area, accompanied by soreness, burning, itching. From the anamnesis: she had ARVI a week ago, she did not  use  any  medications.  Locally:  against  the  background  of  erythema  and  edema,  there  are grouped vesicular elements with serous and serous-purulent contents, crusts and ulceration. Which of the following is the most likely diagnosis? ",
+    "options": [
+      "  Genital herpes   ",
+      "  herpes zoster",
+      "  Viral warts ",
+      "  Molluscum contagiosum ",
+      "  Ecthyma ordinary "
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A mother with a 13-year-old child turned to a dermatologist with complaints of rashes on her arms. From the anamnesis: noticed a rash a week ago. Objectively: on the dorsum of the hands, hemispherical, dense nodules, rising above the skin, 3 to 5 mm in diameter, with a rough granular surface, having irregular outlines. Which of the preliminary diagnoses is the most likely? ",
+    "options": [
+      "  Youthful warts   ",
+      "  Molluscum contagiosum ",
+      "  Contact dermatitis ",
+      "  Staphylococcal impetigo ",
+      "  Pigmented nevus "
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 45-year-old woman consulted a doctor with complaints of severe dull pains and rashes in the  back,  general  malaise.  Anamnesis:  a  week  before  the  rash,  she  had  a  sore  throat,  low-grade fever,  pain  and  burning  along  the  intercostal  nerves.  Objectively:  unilateral  lesion  along  the intercostal nerves on the right - grouped vesicles are linearly located, with serous-purulent contents on an erythematous, slightly edematous base. Which of the following diagnoses is the most likely? ",
+    "options": [
+      "  Herpes zoster ",
+      "  Herpes simplex ",
+      "  Pemphigus vulgaris ",
+      "  Molluscum contagiosum ",
+      "  Allergic dermatitis "
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the causative agent of syphilis?       ",
+    "options": [
+      "  Treponema pallidum",
+      "  Neisseria gonorrhoeae",
+      "  Chlamydia trachomatis",
+      "  Helicobacter pylori",
+      "  Candida albicans"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the primary route of transmission of the causative agent of syphilis?     ",
+    "options": [
+      "  sexual ",
+      "  household contact",
+      "  transmissive",
+      "  transfusion",
+      "  transplacental"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 24-year-old patient came to the FMC for an appointment with a doctor complaining of the appearance of a sore on the glans penis, which has already lasted for 10 days. From the anamnesis, it was possible to find out that he had sexual intercourse with an unfamiliar woman. Objectively: in the area of ​​the coronal groove there is a round ulcer, the edges are even, the bottom is smooth, the size is 1.5x2.0 cm. Pale treponema was found in the material taken from the ulcer. DAC is negative. What is the most likely diagnosis?",
+    "options": [
+      "   Syphilis primary seronegative",
+      "   Syphilis primary seropositive ",
+      "    Syphilis secondary fresh",
+      "   Syphilis secondary recurrent",
+      "    Syphilis tertiary active"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 24-year-old patient turned to a dermatovenerologist in a private clinic with complaints of ulcers on the glans penis, as well as swelling in the right iliac region. Anamnesis revealed that he had sexual contact with one woman for 2 months. Objectively: there is a sore on the head of the penis, measuring 1x1 cm, the edges are even, the bottom is varnished. The right lymph node in the iliac region is enlarged to a walnut, painless and dense in consistency. DAC (++++) is sharply positive. What is the most likely diagnosis?",
+    "options": [
+      "   Syphilis primary seropositive ",
+      "   Syphilis secondary recurrent",
+      "    Syphilis primary seronegative ",
+      "   Syphilis secondary fresh",
+      "    Syphilis tertiary active"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 26-year-old patient consulted a dermatovenerologist with complaints of hair loss and the appearance of white spots on the back of the neck. Before that, I noted rashes on the skin of the trunk, which, as suddenly appeared, just as suddenly disappeared. Not married, promiscuous in sexual contacts. DAC (++++) is sharply positive. Objectively: there is a small focal hair loss, depigmented spots on the back of the neck, similar to a specific leukoderma. What diagnosis can be suspected in the patient?",
+    "options": [
+      "   Syphilis secondary recurrent",
+      "   Syphilis primary seronegative ",
+      "    Syphilis secondary fresh",
+      "   Syphilis tertiary active",
+      "    Syphilis late latent"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " During a preventive examination in a antenatal clinic, in a pregnant woman at a period of 3 months, the DAC is sharply positive (++++). On examination: the skin is clean. An ulcer was found on the cervix, measuring 1.5x1.5 cm. Inguinal lymph nodes are enlarged on both sides. The husband was diagnosed with secondary recurrent syphilis. What is the most likely diagnosis?",
+    "options": [
+      "    Syphilis primary seropositive ",
+      "   Syphilis primary seronegative",
+      "    Secondary early syphilis",
+      "   Syphilis secondary late",
+      "    Syphilis late latent "
+    ],
+    "answer": 0
+  },
+  {
+    "question": " During a preventive examination in a antenatal clinic, in a pregnant woman at a period of 3 months, the DAC is sharply positive (++++). On examination: the skin is clean. An ulcer was found on the cervix, measuring 1.5x1.5 cm. Inguinal lymph nodes are enlarged on both sides. The husband was diagnosed with secondary recurrent syphilis. What is the most likely diagnosis?",
+    "options": [
+      " Syphilis primary seropositive ",
+      " Syphilis primary seronegative",
+      " Secondary early syphilis",
+      " Syphilis secondary late",
+      " Syphilis late latent"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 26-year-old patient consulted a doctor at the FMC for a rash in the anus. He thought hemorrhoids, treated himself with various ointments, applied ichthyol suppositories. Minor improvements. Before that, he noticed the appearance of reddish spots on the skin of the trunk. Objectively: there are single, numbered papules on the skin of the abdomen and back. De-pigmentation with a marble tint is noticeable on the skin of the neck. In the area of ​​the anus, extensive wide condylomas. Not married, not sexually choosy. DAC is sharply positive. Which of the following diagnoses is the most likely?",
+    "options": [
+      " Syphilis secondary late",
+      " Syphilis latent ",
+      " Syphilis primary seronegative",
+      " Syphilis tertiary active",
+      " Syphilis secondary early syphilis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the method of diagnosis of primary syphilis?               ",
+    "options": [
+      "  Dark-field microscopy",
+      "  General blood test",
+      "  Ultrasound examination of lymph nodes",
+      " Lymph node biopsy",
+      "  Histological examination of the biomaterial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old patient turned to a dermatovenerologist with complaints of rashes in the area of ​​the skin of the palms and soles. Not socially adapted, not picky about sexual relations. Objectively: on the skin of the palms and soles there are papules of rounded outlines measuring 1.5x1.5 cm, depigmented spots in the back of the neck. What laboratory tests need to be performed to establish a diagnosis?",
+    "options": [
+      "   Serological",
+      "   Histological",
+      "    Biochemical",
+      "    Cytological",
+      "    Bacterioscopic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 23-year-old female patient consulted a doctor with complaints of discomfort when swallowing and enlarged tonsils. From the anamnesis it was found out that he leads a promiscuous sex life. Objectively: the tonsil is larger on the right, copper-red, swollen. The submandibular lymph node on the right is enlarged to the size of a bean. What laboratory tests are required to clarify the diagnosis?",
+    "options": [
+      "   Serological",
+      "    Bacteriological",
+      "    Histological",
+      "   Cytological",
+      "    Biochemical"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old patient came to the doctor's office with complaints of swelling and pain in the glans penis, which appeared two days ago. He is married and has a child. Often on a business trip for work. Objectively: the skin of the glans penis is hyperemic, edematous, the ulcer is in the epithelial stage. Inguinal lymph nodes are enlarged on both sides. DAC is negative. Pale treponema was found in the material from the ulcer. Diagnosed with primary seronegative syphilis. What antibiotic is recommended in the treatment of this patient?",
+    "options": [
+      "   Doxycycline",
+      "    Spectinomycin",
+      "    Levomycentin",
+      "   Tsiprobay",
+      "    Gentamicin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " In the FMC, a 25-year-old woman turned to a dermatovenerologist who had repeated sexual contact with a man she knew who was diagnosed with syphilis. The last contact was 2 months ago. Objectively: the skin and visible mucous membranes are free of rashes. The inguinal lymph nodes are not enlarged. Serological tests are negative. Preventive treatment was prescribed. What antibiotic is most indicated in this case?",
+    "options": [
+      " Extensillin",
+      " Spectinomycin",
+      " Levomycentin",
+      " Gentamicin",
+      " Ciprofloxacin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 22-year-old patient turned to a dermatovenerologist with complaints of rashes in the area of ​​the skin of the palms and soles. Not socially adapted, not picky about sexual relations. Objectively: on the skin of the palms and soles there are papules of rounded outlines measuring 1.5x1.5 cm, depigmented spots in the back of the neck. What laboratory tests need to be performed to establish a diagnosis?",
+    "options": [
+      " Serological",
+      " Histological",
+      " Biochemical",
+      " Cytological",
+      " Bacterioscopic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 23-year-old female patient consulted a doctor with complaints of discomfort when swallowing and enlarged tonsils. From the anamnesis it was found out that he leads a promiscuous sex life. Objectively: the tonsil is larger on the right, copper-red, swollen. The submandibular lymph node on the right is enlarged to the size of a bean. What laboratory tests are required to clarify the diagnosis?",
+    "options": [
+      " Serological",
+      " Bacteriological",
+      " Histological",
+      " Cytological",
+      " Biochemical"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient A., 49 years old, came to the FMC to a dermatovenerologist with complaints of an unhealed ulcer of the right leg, which appeared about two months ago. Earlier, before the appearance of the ulcer, he noticed rashes on the trunk, which periodically appeared and disappeared. Objectively: an ulcer is visible 2 - 3 cm in size, the discharge is insignificant, sticky, viscous in nature, similar to gum arabic (juice of an African tree). DAC is weakly positive (++). What diagnosis can you think of? ",
+    "options": [
+      "   Syphilis tertiary",
+      "   Syphilis secondary",
+      "    Syphilis primary ",
+      "   Syphilis unspecified",
+      "    Syphilis early"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Indicate at what age tertiary syphilis is diagnosed",
+    "options": [
+      " 4-5 years",
+      " 1-2 months",
+      " 1-2 years",
+      " 1-3 days",
+      " 15-20 years"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the primary morphological element in tertiary syphilis:",
+    "options": [
+      " tuberclum",
+      " spot",
+      " papulae",
+      " roseola",
+      " pustulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A child at the age of 4 months was admitted to the children's department with rashes on the skin of the trunk and limbs. The mother was diagnosed with secondary fresh syphilis. Objectively: on the skin of the limbs and buttocks there is a maculopapular rash, weeping papules around the mouth and anus. DAC is sharply positive. What is the most appropriate preliminary diagnosis?",
+    "options": [
+      "   Syphilis congenital early",
+      "    Syphilis congenital late ",
+      "    Syphilis secondary recurrent",
+      "   Syphilis secondary fresh",
+      "    Syphilis primary seropositive"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the period of time from the time of infection after which early latent syphilis can be diagnosed :",
+    "options": [
+      " less than one year     ",
+      " four weeks",
+      " more than two years",
+      " more than three years",
+      " more than 4 years"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the clinical symptom of early congenital syphilis in children aged 1 to 2 years:",
+    "options": [
+      " broad condylomas  ",
+      " diffuse papular infiltration of Gohsinger's papules",
+      " syphilitic vesicles",
+      " syphilitic rhinitis",
+      " parenchymatous keratitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Determine the sign of bone involvement in early congenital syphilis:",
+    "options": [
+      " Osteochondritis   ",
+      " osteomyelitis",
+      " periostitis",
+      " monoarthritis",
+      " Polyarthritis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the infectious biomaterial from a pregnant woman with syphilis:",
+    "options": [
+      " breast milk  ",
+      " urine",
+      " sweat",
+      " faeces",
+      " Tears"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Identify the symptom of early congenital syphilis:",
+    "options": [
+      " syphilitic rhinitis   ",
+      " a patchy rash of the skin of the torso",
+      " papular rash of the skin of the trunk",
+      " syphilitic alopecia",
+      " syphilitic vesicles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify a reliable sign of fetal syphilis:",
+    "options": [
+      " osteoperiostitis",
+      " myocarditis",
+      " hepatitis",
+      " pneumonia",
+      " meningitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the diagnostic examination in the recognition of aortic aneurysm of syphilitic genesis:",
+    "options": [
+      " Radiological   ",
+      " auscultatory",
+      " percussion",
+      " serological",
+      " clinical"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Provide a definition of non-sterile infectious immunity in syphilis:",
+    "options": [
+      " resistance to new infection as long as the pathogen remains in the patient's organism  ",
+      " the inability of a person who has been cured of syphilis to become infected with it again",
+      " the possibility of a syphilis patient to be re-infected by additional exposure to the causative organism",
+      " more severe course in case of repeated infection",
+      " persistent immunity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify which mucous membrane lesions are most characteristic of congenital syphilis of infancy:",
+    "options": [
+      " nose  ",
+      " mouth",
+      " pharynx",
+      " genitalia",
+      " Conjunctiva"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the favourite localisation of rashes in syphilitic vesicular vesicles",
+    "options": [
+      " palms and soles  ",
+      " seborrhoeic area",
+      " trunk",
+      " genitalia",
+      " everywhere on the skin cover"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the infectious form of syphilis:",
+    "options": [
+      " early latent  ",
+      " late latent",
+      " tertiary active",
+      " tertiary latent",
+      " Neurosyphilis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify in which period of pregnancy changes in the internal organs of the foetus caused by syphilitic infection are observed:",
+    "options": [
+      " 5th month ",
+      " 2-3 months ",
+      " 7th month ",
+      " 6th month",
+      " Month 8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient G., aged 52 years, came to the polyclinic to see a dermatologist about rashes in the left hip joint, which appeared 3-4 weeks ago. Subjectively: she was bothered by pains in her legs. Previously she had noticed rashes on the skin of the trunk, palms and soles. According to the patient, they spontaneously appeared and disappeared. Objective: on the inner surface of the left thigh there are grouped bumps dense to the touch, the size of a pea. Presumptive diagnosis: tubercle syphilis. What investigation should be performed to clarify the diagnosis?",
+    "options": [
+      "Serological",
+      "Histological ",
+      "Bacteriological ",
+      "Biochemical",
+      "Bacterioscopic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the causative agent of gonorrhea",
+    "options": [
+      " gonococcus",
+      " Trichomonas vaginalis",
+      " staphylococcus",
+      " streptococcus",
+      " Gardnerella vaginalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old woman turned to a venereologist with complaints of profuse leucorrhoea with an unpleasant odor that arose after an acute respiratory infection. Previously, such pathological vaginal discharge did not bother the patient. The result of microscopy of a vaginal smear stained according to Gram: leukocytes - 8-10, moderate microflora, single lactobacilli, “key cells” were found. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "   Bacterial vaginosis",
+      "   Trichomonas vaginitis",
+      "    Candidal vaginitis",
+      "    Gonorrheal endocervicitis",
+      "    Chlamydial cervicitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A woman of 27 years old, suffering from secondary infertility, complains of profuse leucorrhoea, periodically frequent urination. When viewed in the mirrors, the cervix is ​​eroded, hyperemic, mucopurulent discharge from the cervical canal. The body of the uterus and appendages are not enlarged, painless on palpation. The vaults are free. In a smear up to 40-50 leukocytes, abundant coccal flora, key cells, gardnerella were found, Trichomonas and diplococci were not found. Which of the following preliminary diagnoses is the most likely?",
+    "options": [
+      "   Bacterial vaginosis",
+      "   Candidal vaginitis",
+      "    Gonorrheal endocervicitis",
+      "   Trichomonas vaginitis",
+      "    Chlamydial cervicitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the complication of male gonorrhoea characterised by dense swollen masses on the urethral surface of the penis:",
+    "options": [
+      " lymphangitis",
+      " cavernitis",
+      " colliculitis",
+      " stricture",
+      " Epididymitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the incorrect symptom of trichomoniasis in women:",
+    "options": [
+      " acute condylomas on the large and small labia and around the anus.",
+      " hyperaemia and swelling of the vulvar and vaginal mucosa;",
+      " yellow-green liquid frothy discharge from the vagina with an unpleasant odour;",
+      " erosive and ulcerative lesions of the mucous membrane of the external genitalia and/or skin of the inner surface of the thighs;",
+      " petechial haemorrhages on the mucous membrane of the vaginal part of the cervix (\"strawberry\" cervix);"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the incorrect complication of trichomoniasis in women:",
+    "options": [
+      " cervical cancer.",
+      " salpingoophoritis.",
+      " endometritis",
+      " pelvio-peritonitis.",
+      " cystitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify which group of microorganisms vaginal gardnerella belongs to:",
+    "options": [
+      " gram-variable coccobacillus forms of microorganisms",
+      " gram-negative coccobacilli",
+      " gram-variable coccobacilli",
+      " gram-positive coccobacterial forms of microorganisms",
+      " gram-positive bacillary forms of microorganisms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the localisation of urogenital trichomonads in women:",
+    "options": [
+      " in all genitourinary organs and the ampulla of the rectum",
+      " urethra, vagina, vagina, cervix",
+      " vagina, cervix, uterus.",
+      " urethra, vagina, ampulla of rectum."
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the main clinical sign of eye damage in gonorrhea:",
+    "options": [
+      " conjunctivitis",
+      " blepharitis",
+      " cataract",
+      "4 glaucoma",
+      " retinal detachment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30-year-old woman turned to a venereologist for a preventive examination. Anamnesis: casual sexual intercourse six days ago. Complaints about minor discharge. During a gynecological examination: the external genital organs and vaginal mucosa without signs of inflammation, the internal genital organs without pathology. What research should be assigned to make a diagnosis?",
+    "options": [
+      "   PCR",
+      "   CSR",
+      "    IEA",
+      "   SIF",
+      "    RIF"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 30-year-old woman turned to the polyclinic of the dermatovenerologic dispensary with complaints of moderate, homogeneous, sticky, grayish-whitish vaginal discharge, with an unpleasant smell of “rotten fish”. On examination: the walls of the vagina are moderately hyperemic, covered with grayish-whitish discharge. “Key” cells were found in smears. Diagnosis: Bacterial vaginosis. Which test confirms the diagnosis?",
+    "options": [
+      "   Amine",
+      "    Urease",
+      "    Salbutomach",
+      "   Glycemic",
+      "    Lepromine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 36-year-old woman turned to a venereologist for a preventive examination. Complaints about discharge, burning. When viewed in mirrors: the cervix is ​​cylindrical, mucous discharge, foamy, gray with an unpleasant odor. When conducting a bimanual study, pathology from the internal genital organs was not detected. According to microscopic examination, “key cells” were found in vaginal smears. Preliminary diagnosis: Bacterial vaginosis. What drug should be prescribed?",
+    "options": [
+      "    Clindamycin",
+      "   Acyclovir",
+      "    Valacyclovir",
+      "   Diazolin",
+      "    Diclofenac"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify an ineffective treatment regimen for uncomplicated gonorrhoea:",
+    "options": [
+      " kanamycin 2 g orally once a month",
+      " ceftriaxone 250 mg intravenously once a day",
+      " spectinomycin 2 g once a day/m",
+      " cefixime 400 mg once orally",
+      " doxycycline 100 mg 2 times a day for 7 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify an ineffective treatment regimen for trichomoniasis:",
+    "options": [
+      " metronidazole 250 mg orally 2 times a day for 14 days ",
+      " metronidazole 500 mg orally 2 times a day for 7 days",
+      " metronidazole 2 g orally once a day",
+      " tinidazole 2 g orally once a day",
+      " metronidazole 250 mg 4 times a day for 7 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify an ineffective localisation for gonorrhoea testing:",
+    "options": [
+      " from the posterior vaginal vault",
+      " urethral secretion",
+      " from the cervical canal",
+      " from the back of the pharynx",
+      " ocular secretions"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the drug of choice in the treatment of gonorrhoea:",
+    "options": [
+      " ceftriaxone",
+      " penicillin",
+      " tetracycline",
+      " metronidazole",
+      " Erythromycin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the causative agent of urogenital chlamydia",
+    "options": [
+      " Chlamydia trachomatis",
+      " Trichomonas vaginalis",
+      " Gardnerella vaginalis",
+      " gonococcus",
+      " Helicobacter pylori"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Choose the group of the causative agent chlamydia trachomatis",
+    "options": [
+      " bacteria",
+      " viruses",
+      " helminths",
+      " protozoa",
+      " fungi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old woman turned to a dermatovenerologist with complaints of soreness during intercourse, pulling pains in the lower abdomen, frequent painful urination. From the anamnesis: the sexual partner had discharge of a mucopurulent character. Barrier contraception is not used. Objectively: swelling and hyperemia of the mucous membrane of the cervix, mucopurulent discharge from the cervical canal. C. trachomatis was found by PCR diagnostics. Which of the following infections is most commonly associated with this pathogen?",
+    "options": [
+      "   Gonorrheal",
+      "   Trichomonas",
+      "    Gardnerella",
+      "   Staphylococcal",
+      "    Streptococcal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A man, 34 years old, turned to a dermatovenerologist with complaints of scanty mucous discharge from the urethra, pain and burning sensation when urinating. From the anamnesis: has been ill for a week. Objectively: the sponges of the urethra are hyperemic and edematous, mucopurulent discharge. Which of the verified diagnostic methods will make the diagnosis possible?",
+    "options": [
+      "   Polymerase chain reaction",
+      "   Complete blood count",
+      "    General urine analysis",
+      "   Bacteriological inoculation method",
+      "    A complex of serological reactions"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the most detectable localization of the chlamydia pathogen in a newborn baby:",
+    "options": [
+      " mucous membrane of the posterior pharyngeal wall",
+      " nasal mucosa",
+      " external auditory canal",
+      " inguinal fold",
+      " umbilical cord"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify which disease is characterized by \"contact\" bleeding during the intermenstrual period in women:",
+    "options": [
+      " urogenital chlamydia",
+      " urogenital trichomoniasis",
+      " gonorrhea",
+      " urogenital candidiasis",
+      " bacterial vaginosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Use the main group of drugs in the treatment of urogenital chlamydia for children under 12 years of age and pregnant women",
+    "options": [
+      " macrolides",
+      " tetracyclines",
+      " cephalosporins",
+      " penicillins",
+      " antimalarial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Choose the symptom of Reiter's disease:",
+    "options": [
+      " arthritis",
+      " gastritis",
+      " myocarditis",
+      " pyelonephritis",
+      " colitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Choose the symptom of Reiter's disease:",
+    "options": [
+      " urethritis",
+      " gastritis",
+      " myocarditis",
+      " pyelonephritis",
+      " colitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the group of drugs that is not used in the treatment of Reiter's disease:",
+    "options": [
+      " sulphonamide drugs",
+      " detoxification therapy",
+      " hyposensitising therapy",
+      " antirheumatic drugs",
+      " antibacterial drugs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name which of the following microorganisms that cause sexually transmitted diseases cannot be detected by microscopic examination:",
+    "options": [
+      " mycoplasma genitalis",
+      " pale treponema",
+      " gardnerella",
+      " gonococcus Neisser.",
+      " trichomonas vaginalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Name the most common reason for men with urogenital chlamydia to come to the clinic:",
+    "options": [
+      " chronic urethroprostatitis",
+      " acute urethritis",
+      " acute prostatitis",
+      " acute orchoepididymitis",
+      " acute cystitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the time period for taking urethral material to detect chlamydia:",
+    "options": [
+      " after delayed urination for 3-4 hours",
+      " immediately or 10 minutes after urination",
+      " after preliminary combined provocation",
+      " against the background of purulent discharge",
+      " after urethral massage on the bougie"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the time period for the first PCR control test for chlamydia after treatment:",
+    "options": [
+      " after 1 month",
+      " immediately after the end of antibiotic therapy",
+      " after 10-14 days",
+      " after 2-3 months",
+      " after six months"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "specify the incorrect biological material for laboratory diagnosis of mycoplasmosis and ureaplasmosis in women:",
+    "options": [
+      " conjunctival secretion",
+      " urethral mucosal scraping",
+      " cervical mucosal scraping",
+      " blood serum",
+      " vaginal discharge"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the drug for the treatment of chlamydial and ureaplasma urethritis:",
+    "options": [
+      " sumamed",
+      " ofloxacin",
+      " rovamycin",
+      " claforan",
+      " amoxicillin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Choose the causative agent of urogenital candidiasis:",
+    "options": [
+      " candida albicans",
+      " trichophyton rubrum",
+      " microsporum",
+      " Malasezia furfur",
+      " Epidermophyton"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 34-year-old man consulted a venereologist at a private medical center with complaints of itching and burning of the foreskin. She has been ill for 1.5 months. From the anamnesis: over the past year he has been treated at a tuberculosis clinic for extrapulmonary tuberculosis and is registered. Objectively: whitish coating on the glans penis and foreskin, curd-like discharge. Which of the following diagnoses is most likely?",
+    "options": [
+      "   Candida balanoposthitis",
+      "    Tuberculous balanitis",
+      "    Bacterial balanitis",
+      "   Tuberculous balanoposthitis",
+      "    Gonorrheal balanitis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 47-year-old man consulted a dermatovenerologist with complaints of rashes in the genital area, burning, and soreness. Similar rashes have appeared before. Denies extramarital sex. Objectively: on the mucous membrane of the labia majora, there are grouped vesicles with serous contents and erosions with polycyclic outlines. Regional lymph nodes are not enlarged. No laboratory tests have been carried out. Which of the following diagnoses is most likely?",
+    "options": [
+      "   Genital herpes",
+      "    Bullous pemphigoid",
+      "    Chancroid",
+      "   True pemphigus",
+      "    Urogenital candidiasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify where the inflammatory process is localised in urogenital candidiasis",
+    "options": [
+      "1) upper layers of the vaginal epithelium ",
+      "2) upper layers of the urethral epithelium;",
+      " 3) deep layers of the vaginal epithelium;",
+      " 4) deep layers of the urethral epithelium.",
+      "5) upper and deep layers of the vaginal epithelium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the diseases caused by urogenital candidiasis in women?",
+    "options": [
+      "2) vulvovaginitis ",
+      "1) vaginosis;",
+      "3) urethritis;",
+      "4) salpingitis",
+      "5) endometriosis."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify which diseases are caused by urogenital candidiasis in men?",
+    "options": [
+      "4) urethritis ",
+      "1) orchitis",
+      "2) epididymitis",
+      "3) prostatitis;",
+      "5) cystitis."
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the group of causative agents of genital herpes",
+    "options": [
+      " viruses",
+      " bacteria",
+      " protozoa",
+      " helminths",
+      " fungi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the incorrect method for laboratory diagnosis of herpetic infection:",
+    "options": [
+      "IFA",
+      "  microscopy",
+      "  culture method",
+      "  PIF",
+      " PCR"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " A 25-year-old man came to see a dermatologist with complaints of painful rashes. During the last 2 years he notes the appearance of manifestations for the eighth time. Objectively: on the head of the penis - grouped vesicles the size of a millet grain with serous content. On the inner sheet of the preputial sac - erosive surface with clear edges, soft on palpation. Which of the listed diseases is characterised by the above picture?",
+    "options": [
+      " genital herpes",
+      " primary syphilis",
+      " herpes zoster",
+      " chancriform pyoderma",
+      " Scabies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Patient 37 years old, applied to a venereologist complaining of soreness, rashes on the head of the penis. From anamnesis: he has been ill for 10 days. Objectively: on the head of the penis there are vesicles with serous content on a swollen, hyperaemic background, polycyclic erosions. Diagnosis: Genital herpes. Choose a remedy for external therapy:",
+    "options": [
+      " Poultice",
+      " Ointment",
+      " Cream",
+      " Paste",
+      " Lacquer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-year-old patient visited a venereologist with complaints of rashes, itching of genitals. From the anamnesis: he had been ill for 5 days, earlier he had the same rashes, this was the 6th relapse within a year. He was treated at the place of residence. Objectively: on the skin of the venous furrow of the penis, grouped vesicles on a hyperaemic base, erosions with festooned edges. Diagnosis: Genital herpes. Recurrent form. Which of the following vaccines is used to prevent subsequent recurrences?",
+    "options": [
+      " Antiviral ",
+      " Anti-staphylococcal ",
+      " Anti-Tuberculosis   ",
+      " Anti-tetanus ",
+      " Antitrichomonadal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the dosage of Fluconazole in the treatment of acute urogenital candidiasis?",
+    "options": [
+      " 150 mg once",
+      " 150 mg once for 3 days;",
+      " 250 mg once;",
+      " 250 mg once for 3 days",
+      "  50mg once"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the drugs used in the maintenance therapy of urogenital candidiasis?",
+    "options": [
+      " Clotrimazole",
+      " Josamycin;",
+      " Itraconazole;",
+      "  Amoxicillin",
+      " Ofloxacin."
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the tactics of treatment of urogenital candidiasis in pregnant women in the 1st trimester?",
+    "options": [
+      "  Natamycin vaginal suppositories 100 mg once a day for 6 days.",
+      " Clotrimazole vaginal tablet 100 mg once a day before bedtime for 10 days;",
+      " Clotrimazole vaginal tablet 100 mg once daily before bedtime for 7 days;",
+      " Natamycin vaginal suppositories 100 mg once daily for 10 days;",
+      " Nystatin vaginal suppositories 1 time per day for 6 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the tactics of treatment of urogenital candidiasis in pregnant women in the 2nd trimester?",
+    "options": [
+      " Natamycin vaginal suppositories 100 mg once a day for 6 days.",
+      " Clotrimazole vaginal tablet 100 mg once a day before bedtime for 10 days;",
+      " Clotrimazole vaginal tablet 100 mg once daily before bedtime for 7 days;",
+      " Natamycin vaginal suppositories 100 mg once daily for 10 days;",
+      " Nystatin vaginal suppositories 1 time per day for 6 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Name the criteria for assessing the quality of medical care for patients with urogenital candidiasis?",
+    "options": [
+      "  microscopic examination",
+      "  general blood analysis ",
+      "  ultrasound examination of pelvic organs",
+      "  prescription of immunomodulatory therapy;",
+      "  instrumental examination;"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify a preventive measure aimed at actively identifying hidden sources of infection of sexually transmitted diseases:",
+    "options": [
+      " medical examinations",
+      " treatment of patients",
+      " examination of patients",
+      " vaccination",
+      " sanitary educational work"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the cause of the \"lower abdominal pain\" syndrome:",
+    "options": [
+      " chlamydia",
+      " soft chancre",
+      " syphilis",
+      " donovanosis",
+      " leprosy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify what does not cause scrotal oedema syndrome:",
+    "options": [
+      " genital herpes",
+      " gonorrhoea",
+      " chlamydia",
+      " trauma",
+      " mycoplasmosis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the causative agent of venereal lymphogranuloma:",
+    "options": [
+      " Chlamydia trachomatis (serotypes L1, L2, L3)",
+      " Streptobacillus Ducreyi.",
+      " Donovan's corpuscles",
+      " pale treponema",
+      " candida"
+    ],
+    "answer": 0
+  },
+  {
+    "question": " Specify the social factors that do not influence STD transmission:",
+    "options": [
+      " gender, age",
+      "refusal of personal protective equipment (condom, etc.)",
+      " untimely initiation of STI treatment",
+      " interruption of treatment",
+      " sexual partners are not involved in treatment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Specify the earliest time for detection of HIV antibodies:",
+    "options": [
+      " two weeks",
+      " one month",
+      " two months",
+      " three weeks",
+      " one week"
+    ],
+    "answer": 0
+  }
+]
