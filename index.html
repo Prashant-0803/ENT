@@ -2,30 +2,46 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Multi-Subject Quiz</title>
+  <title>Neurology & ENT Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-  <h2>Select Your Subject</h2>
+  <h2>Neurology / ENT Practice Quiz</h2>
 
-  <div class="subject-list">
-    <button onclick="startQuiz('ent.json')">ENT</button>
-    <button onclick="startQuiz('neuro.json')">Neurology</button>
-    <button onclick="startQuiz('ophthalmology.json')">Ophthalmology</button>
-    <button onclick="startQuiz('gynecology.json')">Gynecology</button>
-    <button onclick="startQuiz('dermatology.json')">Dermatology</button>
+  <!-- Question -->
+  <div id="questionBox"></div>
+
+  <!-- Options -->
+  <div id="optionsBox"></div>
+
+  <!-- Navigation Buttons -->
+  <div class="nav">
+    <button onclick="prevQ()">Back</button>
+    <button onclick="nextQ()">Next</button>
   </div>
+
+  <!-- Jump to Question (Bottom Center) -->
+  <div class="jump-center">
+    <input type="number" id="jumpInput" placeholder="Enter question number">
+    <button onclick="jumpQ()">Go</button>
+  </div>
+
+  <!-- Footer with Developer Credit & Disclaimer -->
+  <hr>
+  <div class="footer">
+    <p><strong>Developed By Gujrat Buddy</strong></p>
+    <p>Officially Created By <strong>Prashant Vala</strong></p>
+    <p class="disclaimer">
+      Disclaimer: This does not represent official Question & Answer.
+      The Developer is not responsible for any dispute.
+    </p>
+  </div>
+
 </div>
 
-<script>
-function startQuiz(subjectFile) {
-  localStorage.setItem('subjectFile', subjectFile);
-  window.location.href = "quiz.html";
-}
-</script>
-
+<script src="script.js"></script>
 </body>
 </html>
