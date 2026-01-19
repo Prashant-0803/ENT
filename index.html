@@ -1,44 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Neurology & ENT Quiz</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<title>Multi-Subject Quiz</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-  <h2>Neurology / ENT Practice Quiz</h2>
 
-  <!-- Question -->
-  <div id="questionBox"></div>
+  <!-- SUBJECT LIST -->
+  <div id="subjectScreen">
+    <h1>Multi-Subject Quiz</h1>
 
-  <!-- Options -->
-  <div id="optionsBox"></div>
-
-  <!-- Navigation Buttons -->
-  <div class="nav">
-    <button onclick="prevQ()">Back</button>
-    <button onclick="nextQ()">Next</button>
+    <button class="subject-btn" data-subject="ent">ENT</button>
+    <button class="subject-btn" data-subject="neuro">Neurology</button>
+    <button class="subject-btn" data-subject="ophthalmology">Ophthalmology</button>
+    <button class="subject-btn" data-subject="gynecology">Gynecology</button>
+    <button class="subject-btn" data-subject="dermatology">Dermatology</button>
   </div>
 
-  <!-- Jump to Question (Bottom Center) -->
-  <div class="jump-center">
-    <input type="number" id="jumpInput" placeholder="Enter question number">
-    <button onclick="jumpQ()">Go</button>
+  <!-- QUIZ SCREEN -->
+  <div id="quizScreen" style="display:none;">
+    <h2 id="title"></h2>
+    <p id="questionText"></p>
+    <div id="options"></div>
+
+    <div class="nav">
+      <button onclick="prevQuestion()">Back</button>
+      <button onclick="nextQuestion()">Next</button>
+    </div>
+
+    <div class="jump">
+      <input type="number" id="jumpInput" placeholder="Enter question number">
+      <button onclick="jumpTo()">Go</button>
+    </div>
   </div>
 
-  <!-- Footer with Developer Credit & Disclaimer -->
-  <hr>
-  <div class="footer">
-    <p><strong>Developed By Gujrat Buddy</strong></p>
-    <p>Officially Created By <strong>Prashant Vala</strong></p>
-    <p class="disclaimer">
-      Disclaimer: This does not represent official Question & Answer.
-      The Developer is not responsible for any dispute.
-    </p>
+  <!-- RESULT SCREEN -->
+  <div id="resultScreen" style="display:none;">
+    <h2>Result Summary</h2>
+    <p id="resultStats"></p>
+    <div id="wrongList"></div>
+
+    <button class="subject-btn" onclick="restart()">Restart</button>
   </div>
+
+  <footer>Created by <strong>Prashant Vala</strong></footer>
 
 </div>
 
