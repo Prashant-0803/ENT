@@ -1,91 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Medical Quiz</title>
-
-<style>
-body {
-  font-family: Arial, sans-serif;
-  background: #f4f6f8;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-}
-
-h2 { text-align: center; }
-
-select {
-  padding: 6px;
-  font-size: 16px;
-}
-
-.question-box {
-  background: white;
-  padding: 20px;
-  margin-top: 15px;
-  border-radius: 6px;
-}
-
-.options button {
-  display: block;
-  width: 100%;
-  margin: 8px 0;
-  padding: 10px;
-  cursor: pointer;
-}
-
-.nav {
-  text-align: center;
-  margin-top: 15px;
-}
-
-footer {
-  text-align: center;
-  margin-top: 40px;
-  padding: 15px;
-  background: #222;
-  color: #ccc;
-  font-size: 13px;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>Neurology & ENT Quiz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
 <div class="container">
-  <h2>Medical Quiz Practice</h2>
+  <h2>Neurology / ENT Practice Quiz</h2>
 
-  <center>
-    <select id="subjectSelect" onchange="loadSubject()">
-      <option value="neurology.json">Neurology</option>
-      <option value="ent.json">ENT</option>
-      <option value="dermatology.json">Dermatology</option>
-      <option value="obg.json">OBG</option>
-      <option value="ophthalmology.json">Ophthalmology</option>
-    </select>
-  </center>
+  <!-- Question -->
+  <div id="questionBox"></div>
 
-  <div class="question-box">
-    <div id="questionText"></div>
-    <div class="options" id="optionsBox"></div>
-  </div>
+  <!-- Options -->
+  <div id="optionsBox"></div>
 
+  <!-- Navigation Buttons -->
   <div class="nav">
-    <button onclick="prevQuestion()">Previous</button>
-    <button onclick="nextQuestion()">Next</button>
+    <button onclick="prevQ()">Back</button>
+    <button onclick="nextQ()">Next</button>
   </div>
-</div>
 
-<footer>
-Developed By Gujrat Buddy (Officially creator By Prashant Vala)<br>
-Disclaimer: This does not represent official Question & Answer and Developer Not Responsible For Any Dispute
-</footer>
+  <!-- Jump to Question (Bottom Center) -->
+  <div class="jump-center">
+    <input type="number" id="jumpInput" placeholder="Enter question number">
+    <button onclick="jumpQ()">Go</button>
+  </div>
+
+  <!-- Footer with Developer Credit & Disclaimer -->
+  <hr>
+  <div class="footer">
+    <p><strong>Developed By Gujrat Buddy</strong></p>
+    <p>Officially Created By <strong>Prashant Vala</strong></p>
+    <p class="disclaimer">
+      Disclaimer: This does not represent official Question & Answer.
+      The Developer is not responsible for any dispute.
+    </p>
+  </div>
+
+</div>
 
 <script src="script.js"></script>
 </body>
