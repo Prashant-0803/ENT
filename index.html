@@ -1,39 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Multi-Subject Quiz</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
 <div class="container">
-  <h2>Multi-Subject Quiz</h2>
 
-  <!-- Question -->
-  <div id="questionBox"></div>
+  <!-- SUBJECT SELECTION -->
+  <div id="subjectScreen">
+    <h1>Multi-Subject Quiz</h1>
 
-  <!-- Options -->
-  <div id="optionsBox"></div>
-
-  <!-- Navigation Buttons -->
-  <div class="nav">
-    <button onclick="prevQ()">Back</button>
-    <button onclick="nextQ()">Next</button>
+    <button class="subject-btn" data-subject="ent">ENT</button>
+    <button class="subject-btn" data-subject="neuro">Neurology</button>
+    <button class="subject-btn" data-subject="ophthalmology">Ophthalmology</button>
+    <button class="subject-btn" data-subject="gynecology">Gynecology</button>
+    <button class="subject-btn" data-subject="dermatology">Dermatology</button>
   </div>
 
-  <!-- Jump to Question (Bottom Center) -->
-  <div class="jump-center">
-    <input type="number" id="jumpInput" placeholder="Enter question number">
-    <button onclick="jumpQ()">Go</button>
+  <!-- QUIZ SCREEN -->
+  <div id="quizScreen" style="display:none;">
+    <h2 id="questionText"></h2>
+
+    <div id="options"></div>
+
+    <div class="nav-buttons">
+      <button onclick="prevQuestion()">Back</button>
+      <button onclick="nextQuestion()">Next</button>
+    </div>
+
+    <div class="jump">
+      <input type="number" id="jumpInput" placeholder="Enter question number">
+      <button onclick="jumpTo()">Go</button>
+    </div>
   </div>
 
-  <!-- Footer -->
-  <hr>
-  <div class="footer">
-    <p>Created by <strong>Prashant Vala</strong></p>
-  </div>
+  <footer>
+    Created by <strong>Prashant Vala</strong>
+  </footer>
 
 </div>
 
