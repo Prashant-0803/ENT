@@ -59,14 +59,7 @@ function prevQuestion() {
   }
 }
 
-function jumpTo() {
-  const num = parseInt(document.getElementById("jumpInput").value);
-  if (num >= 1 && num <= questions.length) {
-    currentIndex = num - 1;
-    loadQuestion();
-  }
-}
-
 function shuffleArray(arr) {
   return [...arr].sort(() => Math.random() - 0.5);
 }
+
